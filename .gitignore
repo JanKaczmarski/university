@@ -7,9 +7,11 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+*/.DS_Store
 */.DS_store
 */.idea
 */.gitignore.swp
+*/__pycache__
 
 # Local History for Visual Studio Code
 */.history/
