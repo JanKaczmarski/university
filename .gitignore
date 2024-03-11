@@ -1,21 +1,29 @@
+# IDE's
 *.c.swp
 */.idea
-*/homework
-*/screeny
-*/lesson-files
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
-
-.DS_store
-.idea
+*/.DS_store
+*/.idea
+*/.gitignore.swp
 
 # Local History for Visual Studio Code
-.history/
+*/.history/
 
 # Built Visual Studio Code Extensions
 *.vsix
-bin
+
+# Local file structure
+*/notes.txt
+*/wyklad
+*/homework
+*/screeny
+*/lesson-files
+*/bin
+*/archive
+
+
