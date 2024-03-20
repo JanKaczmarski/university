@@ -1,59 +1,90 @@
+# Jan Kaczmarski
+# Na początku posortuj wycinek z0 za pomocą quicksorta
+# Nastepnie w petli dodajemy i usuwamy zmieniajace sie elementy
+# Wyszukujemy indeksy na ktorych powinny sie znalez za pomoca binary_search
+# I nastepnie ze zmienionego kawalka zi na zi+1 bierzemy k-ty najwiekszy
+# element i dodajemy go do sumy
+# time complexity = O(n^2)
+
 from zad2testy import runtests
 
-def k_th(T, diff):
-    # TIME COMPLEXITY O(n)
-    # diff means p - k
-    cnt = 0
-    while cnt < diff:
-        mini = min(T)
-        if cnt == diff - 1:
-            k_next = mini
-        T.remove(mini)
-        cnt += 1
-            
-    
+def quicksort(T, p, r):
+    # s imituje stos
+    # na stosie umieszczam zadania do wykonania
+    s = []
+    s.append((p, r))
 
-    return [min(T), k_next]
-    
-            
+    # dopuki cokolwiek na stosie wykonuj  
+    while len(s) != 0:
+        # get p and r from stack
+        p, r = s.pop()
+        # get pivot
+        q = partition(T , p, r)
 
-def ksum(T, k, p):
-    # get status of first chunk, z0
-    # status = [i-th element, k-th element]
-    diff = p - k
-    status = [T[0]] + k_th( T[:p], diff )
-    n = len(T)
-    sol = status[1]
-    
-    for i in range(1, n-p + 1):    
-        last = T[i + p - 1]
-        if last >= status[1] and status[0] >= last:
-            sol += status[1]
-        #elif last < status[0] and last < status[1]:
+        # jesli chunk nie jest pusty to dodaj na stos
+        if p < q-1:
+            s.append((p,q-1))
+        if q + 1 < r:
+            s.append((q + 1, r))
+
+
+def partition(A, p, r):
+    x = A[r]
+    i = p-1
+    for j in range(p, r):
+        if A[j] <= x:
+            i += 1
+            A[i], A[j] = A[j], A[i]
+
+    A[i + 1], A[r] = A[r], A[i + 1]
+
+    return i + 1
+
+
+def bin_s(T, x):
+    high = len(T) - 1
+    low = 0
+    mid = 0
+    while low <= high:
+        mid = (low + high)//2
+        if T[mid] < x:
+            low = mid + 1
+        elif T[mid] > x:
+            high = mid - 1
         else:
-            status = [T[i]] + k_th( T[i: i + p], diff )
-            sol += status[1]
-        status[0] = T[i]    
-           
+            return mid
+    
+    return low
+        
+        
+def ksum(T, k, p):
+    n = len(T)
+    # create slice that we'll be operating on
+    z = T
+    z = z[:p]
+    # sort this slice to easily find k-th elem
+    # time complexity is constant
+    quicksort(z, 0, len(z) - 1)
+    sol = z[-k]
+    for i in range(1, n - p + 1):
+        # remove and add changing elements
+        # values
+        to_del = T[i - 1]
+        to_add = T[i + p - 1]
+        # indx
+        rmi = bin_s(z, to_del)
+        
+        # remove elem from list - O(n)
+        del z[rmi]
+        addi = bin_s(z, to_add)
+        # add to list - O(n)
+        z[addi:addi] = [to_add]
+        
+        # add k-th elem to sol
+        sol += z[-k]
+        
     return sol
 
 
 # zmien all_tests na True zeby uruchomic wszystkie testy
-runtests( ksum, all_tests=True )
-
-#print(ksum([7,9,1,5,8,6,2,12], 4, 5))
-
-
-"""
-Zapisac zmieniajace sie wartosci
-Wysłano
-Czyli i zamienia sie na p + i + 1
-Wysłano
-I mize jeszcze k-ty epement w przedziale
-Wysłano
-I 3 ify ?
-Wysłano
-Czyli funkcja dostaje liste i ty, k-1, k ty, k+1, 
-
-I porownujemy z nowym elementem
-"""
+runtests(ksum, all_tests=True)
