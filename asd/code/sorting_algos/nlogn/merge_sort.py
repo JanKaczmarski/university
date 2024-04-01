@@ -1,4 +1,8 @@
-from support import Node
+class Node:
+    def __init__(self, val=None):
+        self.val = val
+        self.next = None
+
 
 def n_series(L):
     guard = Node()

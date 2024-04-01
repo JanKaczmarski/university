@@ -1,146 +1,85 @@
 from zad3testy import runtests
 
 
-def quicksort(T, p, r, z):
-    # s imituje stos
-    # na stosie umieszczam zadania do wykonania
-    s = []
-    s.append((p, r))
-
-    # dopuki cokolwiek na stosie wykonuj
-    while len(s) != 0:
-        # get p and r from stack
-        p, r = s.pop()
-        # get pivot
-        q = partition(T, p, r, z)
-
-        # jesli chunk nie jest pusty to dodaj na stos
-        if p < q-1:
-            s.append((p, q-1))
-        if q + 1 < r:
-            s.append((q + 1, r))
-
-
-def partition(A, p, r, z):
-    x = A[r]
-    i = p-1
-    for j in range(p, r):
-        if A[j][z] <= x[z]:
-            i += 1
-            A[i], A[j] = A[j], A[i]
-
-    A[i + 1], A[r] = A[r], A[i + 1]
-
-    return i + 1
-
-# can try using k to get undecided elements
-# but i will try to sort and then check how many dominated by A[-1]
-
-def s_d_partition(A, p, r):
-    x = A[r]
-    i = p-1
-    for j in range(p, r):
-        # A[j] > x -> False
-        # A[j] < x -> True
-        # d_state = is_dominering(A[j], x)
-        # if A[j] is dominated by pivot
-        if A[j][0] <= x[0]:
-            i += 1
-            A[i], A[j] = A[j], A[i]
-
-    A[i + 1], A[r] = A[r], A[i + 1]
-
-    return i + 1
-
-
-def f_d_partition(A, p, r):
-    x = A[r]
-    i = p-1
-    for j in range(p, r):
-        # A[j] > x -> False
-        # A[j] < x -> True
-        d_state = is_dominering(A[j], x)
-        # d_state = is_dominering(A[j], x)
-        # if A[j] is dominated by pivot
-        if A[j][0] <= x[0]:
-            i += 1
-            A[i], A[j] = A[j], A[i]
-
-    A[i + 1], A[r] = A[r], A[i + 1]
-
-    return i + 1
-
-def d_partition(A, p, r):
-    x = A[r]
-    i = p-1
-    for j in range(p, r):
-        # A[j] > x -> False
-        # A[j] < x -> True
-        d_state = is_dominering(A[j], x)
-        # d_state = is_dominering(A[j], x)
-        # if A[j] is dominated by pivot
-        if d_state == True:
-            i += 1
-            A[i], A[j] = A[j], A[i]
-        elif d_state == None:
-
-    A[i + 1], A[r] = A[r], A[i + 1]
-
-    return i + 1
-
-
-def d_sort(T, p, r):
-    # s imituje stos
-    # na stosie umieszczam zadania do wykonania
-    s = []
-    s.append((p, r))
-
-    # dopuki cokolwiek na stosie wykonuj
-    while len(s) != 0:
-        # get p and r from stack
-        p, r = s.pop()
-        # get pivot
-        q = d_partition(T, p, r)
-
-        # jesli chunk nie jest pusty to dodaj na stos
-        if p < q-1:
-            s.append((p, q-1))
-        if q + 1 < r:
-            s.append((q + 1, r))
-
-
-def is_dominering(a, b):
+def c_sort(T, p, m):
     """
-    is b dominering a
+    T = [(2,3), (11,5), (6,93), ...]    
+    m -> possible max(T)
+    p -> sort by which element in array
+    """
+    n = len(T)
+    C = [0 for _ in range(m + 1)]
+    for el in T:
+        C[el[p]] += 1
+
+    for i in range(1, m + 1):
+        C[i] += C[i - 1]
+    B = [None] * n
+
+    for i in range(n-1, -1, -1):
+        x = T[i][p]
+        pos = C[x] - 1
+        B[pos] = T[i]
+        C[x] -= 1
+    
+
+    return B
+
+def get_max(T):
+    max0 = max1 = 0
+    for el in T:
+        max0 = max(max0, el[0])
+        max1 = max(max1, el[1])
+    return max0, max1
+
+def is_dominant(a, b):
+    """
+    is a dominating b
+    if a > b -> True
+    if b > a -> False
+    undefined -> None
     """
     if a[0] > b[0] and a[1] > b[1]:
-        return False
-    elif a[0] < b[0] and a[1] < b[1]:
         return True
+    elif a[0] < b[0] and a[1] < b[1]:
+        return False
     return None
 
+def cnt(T, d, idx):
+    sol = idx
+    for i in range(idx - 1, -1, -1):
+        if is_dominant(d, T[i]) is None:
+            sol -= 1
+    return sol
 
 def dominance(P):
     n = len(P)
-    d_sort(P, 0, n - 1)
+    max0, max1 = get_max(P)
+    P = c_sort(P, 1, max1)
+    P = c_sort(P, 0, max0)
+
+    poss_d = []
     dominant = P[-1]
-    sol = n - 1
-    print(P)
+    sol = 0
     for i in range(n - 1, -1, -1):
-        status = is_dominering(P[i], dominant)
-        if status == None and is_bigger(dominant, P[i]):
-            sol -= 1
-        # We have met actuall dominant 
-        elif status == False:
-            dominant = P[i]
+        status = is_dominant(dominant, P[i])
+        if status is None:
+            poss_d.append((P[i], i))
+        if status:
+            break
+    for d in poss_d:
+        sol = max(sol, cnt(P, d[0], d[1]))
+            
     return sol
+    
 
 # zmien all_tests na True zeby uruchomic wszystkie testy
-# runtests( dominance, all_tests = True )
+runtests( dominance, all_tests = True )
 
 
-if __name__ == '__main__':
-    print(dominance([(2, 7), (6, 7), (6, 3), (10, 9), (2, 3), (10, 5), (10, 1)]))
+#if __name__ == '__main__':
+    #T = [(1, 3), (3, 4), (4, 2), (2, 2)]
+    #print(dominance(T))
     #print(dominance([(2, 4), (2, 1), (5, 5), (6, 4), (1, 2)]))
     
 
