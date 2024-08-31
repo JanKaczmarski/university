@@ -73,7 +73,6 @@ def sort(L):
 
 """
 2. Array merge_sort
-DOESN'T WORK !!!!
 """
 
 def mergeSort(A, left, right):
@@ -81,7 +80,7 @@ def mergeSort(A, left, right):
     def merge(A, left, mid, right):
         # lengths of each part Left and Right
         len1 = mid - left + 1
-        len2 = mid - right
+        len2 = right - mid
         # Get slice for left part and right part
         left_a = A[left:mid+1]
         right_a = A[mid+1:right+1]

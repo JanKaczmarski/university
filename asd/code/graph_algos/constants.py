@@ -1,0 +1,44 @@
+## Names for methods used in graphs_data.py
+BELLMAN_FORD = 'bellman_ford'
+FLOYD_WARSHALL = 'floyd_warshall'
+
+POSS_GRAPH_REPR_GLOBAL = ('l', 'm', 'e')
+POSS_GRAPH_REPR_PER_METHOD = {
+    BELLMAN_FORD : ('l',),
+    FLOYD_WARSHALL: ('l',)
+}
+
+
+# adjacency LIST graphs
+LIST_SMALL_UNDIRECTED_GRAPHS = [
+    
+]
+
+LIST_SMALL_DIRECTED_GRAPHS = [
+    
+]
+
+LIST_SMALL_WEIGHTED_UNDIRECTED_GRAPHS = [
+    
+]
+
+LIST_SMALL_WEIGHTED_DIRECTED_GRAPHS = [
+    
+]
+
+# adjacency MATRIX graphs
+MATRIX_SMALL_UNDIRECTED_GRAPHS = [
+    
+]
+
+MATRIX_SMALL_DIRECTED_GRAPHS = [
+    
+]
+
+MATRIX_SMALL_WEIGHTED_UNDIRECTED_GRAPHS = [
+    
+]
+
+MATRIX_SMALL_WEIGHTED_DIRECTED_GRAPHS = [
+    
+]
