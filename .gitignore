@@ -65,3 +65,9 @@ l10n/
 */bin
 */archive
 
+__pycache__
+train/
+.idea/
+dist/
+*.egg-info
+bitalg/visualizer/*
