@@ -70,4 +70,3 @@ train/
 .idea/
 dist/
 *.egg-info
-geom-alg/bitalg/visualizer/*
