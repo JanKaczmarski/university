@@ -1,0 +1,21 @@
+CourseID,CourseName,CourseDescription,CoursePrice,EmployeeID,CourseDurationID
+1,Python Programming Basics,Learn the basics of Python programming in this introductory course. Master fundamental syntax and programming techniques.,17800,69,29
+2,Advanced Excel,Unlock the full potential of Excel with advanced formulas and tools. Learn to analyze data effectively.,10200,12,15
+3,Project Management Essentials,"Discover the fundamentals of successful project management. Learn planning, execution, and team management techniques.",6300,93,35
+4,Digital Marketing Strategies,"Understand how to create impactful digital marketing campaigns. Explore SEO, social media, and email marketing.",12300,9,29
+5,Public Speaking Skills,Enhance your confidence and clarity in public speaking. Master the art of engaging presentations.,22700,26,12
+6,Basics of Web Development,"Learn the core technologies behind websites, including HTML, CSS, and JavaScript. Build your first web pages.",46300,10,18
+7,Data Science Introduction,"Dive into the world of data science. Learn data analysis, visualization, and introductory machine learning.",12300,80,25
+8,Creative Writing Workshop,"Develop your creative writing skills in this interactive workshop. Explore storytelling, poetry, and more.",27600,7,45
+9,Graphic Design Fundamentals,Learn the principles of graphic design using modern tools. Create visually appealing designs for various media.,41700,53,41
+10,AI and Machine Learning Basics,Understand the fundamentals of AI and machine learning. Explore real-world applications and techniques.,19400,37,16
+11,Cybersecurity Essentials,Learn how to protect systems and data from cyber threats. Gain foundational knowledge in cybersecurity principles.,26800,17,22
+12,Introduction to Blockchain,Explore the basics of blockchain technology. Understand its applications in cryptocurrencies and beyond.,18500,30,33
+13,Photography for Beginners,"Master the essentials of photography, from camera settings to composition. Capture stunning images.",26300,51,50
+14,Social Media Marketing,Learn to leverage social media platforms for marketing. Create strategies for audience engagement.,35700,62,38
+15,Time Management Tips,Improve your productivity with effective time management techniques. Learn to prioritize and plan efficiently.,39700,63,56
+16,Introduction to SQL,Learn to manage and query databases using SQL. Gain hands-on experience with real-world scenarios.,30000,26,48
+17,Financial Planning Basics,Understand personal finance and budgeting. Learn to create a financial plan for long-term success.,46200,28,14
+18,Basics of Video Editing,"Edit videos like a pro with industry-standard tools. Learn cutting, transitions, and effects.",24100,38,23
+19,Mobile App Development,Discover how to create mobile apps for Android and iOS. Learn the fundamentals of app development.,15800,81,55
+20,Interior Design Essentials,Explore the principles of interior design. Learn to create aesthetically pleasing and functional spaces.,29500,59,7
