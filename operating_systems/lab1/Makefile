@@ -1,15 +1,31 @@
 CC=gcc
-CFLAGS=-c -Wall -std=c17
+CFLAGS=-c -Wall
+LDFLAGS=
+BINARIES=countdown
+BIN_DIR=bin
+BUILD_DIR=build
 
 .PHONY: all
-all: countdown.o
+all: countdown
 
-.PHONY: countdown.o
-countdown.o: countdown.c
-	$(CC) $(CFLAGS) -c countdown.c
+# | - specify that depndency must exist before target is build, but
+# isn't target isn't rebuilded (in this case countdown) when | dependency changes
+countdown: countdown.o | $(BIN_DIR)
+	$(CC) $(LDFLAGS) $(BUILD_DIR)/$< -o $(BIN_DIR)/$@
+
+# $< is macro for getting first dependecy
+# $@ is macro for getting target name
+countdown.o: countdown.c | $(BUILD_DIR)
+	$(CC) $(CFLAGS) $< -o $(BUILD_DIR)/$@
+
+$(BUILD_DIR):
+	mkdir -p $@
+
+$(BIN_DIR):
+	mkdir -p $@
 
 .PHONY: clean
 clean:
+	rm -r $(BIN_DIR)
 	find . -name "*.o" -type f -delete
-
 

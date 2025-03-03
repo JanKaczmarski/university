@@ -27,7 +27,7 @@ cucumber-report.json
 **/.vscode-test/**
 **/.vscode test/**
 **/.vscode-smoke/**
-**/.venv*/
+**/*venv*/
 port.txt
 precommit.hook
 python_files/lib/**
@@ -55,6 +55,10 @@ dist/**
 *.xlf
 package.nls.*.json
 l10n/
+
+# PNG files, and other images
+**/*.png**
+**/*.gif**
 
 # Local file structure
 */notes.txt
