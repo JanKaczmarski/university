@@ -1,4 +1,7 @@
 import dimacs
+from os import listdir
+from os.path import isfile, join
+import time
 
 def find(x, par):
   if x != par[x]:
@@ -8,6 +11,8 @@ def find(x, par):
 def union(x, y, par, rank):
   x = find(x, par)
   y = find(y, par)
+  if x == y:
+    return
   if rank[x] > rank[y]:
     par[y] = x
   else:
@@ -16,25 +21,27 @@ def union(x, y, par, rank):
       rank[y] += 1
 
 def widest_path(edges, n, s, t):
-  edges.sort(reverse=True)
+  edges.sort(key=lambda x: x[2] ,reverse=True)
   rank = [0 for _ in range(n)]
   par = [i for i in range(n)]
-  # drzewo do kiedy rank[s] != rank[t]
-  i = 0
-  while par[s] != par[t]:
-    u, v, w = edges[i]
-    if find(u, par) != find(v, par):
-      union(u, v, par, rank)
-    i += 1
-  return w
+  for u, v, w in edges:
+    union(u, v, par, rank)
+    if find(s, par) == find(t,par):
+      return w
+
+  return -1
+
 
 def main():
-  # L - edges are from 0 to V-1
-  V, L = dimacs.loadWeightedGraph("graphs-lab1/path10")
-  print("Input edges: {0}".format(L))
-  print("Number of vertexes: {0}".format(V))
-  print("Widest Path: {0}".format(widest_path(L, V, 0, V-1)))
-  return None
+  # vertexes are numbererd from 1 to V inclusive
+  tests = [join("graphs", f) for f in listdir("graphs") if isfile(join("graphs", f))]
+  for test in tests:
+    V, L = dimacs.loadWeightedGraph(test)
+    out = widest_path(L, V + 1, 1, V)
+    print(f"***Test {test}***") 
+    print("Widest Path: ", out)
+    print("Solution: ", dimacs.readSolution(test))
+    print("Test passed: ", int(out) == int(dimacs.readSolution(test)))
 
 
 if __name__ == '__main__':

@@ -52,7 +52,7 @@ def loadWeightedGraph( name ):
     elif( s[0] == "p" ):
       V = int(s[2])
     elif( s[0] == "e" ):
-      (a,b,c) = (int(s[1]) - 1, int(s[2]) - 1, int(s[3]))
+      (a,b,c) = (int(s[1]), int(s[2]), int(s[3]))
       (x,y,c) = (min(a,b), max(a,b), c)
       L.append((x,y,c))
 
