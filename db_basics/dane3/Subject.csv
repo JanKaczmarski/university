@@ -1,0 +1,1761 @@
+SubjectID,SubjectName,SubjectDescription,EmployeeID,SemesterNumber,StudiesID
+1,Applied Philosophy,Applied Philosophy is a course designed to deepen understanding.,78,1,1
+2,Computational Chemistry,Computational Chemistry is a course designed to deepen understanding.,86,1,1
+3,Theoretical Data Structures,Theoretical Data Structures is a course designed to deepen understanding.,35,1,1
+4,Computational Biomechanics,Computational Biomechanics is a course designed to deepen understanding.,89,1,1
+5,Fundamentals of Artificial Intelligence,Fundamentals of Artificial Intelligence is a course designed to deepen understanding.,68,1,1
+6,Advanced Quantum Physics,Advanced Quantum Physics is a course designed to deepen understanding.,20,1,1
+7,Computational Human-Computer Interaction,Computational Human-Computer Interaction is a course designed to deepen understanding.,38,2,1
+8,Theoretical Algorithms,Theoretical Algorithms is a course designed to deepen understanding.,78,2,1
+9,Modern Digital Marketing,Modern Digital Marketing is a course designed to deepen understanding.,29,2,1
+10,Experimental Digital Marketing,Experimental Digital Marketing is a course designed to deepen understanding.,50,2,1
+11,Fundamentals of Genetic Engineering,Fundamentals of Genetic Engineering is a course designed to deepen understanding.,94,2,1
+12,Experimental Technical Writing,Experimental Technical Writing is a course designed to deepen understanding.,63,3,1
+13,Modern Introduction to Programming,Modern Introduction to Programming is a course designed to deepen understanding.,6,3,1
+14,Fundamentals of Introduction to Programming,Fundamentals of Introduction to Programming is a course designed to deepen understanding.,45,3,1
+15,Computational Mathematics,Computational Mathematics is a course designed to deepen understanding.,95,3,1
+16,Applied Data Structures,Applied Data Structures is a course designed to deepen understanding.,29,4,1
+17,Fundamentals of Statistics,Fundamentals of Statistics is a course designed to deepen understanding.,8,4,1
+18,Modern Quantum Physics,Modern Quantum Physics is a course designed to deepen understanding.,56,4,1
+19,Applied Biomechanics,Applied Biomechanics is a course designed to deepen understanding.,16,4,1
+20,Theoretical Astrophysics,Theoretical Astrophysics is a course designed to deepen understanding.,31,5,1
+21,Advanced Ethics,Advanced Ethics is a course designed to deepen understanding.,46,5,1
+22,Theoretical Data Structures,Theoretical Data Structures is a course designed to deepen understanding.,19,5,1
+23,Applied Economics,Applied Economics is a course designed to deepen understanding.,94,5,1
+24,Experimental Philosophy,Experimental Philosophy is a course designed to deepen understanding.,55,6,1
+25,Theoretical Quantum Physics,Theoretical Quantum Physics is a course designed to deepen understanding.,84,6,1
+26,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,39,6,1
+27,Advanced Human-Computer Interaction,Advanced Human-Computer Interaction is a course designed to deepen understanding.,57,6,1
+28,Modern Human-Computer Interaction,Modern Human-Computer Interaction is a course designed to deepen understanding.,46,7,1
+29,Computational Philosophy,Computational Philosophy is a course designed to deepen understanding.,25,7,1
+30,Applied Digital Marketing,Applied Digital Marketing is a course designed to deepen understanding.,73,7,1
+31,Modern Ethics,Modern Ethics is a course designed to deepen understanding.,63,7,1
+32,Theoretical Thermodynamics,Theoretical Thermodynamics is a course designed to deepen understanding.,66,1,2
+33,Fundamentals of Biology,Fundamentals of Biology is a course designed to deepen understanding.,26,1,2
+34,Modern Artificial Intelligence,Modern Artificial Intelligence is a course designed to deepen understanding.,53,1,2
+35,Experimental Cognitive Psychology,Experimental Cognitive Psychology is a course designed to deepen understanding.,97,1,2
+36,Theoretical Biomechanics,Theoretical Biomechanics is a course designed to deepen understanding.,74,1,2
+37,Applied Quantum Physics,Applied Quantum Physics is a course designed to deepen understanding.,83,1,2
+38,Advanced Physics,Advanced Physics is a course designed to deepen understanding.,57,2,2
+39,Experimental Data Structures,Experimental Data Structures is a course designed to deepen understanding.,13,2,2
+40,Computational Thermodynamics,Computational Thermodynamics is a course designed to deepen understanding.,75,2,2
+41,Advanced Ethics,Advanced Ethics is a course designed to deepen understanding.,7,2,2
+42,Computational Network Security,Computational Network Security is a course designed to deepen understanding.,48,2,2
+43,Experimental Data Structures,Experimental Data Structures is a course designed to deepen understanding.,5,3,2
+44,Fundamentals of Marine Biology,Fundamentals of Marine Biology is a course designed to deepen understanding.,29,3,2
+45,Experimental Marine Biology,Experimental Marine Biology is a course designed to deepen understanding.,16,3,2
+46,Applied Quantum Physics,Applied Quantum Physics is a course designed to deepen understanding.,38,3,2
+47,Modern Statistics,Modern Statistics is a course designed to deepen understanding.,53,3,2
+48,Advanced Environmental Policy,Advanced Environmental Policy is a course designed to deepen understanding.,6,4,2
+49,Computational Technical Writing,Computational Technical Writing is a course designed to deepen understanding.,5,4,2
+50,Fundamentals of Algorithms,Fundamentals of Algorithms is a course designed to deepen understanding.,84,4,2
+51,Modern Quantum Physics,Modern Quantum Physics is a course designed to deepen understanding.,81,4,2
+52,Advanced Astrophysics,Advanced Astrophysics is a course designed to deepen understanding.,84,4,2
+53,Advanced Mathematics,Advanced Mathematics is a course designed to deepen understanding.,26,4,2
+54,Computational Marine Biology,Computational Marine Biology is a course designed to deepen understanding.,8,5,2
+55,Modern Economics,Modern Economics is a course designed to deepen understanding.,42,5,2
+56,Fundamentals of Artificial Intelligence,Fundamentals of Artificial Intelligence is a course designed to deepen understanding.,89,5,2
+57,Computational Economics,Computational Economics is a course designed to deepen understanding.,67,5,2
+58,Applied Genetic Engineering,Applied Genetic Engineering is a course designed to deepen understanding.,93,5,2
+59,Advanced Chemistry,Advanced Chemistry is a course designed to deepen understanding.,99,6,2
+60,Experimental Technical Writing,Experimental Technical Writing is a course designed to deepen understanding.,63,6,2
+61,Advanced Statistics,Advanced Statistics is a course designed to deepen understanding.,45,6,2
+62,Theoretical Algorithms,Theoretical Algorithms is a course designed to deepen understanding.,17,6,2
+63,Fundamentals of Mathematics,Fundamentals of Mathematics is a course designed to deepen understanding.,83,6,2
+64,Computational Cognitive Psychology,Computational Cognitive Psychology is a course designed to deepen understanding.,64,7,2
+65,Applied Genetic Engineering,Applied Genetic Engineering is a course designed to deepen understanding.,76,7,2
+66,Applied Mathematics,Applied Mathematics is a course designed to deepen understanding.,27,7,2
+67,Applied Data Structures,Applied Data Structures is a course designed to deepen understanding.,53,7,2
+68,Advanced Mathematics,Advanced Mathematics is a course designed to deepen understanding.,92,7,2
+69,Fundamentals of Biomechanics,Fundamentals of Biomechanics is a course designed to deepen understanding.,55,1,3
+70,Modern Biomechanics,Modern Biomechanics is a course designed to deepen understanding.,9,1,3
+71,Advanced Human-Computer Interaction,Advanced Human-Computer Interaction is a course designed to deepen understanding.,52,1,3
+72,Applied Thermodynamics,Applied Thermodynamics is a course designed to deepen understanding.,23,1,3
+73,Modern Thermodynamics,Modern Thermodynamics is a course designed to deepen understanding.,97,1,3
+74,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,62,1,3
+75,Computational Mathematics,Computational Mathematics is a course designed to deepen understanding.,82,2,3
+76,Theoretical Quantum Physics,Theoretical Quantum Physics is a course designed to deepen understanding.,34,2,3
+77,Advanced Environmental Policy,Advanced Environmental Policy is a course designed to deepen understanding.,93,2,3
+78,Experimental Human-Computer Interaction,Experimental Human-Computer Interaction is a course designed to deepen understanding.,65,2,3
+79,Fundamentals of Ethics,Fundamentals of Ethics is a course designed to deepen understanding.,65,2,3
+80,Computational Artificial Intelligence,Computational Artificial Intelligence is a course designed to deepen understanding.,42,3,3
+81,Fundamentals of Economics,Fundamentals of Economics is a course designed to deepen understanding.,89,3,3
+82,Applied Astrophysics,Applied Astrophysics is a course designed to deepen understanding.,55,3,3
+83,Computational Cognitive Psychology,Computational Cognitive Psychology is a course designed to deepen understanding.,17,3,3
+84,Experimental Introduction to Programming,Experimental Introduction to Programming is a course designed to deepen understanding.,16,4,3
+85,Computational Ethics,Computational Ethics is a course designed to deepen understanding.,81,4,3
+86,Computational Network Security,Computational Network Security is a course designed to deepen understanding.,8,4,3
+87,Modern Cognitive Psychology,Modern Cognitive Psychology is a course designed to deepen understanding.,61,4,3
+88,Modern Network Security,Modern Network Security is a course designed to deepen understanding.,64,5,3
+89,Theoretical Network Security,Theoretical Network Security is a course designed to deepen understanding.,64,5,3
+90,Theoretical Data Structures,Theoretical Data Structures is a course designed to deepen understanding.,16,5,3
+91,Fundamentals of Physics,Fundamentals of Physics is a course designed to deepen understanding.,77,5,3
+92,Computational Computer Science,Computational Computer Science is a course designed to deepen understanding.,70,5,3
+93,Applied Network Security,Applied Network Security is a course designed to deepen understanding.,23,6,3
+94,Computational Physics,Computational Physics is a course designed to deepen understanding.,1,6,3
+95,Modern Biomechanics,Modern Biomechanics is a course designed to deepen understanding.,87,6,3
+96,Experimental Astrophysics,Experimental Astrophysics is a course designed to deepen understanding.,67,6,3
+97,Fundamentals of Economics,Fundamentals of Economics is a course designed to deepen understanding.,94,7,3
+98,Experimental Philosophy,Experimental Philosophy is a course designed to deepen understanding.,83,7,3
+99,Fundamentals of Technical Writing,Fundamentals of Technical Writing is a course designed to deepen understanding.,7,7,3
+100,Applied Cognitive Psychology,Applied Cognitive Psychology is a course designed to deepen understanding.,76,7,3
+101,Theoretical Cognitive Psychology,Theoretical Cognitive Psychology is a course designed to deepen understanding.,70,7,3
+102,Experimental Biology,Experimental Biology is a course designed to deepen understanding.,36,1,4
+103,Advanced Ethics,Advanced Ethics is a course designed to deepen understanding.,33,1,4
+104,Experimental Environmental Policy,Experimental Environmental Policy is a course designed to deepen understanding.,18,1,4
+105,Advanced Statistics,Advanced Statistics is a course designed to deepen understanding.,24,1,4
+106,Fundamentals of Computer Science,Fundamentals of Computer Science is a course designed to deepen understanding.,19,1,4
+107,Applied Human-Computer Interaction,Applied Human-Computer Interaction is a course designed to deepen understanding.,33,2,4
+108,Advanced Mathematics,Advanced Mathematics is a course designed to deepen understanding.,20,2,4
+109,Modern Data Structures,Modern Data Structures is a course designed to deepen understanding.,46,2,4
+110,Experimental Technical Writing,Experimental Technical Writing is a course designed to deepen understanding.,46,2,4
+111,Theoretical Thermodynamics,Theoretical Thermodynamics is a course designed to deepen understanding.,2,2,4
+112,Experimental Philosophy,Experimental Philosophy is a course designed to deepen understanding.,89,2,4
+113,Fundamentals of Thermodynamics,Fundamentals of Thermodynamics is a course designed to deepen understanding.,8,3,4
+114,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,69,3,4
+115,Applied Network Security,Applied Network Security is a course designed to deepen understanding.,59,3,4
+116,Modern Computer Science,Modern Computer Science is a course designed to deepen understanding.,42,3,4
+117,Modern Genetic Engineering,Modern Genetic Engineering is a course designed to deepen understanding.,10,4,4
+118,Applied Data Structures,Applied Data Structures is a course designed to deepen understanding.,49,4,4
+119,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,36,4,4
+120,Applied Marine Biology,Applied Marine Biology is a course designed to deepen understanding.,82,4,4
+121,Advanced Ethics,Advanced Ethics is a course designed to deepen understanding.,9,4,4
+122,Applied Physics,Applied Physics is a course designed to deepen understanding.,68,4,4
+123,Experimental Statistics,Experimental Statistics is a course designed to deepen understanding.,30,5,4
+124,Fundamentals of Technical Writing,Fundamentals of Technical Writing is a course designed to deepen understanding.,8,5,4
+125,Experimental Chemistry,Experimental Chemistry is a course designed to deepen understanding.,14,5,4
+126,Theoretical Technical Writing,Theoretical Technical Writing is a course designed to deepen understanding.,2,5,4
+127,Theoretical Statistics,Theoretical Statistics is a course designed to deepen understanding.,54,6,4
+128,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,55,6,4
+129,Theoretical Genetic Engineering,Theoretical Genetic Engineering is a course designed to deepen understanding.,30,6,4
+130,Advanced Astrophysics,Advanced Astrophysics is a course designed to deepen understanding.,81,6,4
+131,Theoretical Astrophysics,Theoretical Astrophysics is a course designed to deepen understanding.,28,6,4
+132,Modern Statistics,Modern Statistics is a course designed to deepen understanding.,4,6,4
+133,Computational Philosophy,Computational Philosophy is a course designed to deepen understanding.,85,7,4
+134,Experimental Ethics,Experimental Ethics is a course designed to deepen understanding.,56,7,4
+135,Fundamentals of Human-Computer Interaction,Fundamentals of Human-Computer Interaction is a course designed to deepen understanding.,60,7,4
+136,Experimental Algorithms,Experimental Algorithms is a course designed to deepen understanding.,81,7,4
+137,Modern Genetic Engineering,Modern Genetic Engineering is a course designed to deepen understanding.,97,1,5
+138,Fundamentals of Quantum Physics,Fundamentals of Quantum Physics is a course designed to deepen understanding.,25,1,5
+139,Advanced Environmental Policy,Advanced Environmental Policy is a course designed to deepen understanding.,6,1,5
+140,Applied Genetic Engineering,Applied Genetic Engineering is a course designed to deepen understanding.,4,1,5
+141,Experimental Artificial Intelligence,Experimental Artificial Intelligence is a course designed to deepen understanding.,16,2,5
+142,Applied Biology,Applied Biology is a course designed to deepen understanding.,79,2,5
+143,Fundamentals of Chemistry,Fundamentals of Chemistry is a course designed to deepen understanding.,95,2,5
+144,Applied Cognitive Psychology,Applied Cognitive Psychology is a course designed to deepen understanding.,19,2,5
+145,Experimental Human-Computer Interaction,Experimental Human-Computer Interaction is a course designed to deepen understanding.,31,2,5
+146,Modern Marine Biology,Modern Marine Biology is a course designed to deepen understanding.,70,3,5
+147,Experimental Technical Writing,Experimental Technical Writing is a course designed to deepen understanding.,36,3,5
+148,Theoretical Chemistry,Theoretical Chemistry is a course designed to deepen understanding.,6,3,5
+149,Applied Network Security,Applied Network Security is a course designed to deepen understanding.,21,3,5
+150,Experimental Statistics,Experimental Statistics is a course designed to deepen understanding.,82,3,5
+151,Modern Biomechanics,Modern Biomechanics is a course designed to deepen understanding.,54,4,5
+152,Advanced Biomechanics,Advanced Biomechanics is a course designed to deepen understanding.,46,4,5
+153,Experimental Data Structures,Experimental Data Structures is a course designed to deepen understanding.,87,4,5
+154,Modern Chemistry,Modern Chemistry is a course designed to deepen understanding.,36,4,5
+155,Modern Algorithms,Modern Algorithms is a course designed to deepen understanding.,61,5,5
+156,Experimental Mathematics,Experimental Mathematics is a course designed to deepen understanding.,26,5,5
+157,Theoretical Introduction to Programming,Theoretical Introduction to Programming is a course designed to deepen understanding.,29,5,5
+158,Advanced Philosophy,Advanced Philosophy is a course designed to deepen understanding.,85,5,5
+159,Experimental Algorithms,Experimental Algorithms is a course designed to deepen understanding.,14,6,5
+160,Theoretical Artificial Intelligence,Theoretical Artificial Intelligence is a course designed to deepen understanding.,17,6,5
+161,Computational Algorithms,Computational Algorithms is a course designed to deepen understanding.,92,6,5
+162,Fundamentals of Biomechanics,Fundamentals of Biomechanics is a course designed to deepen understanding.,38,6,5
+163,Theoretical Thermodynamics,Theoretical Thermodynamics is a course designed to deepen understanding.,2,7,5
+164,Experimental Biomechanics,Experimental Biomechanics is a course designed to deepen understanding.,5,7,5
+165,Applied Technical Writing,Applied Technical Writing is a course designed to deepen understanding.,52,7,5
+166,Fundamentals of Cognitive Psychology,Fundamentals of Cognitive Psychology is a course designed to deepen understanding.,37,7,5
+167,Theoretical Biomechanics,Theoretical Biomechanics is a course designed to deepen understanding.,93,7,5
+168,Computational Mathematics,Computational Mathematics is a course designed to deepen understanding.,95,7,5
+169,Applied Cognitive Psychology,Applied Cognitive Psychology is a course designed to deepen understanding.,74,1,6
+170,Experimental Marine Biology,Experimental Marine Biology is a course designed to deepen understanding.,15,1,6
+171,Modern Introduction to Programming,Modern Introduction to Programming is a course designed to deepen understanding.,41,1,6
+172,Advanced Mathematics,Advanced Mathematics is a course designed to deepen understanding.,35,1,6
+173,Modern Biology,Modern Biology is a course designed to deepen understanding.,40,2,6
+174,Modern Statistics,Modern Statistics is a course designed to deepen understanding.,91,2,6
+175,Experimental Astrophysics,Experimental Astrophysics is a course designed to deepen understanding.,8,2,6
+176,Advanced Computer Science,Advanced Computer Science is a course designed to deepen understanding.,91,2,6
+177,Modern Physics,Modern Physics is a course designed to deepen understanding.,55,2,6
+178,Fundamentals of Introduction to Programming,Fundamentals of Introduction to Programming is a course designed to deepen understanding.,35,3,6
+179,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,4,3,6
+180,Fundamentals of Physics,Fundamentals of Physics is a course designed to deepen understanding.,57,3,6
+181,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,24,3,6
+182,Advanced Economics,Advanced Economics is a course designed to deepen understanding.,16,3,6
+183,Advanced Mathematics,Advanced Mathematics is a course designed to deepen understanding.,93,4,6
+184,Theoretical Physics,Theoretical Physics is a course designed to deepen understanding.,86,4,6
+185,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,79,4,6
+186,Modern Biology,Modern Biology is a course designed to deepen understanding.,62,4,6
+187,Applied Physics,Applied Physics is a course designed to deepen understanding.,21,4,6
+188,Modern Economics,Modern Economics is a course designed to deepen understanding.,49,4,6
+189,Fundamentals of Marine Biology,Fundamentals of Marine Biology is a course designed to deepen understanding.,97,5,6
+190,Advanced Environmental Policy,Advanced Environmental Policy is a course designed to deepen understanding.,87,5,6
+191,Modern Artificial Intelligence,Modern Artificial Intelligence is a course designed to deepen understanding.,56,5,6
+192,Advanced Algorithms,Advanced Algorithms is a course designed to deepen understanding.,51,5,6
+193,Theoretical Genetic Engineering,Theoretical Genetic Engineering is a course designed to deepen understanding.,87,6,6
+194,Theoretical Astrophysics,Theoretical Astrophysics is a course designed to deepen understanding.,5,6,6
+195,Computational Thermodynamics,Computational Thermodynamics is a course designed to deepen understanding.,36,6,6
+196,Modern Physics,Modern Physics is a course designed to deepen understanding.,87,6,6
+197,Theoretical Chemistry,Theoretical Chemistry is a course designed to deepen understanding.,69,7,6
+198,Computational Mathematics,Computational Mathematics is a course designed to deepen understanding.,38,7,6
+199,Theoretical Statistics,Theoretical Statistics is a course designed to deepen understanding.,31,7,6
+200,Applied Data Structures,Applied Data Structures is a course designed to deepen understanding.,55,7,6
+201,Modern Mathematics,Modern Mathematics is a course designed to deepen understanding.,96,7,6
+202,Modern Biomechanics,Modern Biomechanics is a course designed to deepen understanding.,55,1,7
+203,Theoretical Quantum Physics,Theoretical Quantum Physics is a course designed to deepen understanding.,27,1,7
+204,Modern Digital Marketing,Modern Digital Marketing is a course designed to deepen understanding.,70,1,7
+205,Computational Artificial Intelligence,Computational Artificial Intelligence is a course designed to deepen understanding.,98,1,7
+206,Theoretical Human-Computer Interaction,Theoretical Human-Computer Interaction is a course designed to deepen understanding.,18,1,7
+207,Fundamentals of Network Security,Fundamentals of Network Security is a course designed to deepen understanding.,45,1,7
+208,Theoretical Economics,Theoretical Economics is a course designed to deepen understanding.,2,2,7
+209,Advanced Marine Biology,Advanced Marine Biology is a course designed to deepen understanding.,10,2,7
+210,Fundamentals of Network Security,Fundamentals of Network Security is a course designed to deepen understanding.,6,2,7
+211,Fundamentals of Philosophy,Fundamentals of Philosophy is a course designed to deepen understanding.,20,2,7
+212,Experimental Philosophy,Experimental Philosophy is a course designed to deepen understanding.,86,3,7
+213,Theoretical Technical Writing,Theoretical Technical Writing is a course designed to deepen understanding.,50,3,7
+214,Theoretical Biomechanics,Theoretical Biomechanics is a course designed to deepen understanding.,19,3,7
+215,Modern Digital Marketing,Modern Digital Marketing is a course designed to deepen understanding.,10,3,7
+216,Theoretical Thermodynamics,Theoretical Thermodynamics is a course designed to deepen understanding.,3,4,7
+217,Modern Computer Science,Modern Computer Science is a course designed to deepen understanding.,86,4,7
+218,Computational Chemistry,Computational Chemistry is a course designed to deepen understanding.,3,4,7
+219,Fundamentals of Mathematics,Fundamentals of Mathematics is a course designed to deepen understanding.,77,4,7
+220,Applied Biology,Applied Biology is a course designed to deepen understanding.,92,4,7
+221,Modern Mathematics,Modern Mathematics is a course designed to deepen understanding.,83,4,7
+222,Computational Cognitive Psychology,Computational Cognitive Psychology is a course designed to deepen understanding.,27,5,7
+223,Theoretical Marine Biology,Theoretical Marine Biology is a course designed to deepen understanding.,46,5,7
+224,Computational Mathematics,Computational Mathematics is a course designed to deepen understanding.,48,5,7
+225,Theoretical Digital Marketing,Theoretical Digital Marketing is a course designed to deepen understanding.,30,5,7
+226,Fundamentals of Philosophy,Fundamentals of Philosophy is a course designed to deepen understanding.,24,5,7
+227,Computational Artificial Intelligence,Computational Artificial Intelligence is a course designed to deepen understanding.,40,5,7
+228,Applied Computer Science,Applied Computer Science is a course designed to deepen understanding.,16,6,7
+229,Theoretical Human-Computer Interaction,Theoretical Human-Computer Interaction is a course designed to deepen understanding.,45,6,7
+230,Computational Chemistry,Computational Chemistry is a course designed to deepen understanding.,47,6,7
+231,Experimental Artificial Intelligence,Experimental Artificial Intelligence is a course designed to deepen understanding.,80,6,7
+232,Modern Chemistry,Modern Chemistry is a course designed to deepen understanding.,20,7,7
+233,Fundamentals of Artificial Intelligence,Fundamentals of Artificial Intelligence is a course designed to deepen understanding.,33,7,7
+234,Applied Genetic Engineering,Applied Genetic Engineering is a course designed to deepen understanding.,87,7,7
+235,Experimental Environmental Policy,Experimental Environmental Policy is a course designed to deepen understanding.,91,7,7
+236,Experimental Astrophysics,Experimental Astrophysics is a course designed to deepen understanding.,31,7,7
+237,Experimental Statistics,Experimental Statistics is a course designed to deepen understanding.,26,7,7
+238,Modern Quantum Physics,Modern Quantum Physics is a course designed to deepen understanding.,85,1,8
+239,Fundamentals of Introduction to Programming,Fundamentals of Introduction to Programming is a course designed to deepen understanding.,69,1,8
+240,Advanced Economics,Advanced Economics is a course designed to deepen understanding.,37,1,8
+241,Experimental Digital Marketing,Experimental Digital Marketing is a course designed to deepen understanding.,96,1,8
+242,Theoretical Mathematics,Theoretical Mathematics is a course designed to deepen understanding.,5,1,8
+243,Computational Thermodynamics,Computational Thermodynamics is a course designed to deepen understanding.,3,2,8
+244,Computational Computer Science,Computational Computer Science is a course designed to deepen understanding.,55,2,8
+245,Fundamentals of Economics,Fundamentals of Economics is a course designed to deepen understanding.,88,2,8
+246,Applied Biology,Applied Biology is a course designed to deepen understanding.,2,2,8
+247,Experimental Artificial Intelligence,Experimental Artificial Intelligence is a course designed to deepen understanding.,33,2,8
+248,Theoretical Economics,Theoretical Economics is a course designed to deepen understanding.,61,3,8
+249,Advanced Technical Writing,Advanced Technical Writing is a course designed to deepen understanding.,63,3,8
+250,Modern Economics,Modern Economics is a course designed to deepen understanding.,64,3,8
+251,Applied Marine Biology,Applied Marine Biology is a course designed to deepen understanding.,8,3,8
+252,Modern Physics,Modern Physics is a course designed to deepen understanding.,29,3,8
+253,Applied Marine Biology,Applied Marine Biology is a course designed to deepen understanding.,72,4,8
+254,Experimental Thermodynamics,Experimental Thermodynamics is a course designed to deepen understanding.,74,4,8
+255,Fundamentals of Biology,Fundamentals of Biology is a course designed to deepen understanding.,47,4,8
+256,Applied Computer Science,Applied Computer Science is a course designed to deepen understanding.,26,4,8
+257,Fundamentals of Cognitive Psychology,Fundamentals of Cognitive Psychology is a course designed to deepen understanding.,46,5,8
+258,Computational Genetic Engineering,Computational Genetic Engineering is a course designed to deepen understanding.,61,5,8
+259,Advanced Astrophysics,Advanced Astrophysics is a course designed to deepen understanding.,39,5,8
+260,Fundamentals of Economics,Fundamentals of Economics is a course designed to deepen understanding.,42,5,8
+261,Advanced Astrophysics,Advanced Astrophysics is a course designed to deepen understanding.,60,6,8
+262,Experimental Human-Computer Interaction,Experimental Human-Computer Interaction is a course designed to deepen understanding.,67,6,8
+263,Theoretical Physics,Theoretical Physics is a course designed to deepen understanding.,44,6,8
+264,Advanced Marine Biology,Advanced Marine Biology is a course designed to deepen understanding.,19,6,8
+265,Experimental Digital Marketing,Experimental Digital Marketing is a course designed to deepen understanding.,74,6,8
+266,Theoretical Chemistry,Theoretical Chemistry is a course designed to deepen understanding.,87,7,8
+267,Modern Cognitive Psychology,Modern Cognitive Psychology is a course designed to deepen understanding.,91,7,8
+268,Modern Computer Science,Modern Computer Science is a course designed to deepen understanding.,26,7,8
+269,Computational Network Security,Computational Network Security is a course designed to deepen understanding.,60,7,8
+270,Applied Biomechanics,Applied Biomechanics is a course designed to deepen understanding.,22,7,8
+271,Theoretical Data Structures,Theoretical Data Structures is a course designed to deepen understanding.,68,7,8
+272,Theoretical Technical Writing,Theoretical Technical Writing is a course designed to deepen understanding.,49,1,9
+273,Computational Quantum Physics,Computational Quantum Physics is a course designed to deepen understanding.,28,1,9
+274,Theoretical Digital Marketing,Theoretical Digital Marketing is a course designed to deepen understanding.,42,1,9
+275,Advanced Introduction to Programming,Advanced Introduction to Programming is a course designed to deepen understanding.,62,1,9
+276,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,52,2,9
+277,Applied Introduction to Programming,Applied Introduction to Programming is a course designed to deepen understanding.,7,2,9
+278,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,58,2,9
+279,Fundamentals of Technical Writing,Fundamentals of Technical Writing is a course designed to deepen understanding.,82,2,9
+280,Experimental Philosophy,Experimental Philosophy is a course designed to deepen understanding.,39,2,9
+281,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,82,3,9
+282,Computational Cognitive Psychology,Computational Cognitive Psychology is a course designed to deepen understanding.,69,3,9
+283,Modern Quantum Physics,Modern Quantum Physics is a course designed to deepen understanding.,89,3,9
+284,Experimental Network Security,Experimental Network Security is a course designed to deepen understanding.,3,3,9
+285,Computational Genetic Engineering,Computational Genetic Engineering is a course designed to deepen understanding.,51,4,9
+286,Modern Quantum Physics,Modern Quantum Physics is a course designed to deepen understanding.,33,4,9
+287,Theoretical Economics,Theoretical Economics is a course designed to deepen understanding.,69,4,9
+288,Theoretical Quantum Physics,Theoretical Quantum Physics is a course designed to deepen understanding.,24,4,9
+289,Fundamentals of Genetic Engineering,Fundamentals of Genetic Engineering is a course designed to deepen understanding.,2,4,9
+290,Experimental Cognitive Psychology,Experimental Cognitive Psychology is a course designed to deepen understanding.,29,5,9
+291,Computational Human-Computer Interaction,Computational Human-Computer Interaction is a course designed to deepen understanding.,31,5,9
+292,Fundamentals of Marine Biology,Fundamentals of Marine Biology is a course designed to deepen understanding.,41,5,9
+293,Fundamentals of Data Structures,Fundamentals of Data Structures is a course designed to deepen understanding.,19,5,9
+294,Theoretical Introduction to Programming,Theoretical Introduction to Programming is a course designed to deepen understanding.,41,5,9
+295,Modern Marine Biology,Modern Marine Biology is a course designed to deepen understanding.,46,6,9
+296,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,27,6,9
+297,Advanced Statistics,Advanced Statistics is a course designed to deepen understanding.,76,6,9
+298,Applied Environmental Policy,Applied Environmental Policy is a course designed to deepen understanding.,11,6,9
+299,Fundamentals of Thermodynamics,Fundamentals of Thermodynamics is a course designed to deepen understanding.,98,7,9
+300,Theoretical Biomechanics,Theoretical Biomechanics is a course designed to deepen understanding.,27,7,9
+301,Computational Biology,Computational Biology is a course designed to deepen understanding.,20,7,9
+302,Theoretical Technical Writing,Theoretical Technical Writing is a course designed to deepen understanding.,40,7,9
+303,Theoretical Cognitive Psychology,Theoretical Cognitive Psychology is a course designed to deepen understanding.,96,7,9
+304,Experimental Biology,Experimental Biology is a course designed to deepen understanding.,64,7,9
+305,Experimental Cognitive Psychology,Experimental Cognitive Psychology is a course designed to deepen understanding.,8,1,10
+306,Computational Network Security,Computational Network Security is a course designed to deepen understanding.,57,1,10
+307,Modern Artificial Intelligence,Modern Artificial Intelligence is a course designed to deepen understanding.,52,1,10
+308,Computational Astrophysics,Computational Astrophysics is a course designed to deepen understanding.,24,1,10
+309,Fundamentals of Mathematics,Fundamentals of Mathematics is a course designed to deepen understanding.,30,2,10
+310,Fundamentals of Human-Computer Interaction,Fundamentals of Human-Computer Interaction is a course designed to deepen understanding.,39,2,10
+311,Theoretical Philosophy,Theoretical Philosophy is a course designed to deepen understanding.,71,2,10
+312,Fundamentals of Algorithms,Fundamentals of Algorithms is a course designed to deepen understanding.,41,2,10
+313,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,95,2,10
+314,Theoretical Cognitive Psychology,Theoretical Cognitive Psychology is a course designed to deepen understanding.,38,2,10
+315,Theoretical Digital Marketing,Theoretical Digital Marketing is a course designed to deepen understanding.,71,3,10
+316,Modern Algorithms,Modern Algorithms is a course designed to deepen understanding.,75,3,10
+317,Computational Chemistry,Computational Chemistry is a course designed to deepen understanding.,36,3,10
+318,Modern Technical Writing,Modern Technical Writing is a course designed to deepen understanding.,89,3,10
+319,Theoretical Economics,Theoretical Economics is a course designed to deepen understanding.,80,4,10
+320,Fundamentals of Environmental Policy,Fundamentals of Environmental Policy is a course designed to deepen understanding.,24,4,10
+321,Computational Biology,Computational Biology is a course designed to deepen understanding.,88,4,10
+322,Theoretical Thermodynamics,Theoretical Thermodynamics is a course designed to deepen understanding.,85,4,10
+323,Experimental Technical Writing,Experimental Technical Writing is a course designed to deepen understanding.,2,4,10
+324,Applied Thermodynamics,Applied Thermodynamics is a course designed to deepen understanding.,28,5,10
+325,Fundamentals of Digital Marketing,Fundamentals of Digital Marketing is a course designed to deepen understanding.,97,5,10
+326,Computational Human-Computer Interaction,Computational Human-Computer Interaction is a course designed to deepen understanding.,57,5,10
+327,Advanced Thermodynamics,Advanced Thermodynamics is a course designed to deepen understanding.,15,5,10
+328,Fundamentals of Biomechanics,Fundamentals of Biomechanics is a course designed to deepen understanding.,31,5,10
+329,Theoretical Technical Writing,Theoretical Technical Writing is a course designed to deepen understanding.,15,5,10
+330,Computational Chemistry,Computational Chemistry is a course designed to deepen understanding.,29,6,10
+331,Fundamentals of Genetic Engineering,Fundamentals of Genetic Engineering is a course designed to deepen understanding.,38,6,10
+332,Theoretical Mathematics,Theoretical Mathematics is a course designed to deepen understanding.,90,6,10
+333,Theoretical Digital Marketing,Theoretical Digital Marketing is a course designed to deepen understanding.,82,6,10
+334,Computational Artificial Intelligence,Computational Artificial Intelligence is a course designed to deepen understanding.,3,6,10
+335,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,99,6,10
+336,Advanced Cognitive Psychology,Advanced Cognitive Psychology is a course designed to deepen understanding.,65,7,10
+337,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,14,7,10
+338,Advanced Ethics,Advanced Ethics is a course designed to deepen understanding.,96,7,10
+339,Fundamentals of Quantum Physics,Fundamentals of Quantum Physics is a course designed to deepen understanding.,39,7,10
+340,Fundamentals of Marine Biology,Fundamentals of Marine Biology is a course designed to deepen understanding.,67,7,10
+341,Experimental Marine Biology,Experimental Marine Biology is a course designed to deepen understanding.,10,1,11
+342,Computational Philosophy,Computational Philosophy is a course designed to deepen understanding.,86,1,11
+343,Applied Introduction to Programming,Applied Introduction to Programming is a course designed to deepen understanding.,43,1,11
+344,Applied Biomechanics,Applied Biomechanics is a course designed to deepen understanding.,42,1,11
+345,Computational Biology,Computational Biology is a course designed to deepen understanding.,26,1,11
+346,Modern Artificial Intelligence,Modern Artificial Intelligence is a course designed to deepen understanding.,28,1,11
+347,Applied Biomechanics,Applied Biomechanics is a course designed to deepen understanding.,62,2,11
+348,Modern Digital Marketing,Modern Digital Marketing is a course designed to deepen understanding.,60,2,11
+349,Modern Marine Biology,Modern Marine Biology is a course designed to deepen understanding.,14,2,11
+350,Computational Chemistry,Computational Chemistry is a course designed to deepen understanding.,58,2,11
+351,Experimental Mathematics,Experimental Mathematics is a course designed to deepen understanding.,91,2,11
+352,Advanced Marine Biology,Advanced Marine Biology is a course designed to deepen understanding.,41,2,11
+353,Fundamentals of Mathematics,Fundamentals of Mathematics is a course designed to deepen understanding.,57,3,11
+354,Modern Cognitive Psychology,Modern Cognitive Psychology is a course designed to deepen understanding.,33,3,11
+355,Theoretical Digital Marketing,Theoretical Digital Marketing is a course designed to deepen understanding.,77,3,11
+356,Advanced Chemistry,Advanced Chemistry is a course designed to deepen understanding.,81,3,11
+357,Applied Biomechanics,Applied Biomechanics is a course designed to deepen understanding.,68,4,11
+358,Experimental Economics,Experimental Economics is a course designed to deepen understanding.,89,4,11
+359,Advanced Marine Biology,Advanced Marine Biology is a course designed to deepen understanding.,76,4,11
+360,Experimental Statistics,Experimental Statistics is a course designed to deepen understanding.,48,4,11
+361,Applied Thermodynamics,Applied Thermodynamics is a course designed to deepen understanding.,39,4,11
+362,Advanced Digital Marketing,Advanced Digital Marketing is a course designed to deepen understanding.,91,5,11
+363,Experimental Economics,Experimental Economics is a course designed to deepen understanding.,88,5,11
+364,Applied Computer Science,Applied Computer Science is a course designed to deepen understanding.,38,5,11
+365,Fundamentals of Digital Marketing,Fundamentals of Digital Marketing is a course designed to deepen understanding.,84,5,11
+366,Fundamentals of Chemistry,Fundamentals of Chemistry is a course designed to deepen understanding.,46,5,11
+367,Applied Cognitive Psychology,Applied Cognitive Psychology is a course designed to deepen understanding.,29,5,11
+368,Theoretical Technical Writing,Theoretical Technical Writing is a course designed to deepen understanding.,62,6,11
+369,Modern Data Structures,Modern Data Structures is a course designed to deepen understanding.,78,6,11
+370,Fundamentals of Thermodynamics,Fundamentals of Thermodynamics is a course designed to deepen understanding.,90,6,11
+371,Computational Ethics,Computational Ethics is a course designed to deepen understanding.,48,6,11
+372,Theoretical Ethics,Theoretical Ethics is a course designed to deepen understanding.,50,6,11
+373,Theoretical Data Structures,Theoretical Data Structures is a course designed to deepen understanding.,2,6,11
+374,Experimental Environmental Policy,Experimental Environmental Policy is a course designed to deepen understanding.,23,7,11
+375,Modern Marine Biology,Modern Marine Biology is a course designed to deepen understanding.,68,7,11
+376,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,41,7,11
+377,Computational Introduction to Programming,Computational Introduction to Programming is a course designed to deepen understanding.,89,7,11
+378,Modern Ethics,Modern Ethics is a course designed to deepen understanding.,63,1,12
+379,Computational Biomechanics,Computational Biomechanics is a course designed to deepen understanding.,4,1,12
+380,Advanced Digital Marketing,Advanced Digital Marketing is a course designed to deepen understanding.,69,1,12
+381,Fundamentals of Physics,Fundamentals of Physics is a course designed to deepen understanding.,79,1,12
+382,Experimental Biomechanics,Experimental Biomechanics is a course designed to deepen understanding.,3,1,12
+383,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,59,2,12
+384,Fundamentals of Quantum Physics,Fundamentals of Quantum Physics is a course designed to deepen understanding.,27,2,12
+385,Theoretical Digital Marketing,Theoretical Digital Marketing is a course designed to deepen understanding.,3,2,12
+386,Theoretical Physics,Theoretical Physics is a course designed to deepen understanding.,26,2,12
+387,Modern Statistics,Modern Statistics is a course designed to deepen understanding.,17,2,12
+388,Modern Human-Computer Interaction,Modern Human-Computer Interaction is a course designed to deepen understanding.,75,2,12
+389,Theoretical Marine Biology,Theoretical Marine Biology is a course designed to deepen understanding.,8,3,12
+390,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,65,3,12
+391,Modern Philosophy,Modern Philosophy is a course designed to deepen understanding.,32,3,12
+392,Advanced Artificial Intelligence,Advanced Artificial Intelligence is a course designed to deepen understanding.,24,3,12
+393,Modern Environmental Policy,Modern Environmental Policy is a course designed to deepen understanding.,73,3,12
+394,Applied Statistics,Applied Statistics is a course designed to deepen understanding.,28,4,12
+395,Advanced Ethics,Advanced Ethics is a course designed to deepen understanding.,9,4,12
+396,Advanced Philosophy,Advanced Philosophy is a course designed to deepen understanding.,89,4,12
+397,Computational Philosophy,Computational Philosophy is a course designed to deepen understanding.,49,4,12
+398,Experimental Data Structures,Experimental Data Structures is a course designed to deepen understanding.,38,4,12
+399,Applied Environmental Policy,Applied Environmental Policy is a course designed to deepen understanding.,11,5,12
+400,Applied Algorithms,Applied Algorithms is a course designed to deepen understanding.,69,5,12
+401,Applied Technical Writing,Applied Technical Writing is a course designed to deepen understanding.,6,5,12
+402,Advanced Environmental Policy,Advanced Environmental Policy is a course designed to deepen understanding.,19,5,12
+403,Theoretical Data Structures,Theoretical Data Structures is a course designed to deepen understanding.,15,6,12
+404,Advanced Ethics,Advanced Ethics is a course designed to deepen understanding.,58,6,12
+405,Fundamentals of Cognitive Psychology,Fundamentals of Cognitive Psychology is a course designed to deepen understanding.,87,6,12
+406,Modern Mathematics,Modern Mathematics is a course designed to deepen understanding.,56,6,12
+407,Modern Cognitive Psychology,Modern Cognitive Psychology is a course designed to deepen understanding.,43,6,12
+408,Applied Quantum Physics,Applied Quantum Physics is a course designed to deepen understanding.,45,6,12
+409,Advanced Human-Computer Interaction,Advanced Human-Computer Interaction is a course designed to deepen understanding.,53,7,12
+410,Fundamentals of Environmental Policy,Fundamentals of Environmental Policy is a course designed to deepen understanding.,59,7,12
+411,Advanced Astrophysics,Advanced Astrophysics is a course designed to deepen understanding.,64,7,12
+412,Applied Biology,Applied Biology is a course designed to deepen understanding.,19,7,12
+413,Theoretical Economics,Theoretical Economics is a course designed to deepen understanding.,19,7,12
+414,Experimental Economics,Experimental Economics is a course designed to deepen understanding.,29,7,12
+415,Experimental Computer Science,Experimental Computer Science is a course designed to deepen understanding.,83,1,13
+416,Fundamentals of Marine Biology,Fundamentals of Marine Biology is a course designed to deepen understanding.,71,1,13
+417,Computational Statistics,Computational Statistics is a course designed to deepen understanding.,71,1,13
+418,Applied Genetic Engineering,Applied Genetic Engineering is a course designed to deepen understanding.,26,1,13
+419,Modern Economics,Modern Economics is a course designed to deepen understanding.,54,1,13
+420,Experimental Computer Science,Experimental Computer Science is a course designed to deepen understanding.,55,2,13
+421,Fundamentals of Cognitive Psychology,Fundamentals of Cognitive Psychology is a course designed to deepen understanding.,63,2,13
+422,Modern Digital Marketing,Modern Digital Marketing is a course designed to deepen understanding.,18,2,13
+423,Theoretical Economics,Theoretical Economics is a course designed to deepen understanding.,16,2,13
+424,Fundamentals of Introduction to Programming,Fundamentals of Introduction to Programming is a course designed to deepen understanding.,38,2,13
+425,Advanced Algorithms,Advanced Algorithms is a course designed to deepen understanding.,85,2,13
+426,Theoretical Chemistry,Theoretical Chemistry is a course designed to deepen understanding.,65,3,13
+427,Advanced Economics,Advanced Economics is a course designed to deepen understanding.,67,3,13
+428,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,35,3,13
+429,Advanced Computer Science,Advanced Computer Science is a course designed to deepen understanding.,95,3,13
+430,Fundamentals of Network Security,Fundamentals of Network Security is a course designed to deepen understanding.,40,3,13
+431,Advanced Technical Writing,Advanced Technical Writing is a course designed to deepen understanding.,68,3,13
+432,Modern Mathematics,Modern Mathematics is a course designed to deepen understanding.,96,4,13
+433,Applied Cognitive Psychology,Applied Cognitive Psychology is a course designed to deepen understanding.,50,4,13
+434,Applied Digital Marketing,Applied Digital Marketing is a course designed to deepen understanding.,70,4,13
+435,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,49,4,13
+436,Advanced Philosophy,Advanced Philosophy is a course designed to deepen understanding.,17,4,13
+437,Fundamentals of Introduction to Programming,Fundamentals of Introduction to Programming is a course designed to deepen understanding.,32,5,13
+438,Experimental Marine Biology,Experimental Marine Biology is a course designed to deepen understanding.,87,5,13
+439,Computational Artificial Intelligence,Computational Artificial Intelligence is a course designed to deepen understanding.,23,5,13
+440,Modern Technical Writing,Modern Technical Writing is a course designed to deepen understanding.,55,5,13
+441,Fundamentals of Physics,Fundamentals of Physics is a course designed to deepen understanding.,85,5,13
+442,Fundamentals of Philosophy,Fundamentals of Philosophy is a course designed to deepen understanding.,83,6,13
+443,Modern Chemistry,Modern Chemistry is a course designed to deepen understanding.,99,6,13
+444,Applied Economics,Applied Economics is a course designed to deepen understanding.,99,6,13
+445,Theoretical Network Security,Theoretical Network Security is a course designed to deepen understanding.,99,6,13
+446,Experimental Thermodynamics,Experimental Thermodynamics is a course designed to deepen understanding.,4,6,13
+447,Applied Physics,Applied Physics is a course designed to deepen understanding.,42,6,13
+448,Applied Chemistry,Applied Chemistry is a course designed to deepen understanding.,4,7,13
+449,Modern Artificial Intelligence,Modern Artificial Intelligence is a course designed to deepen understanding.,79,7,13
+450,Fundamentals of Economics,Fundamentals of Economics is a course designed to deepen understanding.,38,7,13
+451,Fundamentals of Statistics,Fundamentals of Statistics is a course designed to deepen understanding.,10,7,13
+452,Modern Biology,Modern Biology is a course designed to deepen understanding.,92,7,13
+453,Modern Technical Writing,Modern Technical Writing is a course designed to deepen understanding.,55,7,13
+454,Computational Environmental Policy,Computational Environmental Policy is a course designed to deepen understanding.,4,1,14
+455,Advanced Economics,Advanced Economics is a course designed to deepen understanding.,26,1,14
+456,Applied Digital Marketing,Applied Digital Marketing is a course designed to deepen understanding.,56,1,14
+457,Applied Artificial Intelligence,Applied Artificial Intelligence is a course designed to deepen understanding.,7,1,14
+458,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,75,1,14
+459,Experimental Digital Marketing,Experimental Digital Marketing is a course designed to deepen understanding.,68,1,14
+460,Advanced Quantum Physics,Advanced Quantum Physics is a course designed to deepen understanding.,8,2,14
+461,Theoretical Mathematics,Theoretical Mathematics is a course designed to deepen understanding.,68,2,14
+462,Advanced Economics,Advanced Economics is a course designed to deepen understanding.,85,2,14
+463,Computational Introduction to Programming,Computational Introduction to Programming is a course designed to deepen understanding.,60,2,14
+464,Advanced Economics,Advanced Economics is a course designed to deepen understanding.,75,3,14
+465,Applied Cognitive Psychology,Applied Cognitive Psychology is a course designed to deepen understanding.,88,3,14
+466,Advanced Cognitive Psychology,Advanced Cognitive Psychology is a course designed to deepen understanding.,30,3,14
+467,Theoretical Physics,Theoretical Physics is a course designed to deepen understanding.,98,3,14
+468,Experimental Statistics,Experimental Statistics is a course designed to deepen understanding.,69,4,14
+469,Theoretical Computer Science,Theoretical Computer Science is a course designed to deepen understanding.,29,4,14
+470,Theoretical Biomechanics,Theoretical Biomechanics is a course designed to deepen understanding.,50,4,14
+471,Computational Computer Science,Computational Computer Science is a course designed to deepen understanding.,86,4,14
+472,Fundamentals of Philosophy,Fundamentals of Philosophy is a course designed to deepen understanding.,22,4,14
+473,Applied Technical Writing,Applied Technical Writing is a course designed to deepen understanding.,17,4,14
+474,Applied Algorithms,Applied Algorithms is a course designed to deepen understanding.,51,5,14
+475,Advanced Physics,Advanced Physics is a course designed to deepen understanding.,33,5,14
+476,Modern Human-Computer Interaction,Modern Human-Computer Interaction is a course designed to deepen understanding.,97,5,14
+477,Fundamentals of Marine Biology,Fundamentals of Marine Biology is a course designed to deepen understanding.,1,5,14
+478,Computational Statistics,Computational Statistics is a course designed to deepen understanding.,99,5,14
+479,Fundamentals of Physics,Fundamentals of Physics is a course designed to deepen understanding.,39,5,14
+480,Modern Economics,Modern Economics is a course designed to deepen understanding.,39,6,14
+481,Experimental Marine Biology,Experimental Marine Biology is a course designed to deepen understanding.,63,6,14
+482,Applied Digital Marketing,Applied Digital Marketing is a course designed to deepen understanding.,91,6,14
+483,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,24,6,14
+484,Experimental Chemistry,Experimental Chemistry is a course designed to deepen understanding.,90,6,14
+485,Computational Algorithms,Computational Algorithms is a course designed to deepen understanding.,29,6,14
+486,Advanced Human-Computer Interaction,Advanced Human-Computer Interaction is a course designed to deepen understanding.,97,7,14
+487,Fundamentals of Human-Computer Interaction,Fundamentals of Human-Computer Interaction is a course designed to deepen understanding.,59,7,14
+488,Experimental Data Structures,Experimental Data Structures is a course designed to deepen understanding.,21,7,14
+489,Fundamentals of Physics,Fundamentals of Physics is a course designed to deepen understanding.,40,7,14
+490,Experimental Artificial Intelligence,Experimental Artificial Intelligence is a course designed to deepen understanding.,73,7,14
+491,Applied Digital Marketing,Applied Digital Marketing is a course designed to deepen understanding.,42,7,14
+492,Computational Philosophy,Computational Philosophy is a course designed to deepen understanding.,13,1,15
+493,Modern Biomechanics,Modern Biomechanics is a course designed to deepen understanding.,53,1,15
+494,Advanced Statistics,Advanced Statistics is a course designed to deepen understanding.,33,1,15
+495,Computational Chemistry,Computational Chemistry is a course designed to deepen understanding.,31,1,15
+496,Applied Physics,Applied Physics is a course designed to deepen understanding.,21,1,15
+497,Fundamentals of Physics,Fundamentals of Physics is a course designed to deepen understanding.,1,1,15
+498,Advanced Technical Writing,Advanced Technical Writing is a course designed to deepen understanding.,8,2,15
+499,Advanced Human-Computer Interaction,Advanced Human-Computer Interaction is a course designed to deepen understanding.,84,2,15
+500,Modern Computer Science,Modern Computer Science is a course designed to deepen understanding.,5,2,15
+501,Modern Physics,Modern Physics is a course designed to deepen understanding.,79,2,15
+502,Advanced Mathematics,Advanced Mathematics is a course designed to deepen understanding.,64,3,15
+503,Computational Marine Biology,Computational Marine Biology is a course designed to deepen understanding.,24,3,15
+504,Modern Ethics,Modern Ethics is a course designed to deepen understanding.,58,3,15
+505,Fundamentals of Ethics,Fundamentals of Ethics is a course designed to deepen understanding.,76,3,15
+506,Theoretical Biomechanics,Theoretical Biomechanics is a course designed to deepen understanding.,27,3,15
+507,Computational Environmental Policy,Computational Environmental Policy is a course designed to deepen understanding.,96,3,15
+508,Modern Environmental Policy,Modern Environmental Policy is a course designed to deepen understanding.,100,4,15
+509,Fundamentals of Physics,Fundamentals of Physics is a course designed to deepen understanding.,82,4,15
+510,Theoretical Data Structures,Theoretical Data Structures is a course designed to deepen understanding.,2,4,15
+511,Modern Algorithms,Modern Algorithms is a course designed to deepen understanding.,3,4,15
+512,Computational Quantum Physics,Computational Quantum Physics is a course designed to deepen understanding.,88,4,15
+513,Experimental Computer Science,Experimental Computer Science is a course designed to deepen understanding.,16,4,15
+514,Modern Data Structures,Modern Data Structures is a course designed to deepen understanding.,23,5,15
+515,Advanced Mathematics,Advanced Mathematics is a course designed to deepen understanding.,77,5,15
+516,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,3,5,15
+517,Fundamentals of Thermodynamics,Fundamentals of Thermodynamics is a course designed to deepen understanding.,99,5,15
+518,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,17,5,15
+519,Advanced Data Structures,Advanced Data Structures is a course designed to deepen understanding.,86,6,15
+520,Fundamentals of Cognitive Psychology,Fundamentals of Cognitive Psychology is a course designed to deepen understanding.,26,6,15
+521,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,80,6,15
+522,Modern Thermodynamics,Modern Thermodynamics is a course designed to deepen understanding.,11,6,15
+523,Applied Digital Marketing,Applied Digital Marketing is a course designed to deepen understanding.,69,7,15
+524,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,76,7,15
+525,Advanced Biology,Advanced Biology is a course designed to deepen understanding.,79,7,15
+526,Fundamentals of Algorithms,Fundamentals of Algorithms is a course designed to deepen understanding.,78,7,15
+527,Fundamentals of Physics,Fundamentals of Physics is a course designed to deepen understanding.,93,7,15
+528,Experimental Network Security,Experimental Network Security is a course designed to deepen understanding.,26,1,16
+529,Experimental Human-Computer Interaction,Experimental Human-Computer Interaction is a course designed to deepen understanding.,95,1,16
+530,Experimental Statistics,Experimental Statistics is a course designed to deepen understanding.,48,1,16
+531,Theoretical Ethics,Theoretical Ethics is a course designed to deepen understanding.,19,1,16
+532,Fundamentals of Thermodynamics,Fundamentals of Thermodynamics is a course designed to deepen understanding.,72,1,16
+533,Applied Biology,Applied Biology is a course designed to deepen understanding.,18,1,16
+534,Applied Genetic Engineering,Applied Genetic Engineering is a course designed to deepen understanding.,24,2,16
+535,Applied Ethics,Applied Ethics is a course designed to deepen understanding.,73,2,16
+536,Theoretical Artificial Intelligence,Theoretical Artificial Intelligence is a course designed to deepen understanding.,58,2,16
+537,Computational Genetic Engineering,Computational Genetic Engineering is a course designed to deepen understanding.,89,2,16
+538,Theoretical Economics,Theoretical Economics is a course designed to deepen understanding.,82,2,16
+539,Modern Thermodynamics,Modern Thermodynamics is a course designed to deepen understanding.,26,2,16
+540,Fundamentals of Biology,Fundamentals of Biology is a course designed to deepen understanding.,79,3,16
+541,Applied Network Security,Applied Network Security is a course designed to deepen understanding.,41,3,16
+542,Theoretical Algorithms,Theoretical Algorithms is a course designed to deepen understanding.,79,3,16
+543,Theoretical Astrophysics,Theoretical Astrophysics is a course designed to deepen understanding.,95,3,16
+544,Computational Technical Writing,Computational Technical Writing is a course designed to deepen understanding.,56,3,16
+545,Theoretical Thermodynamics,Theoretical Thermodynamics is a course designed to deepen understanding.,21,4,16
+546,Modern Genetic Engineering,Modern Genetic Engineering is a course designed to deepen understanding.,1,4,16
+547,Fundamentals of Economics,Fundamentals of Economics is a course designed to deepen understanding.,4,4,16
+548,Theoretical Environmental Policy,Theoretical Environmental Policy is a course designed to deepen understanding.,8,4,16
+549,Applied Network Security,Applied Network Security is a course designed to deepen understanding.,72,4,16
+550,Experimental Algorithms,Experimental Algorithms is a course designed to deepen understanding.,50,5,16
+551,Modern Physics,Modern Physics is a course designed to deepen understanding.,60,5,16
+552,Advanced Quantum Physics,Advanced Quantum Physics is a course designed to deepen understanding.,15,5,16
+553,Modern Economics,Modern Economics is a course designed to deepen understanding.,71,5,16
+554,Computational Chemistry,Computational Chemistry is a course designed to deepen understanding.,94,6,16
+555,Experimental Artificial Intelligence,Experimental Artificial Intelligence is a course designed to deepen understanding.,17,6,16
+556,Advanced Biomechanics,Advanced Biomechanics is a course designed to deepen understanding.,89,6,16
+557,Computational Biology,Computational Biology is a course designed to deepen understanding.,51,6,16
+558,Modern Mathematics,Modern Mathematics is a course designed to deepen understanding.,94,6,16
+559,Applied Chemistry,Applied Chemistry is a course designed to deepen understanding.,2,6,16
+560,Fundamentals of Astrophysics,Fundamentals of Astrophysics is a course designed to deepen understanding.,90,7,16
+561,Modern Quantum Physics,Modern Quantum Physics is a course designed to deepen understanding.,60,7,16
+562,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,28,7,16
+563,Theoretical Technical Writing,Theoretical Technical Writing is a course designed to deepen understanding.,48,7,16
+564,Applied Data Structures,Applied Data Structures is a course designed to deepen understanding.,63,1,17
+565,Computational Biomechanics,Computational Biomechanics is a course designed to deepen understanding.,93,1,17
+566,Experimental Cognitive Psychology,Experimental Cognitive Psychology is a course designed to deepen understanding.,13,1,17
+567,Modern Thermodynamics,Modern Thermodynamics is a course designed to deepen understanding.,80,1,17
+568,Advanced Data Structures,Advanced Data Structures is a course designed to deepen understanding.,42,1,17
+569,Fundamentals of Mathematics,Fundamentals of Mathematics is a course designed to deepen understanding.,71,2,17
+570,Experimental Economics,Experimental Economics is a course designed to deepen understanding.,81,2,17
+571,Applied Cognitive Psychology,Applied Cognitive Psychology is a course designed to deepen understanding.,96,2,17
+572,Fundamentals of Biology,Fundamentals of Biology is a course designed to deepen understanding.,88,2,17
+573,Applied Environmental Policy,Applied Environmental Policy is a course designed to deepen understanding.,40,2,17
+574,Fundamentals of Chemistry,Fundamentals of Chemistry is a course designed to deepen understanding.,13,2,17
+575,Advanced Algorithms,Advanced Algorithms is a course designed to deepen understanding.,11,3,17
+576,Advanced Computer Science,Advanced Computer Science is a course designed to deepen understanding.,42,3,17
+577,Modern Data Structures,Modern Data Structures is a course designed to deepen understanding.,26,3,17
+578,Theoretical Ethics,Theoretical Ethics is a course designed to deepen understanding.,37,3,17
+579,Modern Technical Writing,Modern Technical Writing is a course designed to deepen understanding.,51,4,17
+580,Modern Chemistry,Modern Chemistry is a course designed to deepen understanding.,20,4,17
+581,Theoretical Mathematics,Theoretical Mathematics is a course designed to deepen understanding.,63,4,17
+582,Experimental Marine Biology,Experimental Marine Biology is a course designed to deepen understanding.,60,4,17
+583,Experimental Algorithms,Experimental Algorithms is a course designed to deepen understanding.,19,4,17
+584,Advanced Chemistry,Advanced Chemistry is a course designed to deepen understanding.,54,5,17
+585,Computational Artificial Intelligence,Computational Artificial Intelligence is a course designed to deepen understanding.,54,5,17
+586,Fundamentals of Biology,Fundamentals of Biology is a course designed to deepen understanding.,24,5,17
+587,Advanced Technical Writing,Advanced Technical Writing is a course designed to deepen understanding.,58,5,17
+588,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,59,5,17
+589,Fundamentals of Genetic Engineering,Fundamentals of Genetic Engineering is a course designed to deepen understanding.,73,6,17
+590,Modern Economics,Modern Economics is a course designed to deepen understanding.,34,6,17
+591,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,71,6,17
+592,Advanced Physics,Advanced Physics is a course designed to deepen understanding.,89,6,17
+593,Theoretical Marine Biology,Theoretical Marine Biology is a course designed to deepen understanding.,69,6,17
+594,Experimental Genetic Engineering,Experimental Genetic Engineering is a course designed to deepen understanding.,50,6,17
+595,Theoretical Technical Writing,Theoretical Technical Writing is a course designed to deepen understanding.,54,7,17
+596,Applied Cognitive Psychology,Applied Cognitive Psychology is a course designed to deepen understanding.,36,7,17
+597,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,30,7,17
+598,Modern Biology,Modern Biology is a course designed to deepen understanding.,62,7,17
+599,Fundamentals of Thermodynamics,Fundamentals of Thermodynamics is a course designed to deepen understanding.,71,7,17
+600,Theoretical Genetic Engineering,Theoretical Genetic Engineering is a course designed to deepen understanding.,10,1,18
+601,Theoretical Marine Biology,Theoretical Marine Biology is a course designed to deepen understanding.,76,1,18
+602,Computational Philosophy,Computational Philosophy is a course designed to deepen understanding.,93,1,18
+603,Advanced Philosophy,Advanced Philosophy is a course designed to deepen understanding.,21,1,18
+604,Experimental Algorithms,Experimental Algorithms is a course designed to deepen understanding.,4,1,18
+605,Fundamentals of Quantum Physics,Fundamentals of Quantum Physics is a course designed to deepen understanding.,75,2,18
+606,Modern Introduction to Programming,Modern Introduction to Programming is a course designed to deepen understanding.,65,2,18
+607,Modern Algorithms,Modern Algorithms is a course designed to deepen understanding.,11,2,18
+608,Computational Introduction to Programming,Computational Introduction to Programming is a course designed to deepen understanding.,44,2,18
+609,Theoretical Biomechanics,Theoretical Biomechanics is a course designed to deepen understanding.,100,2,18
+610,Modern Marine Biology,Modern Marine Biology is a course designed to deepen understanding.,44,2,18
+611,Experimental Biology,Experimental Biology is a course designed to deepen understanding.,95,3,18
+612,Computational Physics,Computational Physics is a course designed to deepen understanding.,9,3,18
+613,Experimental Data Structures,Experimental Data Structures is a course designed to deepen understanding.,3,3,18
+614,Fundamentals of Astrophysics,Fundamentals of Astrophysics is a course designed to deepen understanding.,93,3,18
+615,Applied Thermodynamics,Applied Thermodynamics is a course designed to deepen understanding.,87,4,18
+616,Applied Algorithms,Applied Algorithms is a course designed to deepen understanding.,72,4,18
+617,Applied Human-Computer Interaction,Applied Human-Computer Interaction is a course designed to deepen understanding.,23,4,18
+618,Applied Digital Marketing,Applied Digital Marketing is a course designed to deepen understanding.,53,4,18
+619,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,6,4,18
+620,Experimental Astrophysics,Experimental Astrophysics is a course designed to deepen understanding.,95,4,18
+621,Fundamentals of Philosophy,Fundamentals of Philosophy is a course designed to deepen understanding.,99,5,18
+622,Theoretical Philosophy,Theoretical Philosophy is a course designed to deepen understanding.,57,5,18
+623,Computational Technical Writing,Computational Technical Writing is a course designed to deepen understanding.,34,5,18
+624,Experimental Economics,Experimental Economics is a course designed to deepen understanding.,50,5,18
+625,Advanced Mathematics,Advanced Mathematics is a course designed to deepen understanding.,4,6,18
+626,Advanced Digital Marketing,Advanced Digital Marketing is a course designed to deepen understanding.,40,6,18
+627,Fundamentals of Physics,Fundamentals of Physics is a course designed to deepen understanding.,74,6,18
+628,Experimental Algorithms,Experimental Algorithms is a course designed to deepen understanding.,2,6,18
+629,Computational Technical Writing,Computational Technical Writing is a course designed to deepen understanding.,57,7,18
+630,Theoretical Philosophy,Theoretical Philosophy is a course designed to deepen understanding.,83,7,18
+631,Advanced Algorithms,Advanced Algorithms is a course designed to deepen understanding.,87,7,18
+632,Advanced Introduction to Programming,Advanced Introduction to Programming is a course designed to deepen understanding.,35,7,18
+633,Experimental Computer Science,Experimental Computer Science is a course designed to deepen understanding.,94,7,18
+634,Applied Digital Marketing,Applied Digital Marketing is a course designed to deepen understanding.,95,7,18
+635,Fundamentals of Cognitive Psychology,Fundamentals of Cognitive Psychology is a course designed to deepen understanding.,23,1,19
+636,Modern Statistics,Modern Statistics is a course designed to deepen understanding.,44,1,19
+637,Advanced Quantum Physics,Advanced Quantum Physics is a course designed to deepen understanding.,60,1,19
+638,Modern Computer Science,Modern Computer Science is a course designed to deepen understanding.,5,1,19
+639,Experimental Artificial Intelligence,Experimental Artificial Intelligence is a course designed to deepen understanding.,54,2,19
+640,Fundamentals of Thermodynamics,Fundamentals of Thermodynamics is a course designed to deepen understanding.,46,2,19
+641,Modern Marine Biology,Modern Marine Biology is a course designed to deepen understanding.,79,2,19
+642,Computational Human-Computer Interaction,Computational Human-Computer Interaction is a course designed to deepen understanding.,96,2,19
+643,Theoretical Introduction to Programming,Theoretical Introduction to Programming is a course designed to deepen understanding.,46,3,19
+644,Theoretical Algorithms,Theoretical Algorithms is a course designed to deepen understanding.,69,3,19
+645,Advanced Artificial Intelligence,Advanced Artificial Intelligence is a course designed to deepen understanding.,19,3,19
+646,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,40,3,19
+647,Applied Data Structures,Applied Data Structures is a course designed to deepen understanding.,63,4,19
+648,Advanced Philosophy,Advanced Philosophy is a course designed to deepen understanding.,84,4,19
+649,Experimental Data Structures,Experimental Data Structures is a course designed to deepen understanding.,2,4,19
+650,Fundamentals of Biology,Fundamentals of Biology is a course designed to deepen understanding.,99,4,19
+651,Advanced Algorithms,Advanced Algorithms is a course designed to deepen understanding.,8,5,19
+652,Modern Cognitive Psychology,Modern Cognitive Psychology is a course designed to deepen understanding.,15,5,19
+653,Experimental Biology,Experimental Biology is a course designed to deepen understanding.,59,5,19
+654,Applied Quantum Physics,Applied Quantum Physics is a course designed to deepen understanding.,25,5,19
+655,Fundamentals of Environmental Policy,Fundamentals of Environmental Policy is a course designed to deepen understanding.,24,6,19
+656,Applied Introduction to Programming,Applied Introduction to Programming is a course designed to deepen understanding.,31,6,19
+657,Fundamentals of Thermodynamics,Fundamentals of Thermodynamics is a course designed to deepen understanding.,25,6,19
+658,Computational Philosophy,Computational Philosophy is a course designed to deepen understanding.,43,6,19
+659,Advanced Thermodynamics,Advanced Thermodynamics is a course designed to deepen understanding.,7,6,19
+660,Advanced Chemistry,Advanced Chemistry is a course designed to deepen understanding.,91,6,19
+661,Theoretical Computer Science,Theoretical Computer Science is a course designed to deepen understanding.,40,7,19
+662,Theoretical Introduction to Programming,Theoretical Introduction to Programming is a course designed to deepen understanding.,25,7,19
+663,Modern Mathematics,Modern Mathematics is a course designed to deepen understanding.,89,7,19
+664,Applied Artificial Intelligence,Applied Artificial Intelligence is a course designed to deepen understanding.,80,7,19
+665,Modern Algorithms,Modern Algorithms is a course designed to deepen understanding.,21,1,20
+666,Experimental Data Structures,Experimental Data Structures is a course designed to deepen understanding.,16,1,20
+667,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,20,1,20
+668,Modern Environmental Policy,Modern Environmental Policy is a course designed to deepen understanding.,86,1,20
+669,Advanced Statistics,Advanced Statistics is a course designed to deepen understanding.,92,2,20
+670,Advanced Physics,Advanced Physics is a course designed to deepen understanding.,63,2,20
+671,Advanced Chemistry,Advanced Chemistry is a course designed to deepen understanding.,50,2,20
+672,Applied Genetic Engineering,Applied Genetic Engineering is a course designed to deepen understanding.,10,2,20
+673,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,34,2,20
+674,Advanced Biomechanics,Advanced Biomechanics is a course designed to deepen understanding.,96,3,20
+675,Applied Physics,Applied Physics is a course designed to deepen understanding.,1,3,20
+676,Theoretical Biomechanics,Theoretical Biomechanics is a course designed to deepen understanding.,69,3,20
+677,Experimental Mathematics,Experimental Mathematics is a course designed to deepen understanding.,95,3,20
+678,Computational Chemistry,Computational Chemistry is a course designed to deepen understanding.,85,4,20
+679,Experimental Statistics,Experimental Statistics is a course designed to deepen understanding.,85,4,20
+680,Advanced Statistics,Advanced Statistics is a course designed to deepen understanding.,37,4,20
+681,Advanced Cognitive Psychology,Advanced Cognitive Psychology is a course designed to deepen understanding.,38,4,20
+682,Theoretical Digital Marketing,Theoretical Digital Marketing is a course designed to deepen understanding.,45,5,20
+683,Fundamentals of Marine Biology,Fundamentals of Marine Biology is a course designed to deepen understanding.,25,5,20
+684,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,42,5,20
+685,Computational Data Structures,Computational Data Structures is a course designed to deepen understanding.,41,5,20
+686,Applied Astrophysics,Applied Astrophysics is a course designed to deepen understanding.,37,5,20
+687,Experimental Artificial Intelligence,Experimental Artificial Intelligence is a course designed to deepen understanding.,67,6,20
+688,Theoretical Data Structures,Theoretical Data Structures is a course designed to deepen understanding.,47,6,20
+689,Experimental Philosophy,Experimental Philosophy is a course designed to deepen understanding.,29,6,20
+690,Theoretical Computer Science,Theoretical Computer Science is a course designed to deepen understanding.,16,6,20
+691,Experimental Economics,Experimental Economics is a course designed to deepen understanding.,79,7,20
+692,Theoretical Mathematics,Theoretical Mathematics is a course designed to deepen understanding.,18,7,20
+693,Computational Environmental Policy,Computational Environmental Policy is a course designed to deepen understanding.,31,7,20
+694,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,73,7,20
+695,Theoretical Chemistry,Theoretical Chemistry is a course designed to deepen understanding.,19,7,20
+696,Experimental Quantum Physics,Experimental Quantum Physics is a course designed to deepen understanding.,40,1,21
+697,Applied Chemistry,Applied Chemistry is a course designed to deepen understanding.,65,1,21
+698,Fundamentals of Human-Computer Interaction,Fundamentals of Human-Computer Interaction is a course designed to deepen understanding.,10,1,21
+699,Theoretical Quantum Physics,Theoretical Quantum Physics is a course designed to deepen understanding.,5,1,21
+700,Modern Data Structures,Modern Data Structures is a course designed to deepen understanding.,38,1,21
+701,Experimental Environmental Policy,Experimental Environmental Policy is a course designed to deepen understanding.,61,2,21
+702,Experimental Cognitive Psychology,Experimental Cognitive Psychology is a course designed to deepen understanding.,50,2,21
+703,Modern Physics,Modern Physics is a course designed to deepen understanding.,94,2,21
+704,Experimental Biology,Experimental Biology is a course designed to deepen understanding.,80,2,21
+705,Experimental Network Security,Experimental Network Security is a course designed to deepen understanding.,69,2,21
+706,Modern Thermodynamics,Modern Thermodynamics is a course designed to deepen understanding.,45,3,21
+707,Applied Algorithms,Applied Algorithms is a course designed to deepen understanding.,38,3,21
+708,Applied Physics,Applied Physics is a course designed to deepen understanding.,17,3,21
+709,Experimental Economics,Experimental Economics is a course designed to deepen understanding.,27,3,21
+710,Computational Ethics,Computational Ethics is a course designed to deepen understanding.,10,3,21
+711,Modern Human-Computer Interaction,Modern Human-Computer Interaction is a course designed to deepen understanding.,49,4,21
+712,Experimental Astrophysics,Experimental Astrophysics is a course designed to deepen understanding.,79,4,21
+713,Applied Data Structures,Applied Data Structures is a course designed to deepen understanding.,66,4,21
+714,Advanced Chemistry,Advanced Chemistry is a course designed to deepen understanding.,61,4,21
+715,Modern Mathematics,Modern Mathematics is a course designed to deepen understanding.,87,4,21
+716,Applied Thermodynamics,Applied Thermodynamics is a course designed to deepen understanding.,56,4,21
+717,Advanced Marine Biology,Advanced Marine Biology is a course designed to deepen understanding.,95,5,21
+718,Advanced Digital Marketing,Advanced Digital Marketing is a course designed to deepen understanding.,32,5,21
+719,Theoretical Economics,Theoretical Economics is a course designed to deepen understanding.,21,5,21
+720,Applied Introduction to Programming,Applied Introduction to Programming is a course designed to deepen understanding.,33,5,21
+721,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,27,6,21
+722,Experimental Data Structures,Experimental Data Structures is a course designed to deepen understanding.,86,6,21
+723,Experimental Digital Marketing,Experimental Digital Marketing is a course designed to deepen understanding.,69,6,21
+724,Fundamentals of Thermodynamics,Fundamentals of Thermodynamics is a course designed to deepen understanding.,17,6,21
+725,Theoretical Biomechanics,Theoretical Biomechanics is a course designed to deepen understanding.,40,6,21
+726,Applied Introduction to Programming,Applied Introduction to Programming is a course designed to deepen understanding.,69,6,21
+727,Computational Artificial Intelligence,Computational Artificial Intelligence is a course designed to deepen understanding.,59,7,21
+728,Theoretical Quantum Physics,Theoretical Quantum Physics is a course designed to deepen understanding.,34,7,21
+729,Advanced Artificial Intelligence,Advanced Artificial Intelligence is a course designed to deepen understanding.,86,7,21
+730,Fundamentals of Biology,Fundamentals of Biology is a course designed to deepen understanding.,69,7,21
+731,Fundamentals of Astrophysics,Fundamentals of Astrophysics is a course designed to deepen understanding.,19,7,21
+732,Experimental Artificial Intelligence,Experimental Artificial Intelligence is a course designed to deepen understanding.,81,7,21
+733,Theoretical Introduction to Programming,Theoretical Introduction to Programming is a course designed to deepen understanding.,29,1,22
+734,Theoretical Economics,Theoretical Economics is a course designed to deepen understanding.,97,1,22
+735,Computational Philosophy,Computational Philosophy is a course designed to deepen understanding.,38,1,22
+736,Theoretical Human-Computer Interaction,Theoretical Human-Computer Interaction is a course designed to deepen understanding.,68,1,22
+737,Modern Economics,Modern Economics is a course designed to deepen understanding.,21,2,22
+738,Computational Thermodynamics,Computational Thermodynamics is a course designed to deepen understanding.,66,2,22
+739,Applied Digital Marketing,Applied Digital Marketing is a course designed to deepen understanding.,75,2,22
+740,Applied Environmental Policy,Applied Environmental Policy is a course designed to deepen understanding.,44,2,22
+741,Fundamentals of Biomechanics,Fundamentals of Biomechanics is a course designed to deepen understanding.,20,3,22
+742,Experimental Algorithms,Experimental Algorithms is a course designed to deepen understanding.,46,3,22
+743,Modern Quantum Physics,Modern Quantum Physics is a course designed to deepen understanding.,78,3,22
+744,Applied Statistics,Applied Statistics is a course designed to deepen understanding.,87,3,22
+745,Theoretical Philosophy,Theoretical Philosophy is a course designed to deepen understanding.,27,3,22
+746,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,54,4,22
+747,Theoretical Computer Science,Theoretical Computer Science is a course designed to deepen understanding.,22,4,22
+748,Applied Algorithms,Applied Algorithms is a course designed to deepen understanding.,74,4,22
+749,Fundamentals of Artificial Intelligence,Fundamentals of Artificial Intelligence is a course designed to deepen understanding.,81,4,22
+750,Fundamentals of Human-Computer Interaction,Fundamentals of Human-Computer Interaction is a course designed to deepen understanding.,30,5,22
+751,Theoretical Chemistry,Theoretical Chemistry is a course designed to deepen understanding.,73,5,22
+752,Advanced Thermodynamics,Advanced Thermodynamics is a course designed to deepen understanding.,40,5,22
+753,Experimental Algorithms,Experimental Algorithms is a course designed to deepen understanding.,78,5,22
+754,Computational Network Security,Computational Network Security is a course designed to deepen understanding.,50,5,22
+755,Theoretical Cognitive Psychology,Theoretical Cognitive Psychology is a course designed to deepen understanding.,71,6,22
+756,Advanced Chemistry,Advanced Chemistry is a course designed to deepen understanding.,54,6,22
+757,Theoretical Physics,Theoretical Physics is a course designed to deepen understanding.,31,6,22
+758,Modern Technical Writing,Modern Technical Writing is a course designed to deepen understanding.,78,6,22
+759,Applied Introduction to Programming,Applied Introduction to Programming is a course designed to deepen understanding.,4,6,22
+760,Fundamentals of Computer Science,Fundamentals of Computer Science is a course designed to deepen understanding.,41,6,22
+761,Computational Technical Writing,Computational Technical Writing is a course designed to deepen understanding.,91,7,22
+762,Experimental Technical Writing,Experimental Technical Writing is a course designed to deepen understanding.,4,7,22
+763,Computational Biology,Computational Biology is a course designed to deepen understanding.,45,7,22
+764,Experimental Ethics,Experimental Ethics is a course designed to deepen understanding.,75,7,22
+765,Fundamentals of Introduction to Programming,Fundamentals of Introduction to Programming is a course designed to deepen understanding.,29,1,23
+766,Theoretical Introduction to Programming,Theoretical Introduction to Programming is a course designed to deepen understanding.,9,1,23
+767,Computational Quantum Physics,Computational Quantum Physics is a course designed to deepen understanding.,100,1,23
+768,Advanced Genetic Engineering,Advanced Genetic Engineering is a course designed to deepen understanding.,64,1,23
+769,Fundamentals of Introduction to Programming,Fundamentals of Introduction to Programming is a course designed to deepen understanding.,74,2,23
+770,Fundamentals of Algorithms,Fundamentals of Algorithms is a course designed to deepen understanding.,60,2,23
+771,Computational Biomechanics,Computational Biomechanics is a course designed to deepen understanding.,23,2,23
+772,Theoretical Astrophysics,Theoretical Astrophysics is a course designed to deepen understanding.,87,2,23
+773,Modern Human-Computer Interaction,Modern Human-Computer Interaction is a course designed to deepen understanding.,7,2,23
+774,Experimental Ethics,Experimental Ethics is a course designed to deepen understanding.,20,3,23
+775,Applied Genetic Engineering,Applied Genetic Engineering is a course designed to deepen understanding.,30,3,23
+776,Fundamentals of Data Structures,Fundamentals of Data Structures is a course designed to deepen understanding.,65,3,23
+777,Advanced Astrophysics,Advanced Astrophysics is a course designed to deepen understanding.,88,3,23
+778,Experimental Computer Science,Experimental Computer Science is a course designed to deepen understanding.,97,4,23
+779,Fundamentals of Quantum Physics,Fundamentals of Quantum Physics is a course designed to deepen understanding.,57,4,23
+780,Theoretical Chemistry,Theoretical Chemistry is a course designed to deepen understanding.,95,4,23
+781,Applied Technical Writing,Applied Technical Writing is a course designed to deepen understanding.,50,4,23
+782,Fundamentals of Biology,Fundamentals of Biology is a course designed to deepen understanding.,13,4,23
+783,Fundamentals of Marine Biology,Fundamentals of Marine Biology is a course designed to deepen understanding.,60,4,23
+784,Computational Genetic Engineering,Computational Genetic Engineering is a course designed to deepen understanding.,41,5,23
+785,Computational Ethics,Computational Ethics is a course designed to deepen understanding.,61,5,23
+786,Advanced Thermodynamics,Advanced Thermodynamics is a course designed to deepen understanding.,4,5,23
+787,Computational Physics,Computational Physics is a course designed to deepen understanding.,49,5,23
+788,Theoretical Data Structures,Theoretical Data Structures is a course designed to deepen understanding.,27,5,23
+789,Experimental Chemistry,Experimental Chemistry is a course designed to deepen understanding.,11,6,23
+790,Experimental Thermodynamics,Experimental Thermodynamics is a course designed to deepen understanding.,20,6,23
+791,Theoretical Technical Writing,Theoretical Technical Writing is a course designed to deepen understanding.,48,6,23
+792,Fundamentals of Genetic Engineering,Fundamentals of Genetic Engineering is a course designed to deepen understanding.,85,6,23
+793,Applied Genetic Engineering,Applied Genetic Engineering is a course designed to deepen understanding.,12,6,23
+794,Applied Physics,Applied Physics is a course designed to deepen understanding.,38,6,23
+795,Experimental Biology,Experimental Biology is a course designed to deepen understanding.,73,7,23
+796,Computational Marine Biology,Computational Marine Biology is a course designed to deepen understanding.,31,7,23
+797,Computational Philosophy,Computational Philosophy is a course designed to deepen understanding.,61,7,23
+798,Theoretical Technical Writing,Theoretical Technical Writing is a course designed to deepen understanding.,45,7,23
+799,Fundamentals of Digital Marketing,Fundamentals of Digital Marketing is a course designed to deepen understanding.,22,7,23
+800,Modern Data Structures,Modern Data Structures is a course designed to deepen understanding.,78,1,24
+801,Experimental Digital Marketing,Experimental Digital Marketing is a course designed to deepen understanding.,95,1,24
+802,Experimental Algorithms,Experimental Algorithms is a course designed to deepen understanding.,59,1,24
+803,Computational Thermodynamics,Computational Thermodynamics is a course designed to deepen understanding.,38,1,24
+804,Fundamentals of Technical Writing,Fundamentals of Technical Writing is a course designed to deepen understanding.,32,1,24
+805,Modern Network Security,Modern Network Security is a course designed to deepen understanding.,86,1,24
+806,Modern Computer Science,Modern Computer Science is a course designed to deepen understanding.,25,2,24
+807,Modern Algorithms,Modern Algorithms is a course designed to deepen understanding.,41,2,24
+808,Theoretical Quantum Physics,Theoretical Quantum Physics is a course designed to deepen understanding.,43,2,24
+809,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,71,2,24
+810,Applied Biology,Applied Biology is a course designed to deepen understanding.,12,2,24
+811,Modern Introduction to Programming,Modern Introduction to Programming is a course designed to deepen understanding.,39,2,24
+812,Modern Network Security,Modern Network Security is a course designed to deepen understanding.,84,3,24
+813,Modern Marine Biology,Modern Marine Biology is a course designed to deepen understanding.,40,3,24
+814,Theoretical Genetic Engineering,Theoretical Genetic Engineering is a course designed to deepen understanding.,2,3,24
+815,Applied Ethics,Applied Ethics is a course designed to deepen understanding.,28,3,24
+816,Experimental Economics,Experimental Economics is a course designed to deepen understanding.,65,4,24
+817,Experimental Human-Computer Interaction,Experimental Human-Computer Interaction is a course designed to deepen understanding.,40,4,24
+818,Applied Introduction to Programming,Applied Introduction to Programming is a course designed to deepen understanding.,73,4,24
+819,Applied Chemistry,Applied Chemistry is a course designed to deepen understanding.,10,4,24
+820,Computational Genetic Engineering,Computational Genetic Engineering is a course designed to deepen understanding.,100,4,24
+821,Applied Environmental Policy,Applied Environmental Policy is a course designed to deepen understanding.,79,5,24
+822,Computational Data Structures,Computational Data Structures is a course designed to deepen understanding.,45,5,24
+823,Theoretical Ethics,Theoretical Ethics is a course designed to deepen understanding.,43,5,24
+824,Theoretical Artificial Intelligence,Theoretical Artificial Intelligence is a course designed to deepen understanding.,51,5,24
+825,Theoretical Chemistry,Theoretical Chemistry is a course designed to deepen understanding.,92,5,24
+826,Modern Introduction to Programming,Modern Introduction to Programming is a course designed to deepen understanding.,17,6,24
+827,Experimental Biology,Experimental Biology is a course designed to deepen understanding.,41,6,24
+828,Advanced Ethics,Advanced Ethics is a course designed to deepen understanding.,91,6,24
+829,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,69,6,24
+830,Fundamentals of Biology,Fundamentals of Biology is a course designed to deepen understanding.,41,7,24
+831,Advanced Technical Writing,Advanced Technical Writing is a course designed to deepen understanding.,43,7,24
+832,Experimental Computer Science,Experimental Computer Science is a course designed to deepen understanding.,24,7,24
+833,Modern Artificial Intelligence,Modern Artificial Intelligence is a course designed to deepen understanding.,80,7,24
+834,Fundamentals of Astrophysics,Fundamentals of Astrophysics is a course designed to deepen understanding.,74,7,24
+835,Fundamentals of Mathematics,Fundamentals of Mathematics is a course designed to deepen understanding.,94,1,25
+836,Fundamentals of Biomechanics,Fundamentals of Biomechanics is a course designed to deepen understanding.,50,1,25
+837,Modern Genetic Engineering,Modern Genetic Engineering is a course designed to deepen understanding.,23,1,25
+838,Fundamentals of Quantum Physics,Fundamentals of Quantum Physics is a course designed to deepen understanding.,54,1,25
+839,Computational Introduction to Programming,Computational Introduction to Programming is a course designed to deepen understanding.,88,1,25
+840,Applied Computer Science,Applied Computer Science is a course designed to deepen understanding.,29,2,25
+841,Computational Quantum Physics,Computational Quantum Physics is a course designed to deepen understanding.,4,2,25
+842,Advanced Cognitive Psychology,Advanced Cognitive Psychology is a course designed to deepen understanding.,88,2,25
+843,Applied Technical Writing,Applied Technical Writing is a course designed to deepen understanding.,79,2,25
+844,Advanced Environmental Policy,Advanced Environmental Policy is a course designed to deepen understanding.,21,2,25
+845,Advanced Algorithms,Advanced Algorithms is a course designed to deepen understanding.,32,3,25
+846,Advanced Data Structures,Advanced Data Structures is a course designed to deepen understanding.,11,3,25
+847,Theoretical Quantum Physics,Theoretical Quantum Physics is a course designed to deepen understanding.,69,3,25
+848,Applied Cognitive Psychology,Applied Cognitive Psychology is a course designed to deepen understanding.,11,3,25
+849,Modern Introduction to Programming,Modern Introduction to Programming is a course designed to deepen understanding.,45,3,25
+850,Theoretical Environmental Policy,Theoretical Environmental Policy is a course designed to deepen understanding.,10,3,25
+851,Fundamentals of Artificial Intelligence,Fundamentals of Artificial Intelligence is a course designed to deepen understanding.,51,4,25
+852,Advanced Quantum Physics,Advanced Quantum Physics is a course designed to deepen understanding.,20,4,25
+853,Theoretical Network Security,Theoretical Network Security is a course designed to deepen understanding.,83,4,25
+854,Theoretical Computer Science,Theoretical Computer Science is a course designed to deepen understanding.,61,4,25
+855,Computational Environmental Policy,Computational Environmental Policy is a course designed to deepen understanding.,54,4,25
+856,Experimental Algorithms,Experimental Algorithms is a course designed to deepen understanding.,59,4,25
+857,Applied Biology,Applied Biology is a course designed to deepen understanding.,56,5,25
+858,Theoretical Thermodynamics,Theoretical Thermodynamics is a course designed to deepen understanding.,18,5,25
+859,Advanced Artificial Intelligence,Advanced Artificial Intelligence is a course designed to deepen understanding.,26,5,25
+860,Theoretical Computer Science,Theoretical Computer Science is a course designed to deepen understanding.,71,5,25
+861,Applied Chemistry,Applied Chemistry is a course designed to deepen understanding.,9,5,25
+862,Computational Biology,Computational Biology is a course designed to deepen understanding.,77,6,25
+863,Applied Biology,Applied Biology is a course designed to deepen understanding.,52,6,25
+864,Applied Chemistry,Applied Chemistry is a course designed to deepen understanding.,54,6,25
+865,Computational Environmental Policy,Computational Environmental Policy is a course designed to deepen understanding.,86,6,25
+866,Advanced Artificial Intelligence,Advanced Artificial Intelligence is a course designed to deepen understanding.,37,6,25
+867,Computational Biomechanics,Computational Biomechanics is a course designed to deepen understanding.,74,7,25
+868,Computational Data Structures,Computational Data Structures is a course designed to deepen understanding.,32,7,25
+869,Theoretical Marine Biology,Theoretical Marine Biology is a course designed to deepen understanding.,29,7,25
+870,Applied Ethics,Applied Ethics is a course designed to deepen understanding.,27,7,25
+871,Experimental Mathematics,Experimental Mathematics is a course designed to deepen understanding.,34,7,25
+872,Computational Ethics,Computational Ethics is a course designed to deepen understanding.,59,1,26
+873,Experimental Astrophysics,Experimental Astrophysics is a course designed to deepen understanding.,56,1,26
+874,Modern Cognitive Psychology,Modern Cognitive Psychology is a course designed to deepen understanding.,57,1,26
+875,Computational Economics,Computational Economics is a course designed to deepen understanding.,72,1,26
+876,Fundamentals of Economics,Fundamentals of Economics is a course designed to deepen understanding.,98,1,26
+877,Experimental Chemistry,Experimental Chemistry is a course designed to deepen understanding.,37,1,26
+878,Fundamentals of Thermodynamics,Fundamentals of Thermodynamics is a course designed to deepen understanding.,4,2,26
+879,Theoretical Chemistry,Theoretical Chemistry is a course designed to deepen understanding.,32,2,26
+880,Applied Mathematics,Applied Mathematics is a course designed to deepen understanding.,37,2,26
+881,Theoretical Artificial Intelligence,Theoretical Artificial Intelligence is a course designed to deepen understanding.,93,2,26
+882,Experimental Thermodynamics,Experimental Thermodynamics is a course designed to deepen understanding.,18,2,26
+883,Experimental Introduction to Programming,Experimental Introduction to Programming is a course designed to deepen understanding.,61,3,26
+884,Modern Physics,Modern Physics is a course designed to deepen understanding.,24,3,26
+885,Fundamentals of Chemistry,Fundamentals of Chemistry is a course designed to deepen understanding.,92,3,26
+886,Theoretical Thermodynamics,Theoretical Thermodynamics is a course designed to deepen understanding.,57,3,26
+887,Advanced Artificial Intelligence,Advanced Artificial Intelligence is a course designed to deepen understanding.,25,3,26
+888,Modern Quantum Physics,Modern Quantum Physics is a course designed to deepen understanding.,50,3,26
+889,Experimental Philosophy,Experimental Philosophy is a course designed to deepen understanding.,94,4,26
+890,Theoretical Mathematics,Theoretical Mathematics is a course designed to deepen understanding.,81,4,26
+891,Advanced Human-Computer Interaction,Advanced Human-Computer Interaction is a course designed to deepen understanding.,27,4,26
+892,Applied Environmental Policy,Applied Environmental Policy is a course designed to deepen understanding.,53,4,26
+893,Fundamentals of Algorithms,Fundamentals of Algorithms is a course designed to deepen understanding.,55,4,26
+894,Advanced Ethics,Advanced Ethics is a course designed to deepen understanding.,11,5,26
+895,Applied Human-Computer Interaction,Applied Human-Computer Interaction is a course designed to deepen understanding.,80,5,26
+896,Fundamentals of Computer Science,Fundamentals of Computer Science is a course designed to deepen understanding.,80,5,26
+897,Computational Computer Science,Computational Computer Science is a course designed to deepen understanding.,38,5,26
+898,Modern Environmental Policy,Modern Environmental Policy is a course designed to deepen understanding.,66,5,26
+899,Fundamentals of Astrophysics,Fundamentals of Astrophysics is a course designed to deepen understanding.,73,6,26
+900,Modern Thermodynamics,Modern Thermodynamics is a course designed to deepen understanding.,89,6,26
+901,Theoretical Algorithms,Theoretical Algorithms is a course designed to deepen understanding.,42,6,26
+902,Computational Philosophy,Computational Philosophy is a course designed to deepen understanding.,63,6,26
+903,Modern Biology,Modern Biology is a course designed to deepen understanding.,75,6,26
+904,Computational Chemistry,Computational Chemistry is a course designed to deepen understanding.,20,7,26
+905,Advanced Digital Marketing,Advanced Digital Marketing is a course designed to deepen understanding.,42,7,26
+906,Modern Digital Marketing,Modern Digital Marketing is a course designed to deepen understanding.,67,7,26
+907,Advanced Astrophysics,Advanced Astrophysics is a course designed to deepen understanding.,17,7,26
+908,Applied Human-Computer Interaction,Applied Human-Computer Interaction is a course designed to deepen understanding.,76,7,26
+909,Theoretical Algorithms,Theoretical Algorithms is a course designed to deepen understanding.,44,1,27
+910,Advanced Introduction to Programming,Advanced Introduction to Programming is a course designed to deepen understanding.,93,1,27
+911,Computational Technical Writing,Computational Technical Writing is a course designed to deepen understanding.,47,1,27
+912,Advanced Biology,Advanced Biology is a course designed to deepen understanding.,49,1,27
+913,Modern Physics,Modern Physics is a course designed to deepen understanding.,97,1,27
+914,Computational Physics,Computational Physics is a course designed to deepen understanding.,94,1,27
+915,Experimental Computer Science,Experimental Computer Science is a course designed to deepen understanding.,75,2,27
+916,Experimental Statistics,Experimental Statistics is a course designed to deepen understanding.,16,2,27
+917,Experimental Human-Computer Interaction,Experimental Human-Computer Interaction is a course designed to deepen understanding.,79,2,27
+918,Theoretical Ethics,Theoretical Ethics is a course designed to deepen understanding.,36,2,27
+919,Theoretical Statistics,Theoretical Statistics is a course designed to deepen understanding.,5,2,27
+920,Fundamentals of Statistics,Fundamentals of Statistics is a course designed to deepen understanding.,72,2,27
+921,Theoretical Data Structures,Theoretical Data Structures is a course designed to deepen understanding.,32,3,27
+922,Theoretical Human-Computer Interaction,Theoretical Human-Computer Interaction is a course designed to deepen understanding.,94,3,27
+923,Applied Environmental Policy,Applied Environmental Policy is a course designed to deepen understanding.,23,3,27
+924,Computational Algorithms,Computational Algorithms is a course designed to deepen understanding.,9,3,27
+925,Modern Network Security,Modern Network Security is a course designed to deepen understanding.,20,3,27
+926,Experimental Thermodynamics,Experimental Thermodynamics is a course designed to deepen understanding.,70,3,27
+927,Fundamentals of Digital Marketing,Fundamentals of Digital Marketing is a course designed to deepen understanding.,71,4,27
+928,Fundamentals of Artificial Intelligence,Fundamentals of Artificial Intelligence is a course designed to deepen understanding.,68,4,27
+929,Experimental Environmental Policy,Experimental Environmental Policy is a course designed to deepen understanding.,33,4,27
+930,Theoretical Algorithms,Theoretical Algorithms is a course designed to deepen understanding.,52,4,27
+931,Applied Quantum Physics,Applied Quantum Physics is a course designed to deepen understanding.,48,4,27
+932,Applied Computer Science,Applied Computer Science is a course designed to deepen understanding.,36,5,27
+933,Fundamentals of Mathematics,Fundamentals of Mathematics is a course designed to deepen understanding.,50,5,27
+934,Computational Ethics,Computational Ethics is a course designed to deepen understanding.,84,5,27
+935,Modern Data Structures,Modern Data Structures is a course designed to deepen understanding.,29,5,27
+936,Applied Ethics,Applied Ethics is a course designed to deepen understanding.,7,5,27
+937,Computational Algorithms,Computational Algorithms is a course designed to deepen understanding.,4,5,27
+938,Fundamentals of Genetic Engineering,Fundamentals of Genetic Engineering is a course designed to deepen understanding.,58,6,27
+939,Theoretical Astrophysics,Theoretical Astrophysics is a course designed to deepen understanding.,15,6,27
+940,Experimental Human-Computer Interaction,Experimental Human-Computer Interaction is a course designed to deepen understanding.,18,6,27
+941,Computational Biology,Computational Biology is a course designed to deepen understanding.,37,6,27
+942,Experimental Quantum Physics,Experimental Quantum Physics is a course designed to deepen understanding.,47,6,27
+943,Computational Statistics,Computational Statistics is a course designed to deepen understanding.,74,6,27
+944,Theoretical Physics,Theoretical Physics is a course designed to deepen understanding.,21,7,27
+945,Modern Biology,Modern Biology is a course designed to deepen understanding.,87,7,27
+946,Theoretical Digital Marketing,Theoretical Digital Marketing is a course designed to deepen understanding.,50,7,27
+947,Fundamentals of Introduction to Programming,Fundamentals of Introduction to Programming is a course designed to deepen understanding.,65,7,27
+948,Applied Thermodynamics,Applied Thermodynamics is a course designed to deepen understanding.,23,7,27
+949,Modern Statistics,Modern Statistics is a course designed to deepen understanding.,98,7,27
+950,Experimental Artificial Intelligence,Experimental Artificial Intelligence is a course designed to deepen understanding.,8,1,28
+951,Applied Quantum Physics,Applied Quantum Physics is a course designed to deepen understanding.,43,1,28
+952,Computational Physics,Computational Physics is a course designed to deepen understanding.,13,1,28
+953,Modern Marine Biology,Modern Marine Biology is a course designed to deepen understanding.,76,1,28
+954,Experimental Genetic Engineering,Experimental Genetic Engineering is a course designed to deepen understanding.,63,1,28
+955,Fundamentals of Cognitive Psychology,Fundamentals of Cognitive Psychology is a course designed to deepen understanding.,40,1,28
+956,Fundamentals of Computer Science,Fundamentals of Computer Science is a course designed to deepen understanding.,77,2,28
+957,Experimental Data Structures,Experimental Data Structures is a course designed to deepen understanding.,89,2,28
+958,Fundamentals of Economics,Fundamentals of Economics is a course designed to deepen understanding.,85,2,28
+959,Computational Economics,Computational Economics is a course designed to deepen understanding.,90,2,28
+960,Applied Astrophysics,Applied Astrophysics is a course designed to deepen understanding.,83,2,28
+961,Computational Statistics,Computational Statistics is a course designed to deepen understanding.,74,3,28
+962,Fundamentals of Introduction to Programming,Fundamentals of Introduction to Programming is a course designed to deepen understanding.,65,3,28
+963,Experimental Mathematics,Experimental Mathematics is a course designed to deepen understanding.,43,3,28
+964,Modern Biomechanics,Modern Biomechanics is a course designed to deepen understanding.,55,3,28
+965,Experimental Algorithms,Experimental Algorithms is a course designed to deepen understanding.,30,3,28
+966,Applied Ethics,Applied Ethics is a course designed to deepen understanding.,99,3,28
+967,Computational Artificial Intelligence,Computational Artificial Intelligence is a course designed to deepen understanding.,86,4,28
+968,Advanced Artificial Intelligence,Advanced Artificial Intelligence is a course designed to deepen understanding.,100,4,28
+969,Fundamentals of Ethics,Fundamentals of Ethics is a course designed to deepen understanding.,86,4,28
+970,Experimental Ethics,Experimental Ethics is a course designed to deepen understanding.,77,4,28
+971,Modern Philosophy,Modern Philosophy is a course designed to deepen understanding.,61,5,28
+972,Theoretical Thermodynamics,Theoretical Thermodynamics is a course designed to deepen understanding.,68,5,28
+973,Fundamentals of Environmental Policy,Fundamentals of Environmental Policy is a course designed to deepen understanding.,85,5,28
+974,Computational Data Structures,Computational Data Structures is a course designed to deepen understanding.,100,5,28
+975,Computational Ethics,Computational Ethics is a course designed to deepen understanding.,38,5,28
+976,Applied Chemistry,Applied Chemistry is a course designed to deepen understanding.,94,6,28
+977,Fundamentals of Genetic Engineering,Fundamentals of Genetic Engineering is a course designed to deepen understanding.,34,6,28
+978,Advanced Introduction to Programming,Advanced Introduction to Programming is a course designed to deepen understanding.,40,6,28
+979,Fundamentals of Algorithms,Fundamentals of Algorithms is a course designed to deepen understanding.,9,6,28
+980,Computational Mathematics,Computational Mathematics is a course designed to deepen understanding.,8,6,28
+981,Experimental Human-Computer Interaction,Experimental Human-Computer Interaction is a course designed to deepen understanding.,91,7,28
+982,Applied Biology,Applied Biology is a course designed to deepen understanding.,76,7,28
+983,Computational Mathematics,Computational Mathematics is a course designed to deepen understanding.,41,7,28
+984,Fundamentals of Economics,Fundamentals of Economics is a course designed to deepen understanding.,63,7,28
+985,Computational Genetic Engineering,Computational Genetic Engineering is a course designed to deepen understanding.,99,7,28
+986,Applied Genetic Engineering,Applied Genetic Engineering is a course designed to deepen understanding.,85,1,29
+987,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,85,1,29
+988,Applied Marine Biology,Applied Marine Biology is a course designed to deepen understanding.,42,1,29
+989,Theoretical Statistics,Theoretical Statistics is a course designed to deepen understanding.,15,1,29
+990,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,32,1,29
+991,Modern Chemistry,Modern Chemistry is a course designed to deepen understanding.,53,2,29
+992,Experimental Genetic Engineering,Experimental Genetic Engineering is a course designed to deepen understanding.,2,2,29
+993,Computational Network Security,Computational Network Security is a course designed to deepen understanding.,4,2,29
+994,Theoretical Data Structures,Theoretical Data Structures is a course designed to deepen understanding.,67,2,29
+995,Advanced Philosophy,Advanced Philosophy is a course designed to deepen understanding.,79,2,29
+996,Advanced Physics,Advanced Physics is a course designed to deepen understanding.,1,2,29
+997,Theoretical Human-Computer Interaction,Theoretical Human-Computer Interaction is a course designed to deepen understanding.,23,3,29
+998,Advanced Data Structures,Advanced Data Structures is a course designed to deepen understanding.,49,3,29
+999,Applied Marine Biology,Applied Marine Biology is a course designed to deepen understanding.,16,3,29
+1000,Experimental Biomechanics,Experimental Biomechanics is a course designed to deepen understanding.,13,3,29
+1001,Fundamentals of Biology,Fundamentals of Biology is a course designed to deepen understanding.,41,3,29
+1002,Modern Human-Computer Interaction,Modern Human-Computer Interaction is a course designed to deepen understanding.,56,4,29
+1003,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,13,4,29
+1004,Fundamentals of Thermodynamics,Fundamentals of Thermodynamics is a course designed to deepen understanding.,48,4,29
+1005,Experimental Computer Science,Experimental Computer Science is a course designed to deepen understanding.,79,4,29
+1006,Computational Chemistry,Computational Chemistry is a course designed to deepen understanding.,32,4,29
+1007,Computational Mathematics,Computational Mathematics is a course designed to deepen understanding.,85,5,29
+1008,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,48,5,29
+1009,Theoretical Genetic Engineering,Theoretical Genetic Engineering is a course designed to deepen understanding.,59,5,29
+1010,Advanced Computer Science,Advanced Computer Science is a course designed to deepen understanding.,90,5,29
+1011,Modern Computer Science,Modern Computer Science is a course designed to deepen understanding.,68,5,29
+1012,Advanced Human-Computer Interaction,Advanced Human-Computer Interaction is a course designed to deepen understanding.,7,6,29
+1013,Experimental Thermodynamics,Experimental Thermodynamics is a course designed to deepen understanding.,67,6,29
+1014,Advanced Ethics,Advanced Ethics is a course designed to deepen understanding.,40,6,29
+1015,Fundamentals of Introduction to Programming,Fundamentals of Introduction to Programming is a course designed to deepen understanding.,4,6,29
+1016,Computational Biology,Computational Biology is a course designed to deepen understanding.,19,6,29
+1017,Fundamentals of Chemistry,Fundamentals of Chemistry is a course designed to deepen understanding.,36,7,29
+1018,Advanced Algorithms,Advanced Algorithms is a course designed to deepen understanding.,98,7,29
+1019,Theoretical Biomechanics,Theoretical Biomechanics is a course designed to deepen understanding.,89,7,29
+1020,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,51,7,29
+1021,Modern Technical Writing,Modern Technical Writing is a course designed to deepen understanding.,32,7,29
+1022,Modern Biomechanics,Modern Biomechanics is a course designed to deepen understanding.,78,1,30
+1023,Theoretical Introduction to Programming,Theoretical Introduction to Programming is a course designed to deepen understanding.,25,1,30
+1024,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,8,1,30
+1025,Modern Algorithms,Modern Algorithms is a course designed to deepen understanding.,68,1,30
+1026,Theoretical Cognitive Psychology,Theoretical Cognitive Psychology is a course designed to deepen understanding.,20,1,30
+1027,Experimental Digital Marketing,Experimental Digital Marketing is a course designed to deepen understanding.,44,2,30
+1028,Advanced Data Structures,Advanced Data Structures is a course designed to deepen understanding.,43,2,30
+1029,Computational Network Security,Computational Network Security is a course designed to deepen understanding.,46,2,30
+1030,Experimental Quantum Physics,Experimental Quantum Physics is a course designed to deepen understanding.,60,2,30
+1031,Fundamentals of Astrophysics,Fundamentals of Astrophysics is a course designed to deepen understanding.,25,2,30
+1032,Fundamentals of Biomechanics,Fundamentals of Biomechanics is a course designed to deepen understanding.,69,3,30
+1033,Applied Environmental Policy,Applied Environmental Policy is a course designed to deepen understanding.,79,3,30
+1034,Fundamentals of Marine Biology,Fundamentals of Marine Biology is a course designed to deepen understanding.,17,3,30
+1035,Applied Network Security,Applied Network Security is a course designed to deepen understanding.,92,3,30
+1036,Fundamentals of Philosophy,Fundamentals of Philosophy is a course designed to deepen understanding.,71,3,30
+1037,Advanced Mathematics,Advanced Mathematics is a course designed to deepen understanding.,36,4,30
+1038,Advanced Technical Writing,Advanced Technical Writing is a course designed to deepen understanding.,64,4,30
+1039,Fundamentals of Thermodynamics,Fundamentals of Thermodynamics is a course designed to deepen understanding.,62,4,30
+1040,Modern Human-Computer Interaction,Modern Human-Computer Interaction is a course designed to deepen understanding.,77,4,30
+1041,Modern Statistics,Modern Statistics is a course designed to deepen understanding.,60,5,30
+1042,Modern Quantum Physics,Modern Quantum Physics is a course designed to deepen understanding.,55,5,30
+1043,Computational Biomechanics,Computational Biomechanics is a course designed to deepen understanding.,58,5,30
+1044,Experimental Computer Science,Experimental Computer Science is a course designed to deepen understanding.,49,5,30
+1045,Applied Thermodynamics,Applied Thermodynamics is a course designed to deepen understanding.,99,6,30
+1046,Applied Quantum Physics,Applied Quantum Physics is a course designed to deepen understanding.,66,6,30
+1047,Modern Thermodynamics,Modern Thermodynamics is a course designed to deepen understanding.,71,6,30
+1048,Fundamentals of Biomechanics,Fundamentals of Biomechanics is a course designed to deepen understanding.,71,6,30
+1049,Advanced Computer Science,Advanced Computer Science is a course designed to deepen understanding.,70,6,30
+1050,Advanced Digital Marketing,Advanced Digital Marketing is a course designed to deepen understanding.,12,6,30
+1051,Experimental Computer Science,Experimental Computer Science is a course designed to deepen understanding.,28,7,30
+1052,Experimental Biomechanics,Experimental Biomechanics is a course designed to deepen understanding.,95,7,30
+1053,Modern Network Security,Modern Network Security is a course designed to deepen understanding.,51,7,30
+1054,Fundamentals of Artificial Intelligence,Fundamentals of Artificial Intelligence is a course designed to deepen understanding.,24,7,30
+1055,Computational Physics,Computational Physics is a course designed to deepen understanding.,77,7,30
+1056,Modern Environmental Policy,Modern Environmental Policy is a course designed to deepen understanding.,1,1,31
+1057,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,31,1,31
+1058,Applied Chemistry,Applied Chemistry is a course designed to deepen understanding.,97,1,31
+1059,Modern Biology,Modern Biology is a course designed to deepen understanding.,17,1,31
+1060,Applied Biomechanics,Applied Biomechanics is a course designed to deepen understanding.,55,2,31
+1061,Applied Technical Writing,Applied Technical Writing is a course designed to deepen understanding.,2,2,31
+1062,Applied Marine Biology,Applied Marine Biology is a course designed to deepen understanding.,82,2,31
+1063,Experimental Environmental Policy,Experimental Environmental Policy is a course designed to deepen understanding.,3,2,31
+1064,Experimental Ethics,Experimental Ethics is a course designed to deepen understanding.,9,2,31
+1065,Modern Digital Marketing,Modern Digital Marketing is a course designed to deepen understanding.,59,2,31
+1066,Theoretical Computer Science,Theoretical Computer Science is a course designed to deepen understanding.,87,3,31
+1067,Applied Statistics,Applied Statistics is a course designed to deepen understanding.,50,3,31
+1068,Fundamentals of Human-Computer Interaction,Fundamentals of Human-Computer Interaction is a course designed to deepen understanding.,36,3,31
+1069,Advanced Introduction to Programming,Advanced Introduction to Programming is a course designed to deepen understanding.,98,3,31
+1070,Applied Astrophysics,Applied Astrophysics is a course designed to deepen understanding.,34,3,31
+1071,Modern Cognitive Psychology,Modern Cognitive Psychology is a course designed to deepen understanding.,50,4,31
+1072,Applied Genetic Engineering,Applied Genetic Engineering is a course designed to deepen understanding.,43,4,31
+1073,Fundamentals of Data Structures,Fundamentals of Data Structures is a course designed to deepen understanding.,68,4,31
+1074,Fundamentals of Physics,Fundamentals of Physics is a course designed to deepen understanding.,15,4,31
+1075,Modern Physics,Modern Physics is a course designed to deepen understanding.,70,4,31
+1076,Computational Technical Writing,Computational Technical Writing is a course designed to deepen understanding.,60,5,31
+1077,Applied Biomechanics,Applied Biomechanics is a course designed to deepen understanding.,16,5,31
+1078,Applied Ethics,Applied Ethics is a course designed to deepen understanding.,82,5,31
+1079,Fundamentals of Economics,Fundamentals of Economics is a course designed to deepen understanding.,97,5,31
+1080,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,82,5,31
+1081,Modern Ethics,Modern Ethics is a course designed to deepen understanding.,40,6,31
+1082,Fundamentals of Data Structures,Fundamentals of Data Structures is a course designed to deepen understanding.,81,6,31
+1083,Modern Network Security,Modern Network Security is a course designed to deepen understanding.,87,6,31
+1084,Theoretical Data Structures,Theoretical Data Structures is a course designed to deepen understanding.,33,6,31
+1085,Fundamentals of Computer Science,Fundamentals of Computer Science is a course designed to deepen understanding.,75,7,31
+1086,Experimental Digital Marketing,Experimental Digital Marketing is a course designed to deepen understanding.,68,7,31
+1087,Experimental Human-Computer Interaction,Experimental Human-Computer Interaction is a course designed to deepen understanding.,16,7,31
+1088,Modern Genetic Engineering,Modern Genetic Engineering is a course designed to deepen understanding.,93,7,31
+1089,Theoretical Mathematics,Theoretical Mathematics is a course designed to deepen understanding.,81,7,31
+1090,Fundamentals of Computer Science,Fundamentals of Computer Science is a course designed to deepen understanding.,52,1,32
+1091,Theoretical Network Security,Theoretical Network Security is a course designed to deepen understanding.,32,1,32
+1092,Applied Introduction to Programming,Applied Introduction to Programming is a course designed to deepen understanding.,20,1,32
+1093,Advanced Artificial Intelligence,Advanced Artificial Intelligence is a course designed to deepen understanding.,86,1,32
+1094,Computational Introduction to Programming,Computational Introduction to Programming is a course designed to deepen understanding.,87,2,32
+1095,Experimental Statistics,Experimental Statistics is a course designed to deepen understanding.,56,2,32
+1096,Computational Ethics,Computational Ethics is a course designed to deepen understanding.,1,2,32
+1097,Computational Quantum Physics,Computational Quantum Physics is a course designed to deepen understanding.,69,2,32
+1098,Computational Chemistry,Computational Chemistry is a course designed to deepen understanding.,87,2,32
+1099,Experimental Biology,Experimental Biology is a course designed to deepen understanding.,76,3,32
+1100,Fundamentals of Biology,Fundamentals of Biology is a course designed to deepen understanding.,65,3,32
+1101,Fundamentals of Environmental Policy,Fundamentals of Environmental Policy is a course designed to deepen understanding.,77,3,32
+1102,Experimental Cognitive Psychology,Experimental Cognitive Psychology is a course designed to deepen understanding.,40,3,32
+1103,Applied Mathematics,Applied Mathematics is a course designed to deepen understanding.,11,3,32
+1104,Computational Genetic Engineering,Computational Genetic Engineering is a course designed to deepen understanding.,16,4,32
+1105,Modern Chemistry,Modern Chemistry is a course designed to deepen understanding.,78,4,32
+1106,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,53,4,32
+1107,Modern Genetic Engineering,Modern Genetic Engineering is a course designed to deepen understanding.,29,4,32
+1108,Fundamentals of Data Structures,Fundamentals of Data Structures is a course designed to deepen understanding.,9,4,32
+1109,Theoretical Algorithms,Theoretical Algorithms is a course designed to deepen understanding.,9,5,32
+1110,Applied Digital Marketing,Applied Digital Marketing is a course designed to deepen understanding.,56,5,32
+1111,Experimental Mathematics,Experimental Mathematics is a course designed to deepen understanding.,52,5,32
+1112,Advanced Introduction to Programming,Advanced Introduction to Programming is a course designed to deepen understanding.,34,5,32
+1113,Computational Ethics,Computational Ethics is a course designed to deepen understanding.,97,5,32
+1114,Fundamentals of Physics,Fundamentals of Physics is a course designed to deepen understanding.,54,6,32
+1115,Fundamentals of Digital Marketing,Fundamentals of Digital Marketing is a course designed to deepen understanding.,90,6,32
+1116,Experimental Biomechanics,Experimental Biomechanics is a course designed to deepen understanding.,63,6,32
+1117,Modern Human-Computer Interaction,Modern Human-Computer Interaction is a course designed to deepen understanding.,56,6,32
+1118,Applied Data Structures,Applied Data Structures is a course designed to deepen understanding.,57,7,32
+1119,Applied Technical Writing,Applied Technical Writing is a course designed to deepen understanding.,44,7,32
+1120,Applied Genetic Engineering,Applied Genetic Engineering is a course designed to deepen understanding.,62,7,32
+1121,Computational Economics,Computational Economics is a course designed to deepen understanding.,24,7,32
+1122,Modern Introduction to Programming,Modern Introduction to Programming is a course designed to deepen understanding.,82,1,33
+1123,Experimental Environmental Policy,Experimental Environmental Policy is a course designed to deepen understanding.,23,1,33
+1124,Computational Network Security,Computational Network Security is a course designed to deepen understanding.,88,1,33
+1125,Computational Algorithms,Computational Algorithms is a course designed to deepen understanding.,85,1,33
+1126,Fundamentals of Introduction to Programming,Fundamentals of Introduction to Programming is a course designed to deepen understanding.,51,1,33
+1127,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,15,2,33
+1128,Modern Cognitive Psychology,Modern Cognitive Psychology is a course designed to deepen understanding.,77,2,33
+1129,Modern Genetic Engineering,Modern Genetic Engineering is a course designed to deepen understanding.,5,2,33
+1130,Computational Mathematics,Computational Mathematics is a course designed to deepen understanding.,93,2,33
+1131,Computational Statistics,Computational Statistics is a course designed to deepen understanding.,66,3,33
+1132,Modern Economics,Modern Economics is a course designed to deepen understanding.,53,3,33
+1133,Advanced Algorithms,Advanced Algorithms is a course designed to deepen understanding.,9,3,33
+1134,Applied Network Security,Applied Network Security is a course designed to deepen understanding.,63,3,33
+1135,Fundamentals of Algorithms,Fundamentals of Algorithms is a course designed to deepen understanding.,53,3,33
+1136,Modern Mathematics,Modern Mathematics is a course designed to deepen understanding.,95,3,33
+1137,Theoretical Quantum Physics,Theoretical Quantum Physics is a course designed to deepen understanding.,47,4,33
+1138,Computational Introduction to Programming,Computational Introduction to Programming is a course designed to deepen understanding.,60,4,33
+1139,Computational Genetic Engineering,Computational Genetic Engineering is a course designed to deepen understanding.,49,4,33
+1140,Fundamentals of Marine Biology,Fundamentals of Marine Biology is a course designed to deepen understanding.,60,4,33
+1141,Computational Chemistry,Computational Chemistry is a course designed to deepen understanding.,18,4,33
+1142,Experimental Genetic Engineering,Experimental Genetic Engineering is a course designed to deepen understanding.,10,4,33
+1143,Fundamentals of Ethics,Fundamentals of Ethics is a course designed to deepen understanding.,24,5,33
+1144,Modern Data Structures,Modern Data Structures is a course designed to deepen understanding.,64,5,33
+1145,Computational Chemistry,Computational Chemistry is a course designed to deepen understanding.,46,5,33
+1146,Fundamentals of Thermodynamics,Fundamentals of Thermodynamics is a course designed to deepen understanding.,80,5,33
+1147,Advanced Artificial Intelligence,Advanced Artificial Intelligence is a course designed to deepen understanding.,59,6,33
+1148,Advanced Astrophysics,Advanced Astrophysics is a course designed to deepen understanding.,49,6,33
+1149,Applied Introduction to Programming,Applied Introduction to Programming is a course designed to deepen understanding.,24,6,33
+1150,Applied Astrophysics,Applied Astrophysics is a course designed to deepen understanding.,31,6,33
+1151,Modern Technical Writing,Modern Technical Writing is a course designed to deepen understanding.,78,7,33
+1152,Computational Algorithms,Computational Algorithms is a course designed to deepen understanding.,6,7,33
+1153,Fundamentals of Marine Biology,Fundamentals of Marine Biology is a course designed to deepen understanding.,14,7,33
+1154,Modern Chemistry,Modern Chemistry is a course designed to deepen understanding.,37,7,33
+1155,Theoretical Physics,Theoretical Physics is a course designed to deepen understanding.,4,7,33
+1156,Theoretical Cognitive Psychology,Theoretical Cognitive Psychology is a course designed to deepen understanding.,53,1,34
+1157,Experimental Statistics,Experimental Statistics is a course designed to deepen understanding.,56,1,34
+1158,Modern Marine Biology,Modern Marine Biology is a course designed to deepen understanding.,92,1,34
+1159,Modern Mathematics,Modern Mathematics is a course designed to deepen understanding.,19,1,34
+1160,Advanced Environmental Policy,Advanced Environmental Policy is a course designed to deepen understanding.,1,2,34
+1161,Experimental Mathematics,Experimental Mathematics is a course designed to deepen understanding.,52,2,34
+1162,Computational Introduction to Programming,Computational Introduction to Programming is a course designed to deepen understanding.,20,2,34
+1163,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,98,2,34
+1164,Modern Network Security,Modern Network Security is a course designed to deepen understanding.,21,3,34
+1165,Experimental Genetic Engineering,Experimental Genetic Engineering is a course designed to deepen understanding.,92,3,34
+1166,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,52,3,34
+1167,Advanced Thermodynamics,Advanced Thermodynamics is a course designed to deepen understanding.,17,3,34
+1168,Theoretical Mathematics,Theoretical Mathematics is a course designed to deepen understanding.,74,3,34
+1169,Experimental Data Structures,Experimental Data Structures is a course designed to deepen understanding.,37,4,34
+1170,Modern Environmental Policy,Modern Environmental Policy is a course designed to deepen understanding.,65,4,34
+1171,Computational Algorithms,Computational Algorithms is a course designed to deepen understanding.,30,4,34
+1172,Computational Biology,Computational Biology is a course designed to deepen understanding.,43,4,34
+1173,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,41,4,34
+1174,Fundamentals of Mathematics,Fundamentals of Mathematics is a course designed to deepen understanding.,64,5,34
+1175,Advanced Artificial Intelligence,Advanced Artificial Intelligence is a course designed to deepen understanding.,77,5,34
+1176,Fundamentals of Quantum Physics,Fundamentals of Quantum Physics is a course designed to deepen understanding.,51,5,34
+1177,Advanced Quantum Physics,Advanced Quantum Physics is a course designed to deepen understanding.,92,5,34
+1178,Experimental Astrophysics,Experimental Astrophysics is a course designed to deepen understanding.,89,5,34
+1179,Experimental Biomechanics,Experimental Biomechanics is a course designed to deepen understanding.,21,5,34
+1180,Modern Digital Marketing,Modern Digital Marketing is a course designed to deepen understanding.,9,6,34
+1181,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,10,6,34
+1182,Applied Philosophy,Applied Philosophy is a course designed to deepen understanding.,99,6,34
+1183,Computational Algorithms,Computational Algorithms is a course designed to deepen understanding.,18,6,34
+1184,Applied Artificial Intelligence,Applied Artificial Intelligence is a course designed to deepen understanding.,98,6,34
+1185,Experimental Introduction to Programming,Experimental Introduction to Programming is a course designed to deepen understanding.,70,7,34
+1186,Experimental Data Structures,Experimental Data Structures is a course designed to deepen understanding.,14,7,34
+1187,Theoretical Genetic Engineering,Theoretical Genetic Engineering is a course designed to deepen understanding.,89,7,34
+1188,Computational Data Structures,Computational Data Structures is a course designed to deepen understanding.,5,7,34
+1189,Computational Network Security,Computational Network Security is a course designed to deepen understanding.,89,7,34
+1190,Experimental Digital Marketing,Experimental Digital Marketing is a course designed to deepen understanding.,29,1,35
+1191,Applied Marine Biology,Applied Marine Biology is a course designed to deepen understanding.,64,1,35
+1192,Applied Ethics,Applied Ethics is a course designed to deepen understanding.,25,1,35
+1193,Advanced Biology,Advanced Biology is a course designed to deepen understanding.,1,1,35
+1194,Modern Statistics,Modern Statistics is a course designed to deepen understanding.,33,1,35
+1195,Applied Digital Marketing,Applied Digital Marketing is a course designed to deepen understanding.,60,1,35
+1196,Advanced Mathematics,Advanced Mathematics is a course designed to deepen understanding.,58,2,35
+1197,Modern Philosophy,Modern Philosophy is a course designed to deepen understanding.,79,2,35
+1198,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,40,2,35
+1199,Modern Human-Computer Interaction,Modern Human-Computer Interaction is a course designed to deepen understanding.,59,2,35
+1200,Applied Environmental Policy,Applied Environmental Policy is a course designed to deepen understanding.,98,2,35
+1201,Theoretical Technical Writing,Theoretical Technical Writing is a course designed to deepen understanding.,15,3,35
+1202,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,94,3,35
+1203,Experimental Marine Biology,Experimental Marine Biology is a course designed to deepen understanding.,95,3,35
+1204,Modern Economics,Modern Economics is a course designed to deepen understanding.,61,3,35
+1205,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,24,3,35
+1206,Modern Data Structures,Modern Data Structures is a course designed to deepen understanding.,44,4,35
+1207,Applied Technical Writing,Applied Technical Writing is a course designed to deepen understanding.,84,4,35
+1208,Modern Artificial Intelligence,Modern Artificial Intelligence is a course designed to deepen understanding.,37,4,35
+1209,Modern Biomechanics,Modern Biomechanics is a course designed to deepen understanding.,73,4,35
+1210,Experimental Mathematics,Experimental Mathematics is a course designed to deepen understanding.,45,4,35
+1211,Applied Statistics,Applied Statistics is a course designed to deepen understanding.,74,4,35
+1212,Computational Philosophy,Computational Philosophy is a course designed to deepen understanding.,4,5,35
+1213,Computational Environmental Policy,Computational Environmental Policy is a course designed to deepen understanding.,33,5,35
+1214,Advanced Astrophysics,Advanced Astrophysics is a course designed to deepen understanding.,73,5,35
+1215,Fundamentals of Quantum Physics,Fundamentals of Quantum Physics is a course designed to deepen understanding.,33,5,35
+1216,Experimental Marine Biology,Experimental Marine Biology is a course designed to deepen understanding.,88,6,35
+1217,Modern Technical Writing,Modern Technical Writing is a course designed to deepen understanding.,100,6,35
+1218,Applied Human-Computer Interaction,Applied Human-Computer Interaction is a course designed to deepen understanding.,99,6,35
+1219,Fundamentals of Astrophysics,Fundamentals of Astrophysics is a course designed to deepen understanding.,90,6,35
+1220,Applied Introduction to Programming,Applied Introduction to Programming is a course designed to deepen understanding.,33,7,35
+1221,Computational Statistics,Computational Statistics is a course designed to deepen understanding.,26,7,35
+1222,Fundamentals of Physics,Fundamentals of Physics is a course designed to deepen understanding.,72,7,35
+1223,Advanced Statistics,Advanced Statistics is a course designed to deepen understanding.,62,7,35
+1224,Modern Cognitive Psychology,Modern Cognitive Psychology is a course designed to deepen understanding.,5,7,35
+1225,Applied Statistics,Applied Statistics is a course designed to deepen understanding.,1,1,36
+1226,Experimental Quantum Physics,Experimental Quantum Physics is a course designed to deepen understanding.,44,1,36
+1227,Applied Genetic Engineering,Applied Genetic Engineering is a course designed to deepen understanding.,79,1,36
+1228,Applied Mathematics,Applied Mathematics is a course designed to deepen understanding.,21,1,36
+1229,Applied Human-Computer Interaction,Applied Human-Computer Interaction is a course designed to deepen understanding.,69,1,36
+1230,Advanced Digital Marketing,Advanced Digital Marketing is a course designed to deepen understanding.,60,1,36
+1231,Applied Genetic Engineering,Applied Genetic Engineering is a course designed to deepen understanding.,85,2,36
+1232,Theoretical Astrophysics,Theoretical Astrophysics is a course designed to deepen understanding.,19,2,36
+1233,Computational Ethics,Computational Ethics is a course designed to deepen understanding.,59,2,36
+1234,Modern Philosophy,Modern Philosophy is a course designed to deepen understanding.,55,2,36
+1235,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,83,2,36
+1236,Theoretical Biomechanics,Theoretical Biomechanics is a course designed to deepen understanding.,80,3,36
+1237,Advanced Astrophysics,Advanced Astrophysics is a course designed to deepen understanding.,51,3,36
+1238,Advanced Genetic Engineering,Advanced Genetic Engineering is a course designed to deepen understanding.,18,3,36
+1239,Computational Cognitive Psychology,Computational Cognitive Psychology is a course designed to deepen understanding.,10,3,36
+1240,Experimental Technical Writing,Experimental Technical Writing is a course designed to deepen understanding.,38,3,36
+1241,Applied Data Structures,Applied Data Structures is a course designed to deepen understanding.,37,4,36
+1242,Computational Technical Writing,Computational Technical Writing is a course designed to deepen understanding.,9,4,36
+1243,Theoretical Chemistry,Theoretical Chemistry is a course designed to deepen understanding.,9,4,36
+1244,Applied Network Security,Applied Network Security is a course designed to deepen understanding.,7,4,36
+1245,Applied Cognitive Psychology,Applied Cognitive Psychology is a course designed to deepen understanding.,40,4,36
+1246,Advanced Genetic Engineering,Advanced Genetic Engineering is a course designed to deepen understanding.,91,5,36
+1247,Theoretical Genetic Engineering,Theoretical Genetic Engineering is a course designed to deepen understanding.,6,5,36
+1248,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,31,5,36
+1249,Experimental Introduction to Programming,Experimental Introduction to Programming is a course designed to deepen understanding.,17,5,36
+1250,Fundamentals of Mathematics,Fundamentals of Mathematics is a course designed to deepen understanding.,79,5,36
+1251,Modern Introduction to Programming,Modern Introduction to Programming is a course designed to deepen understanding.,12,6,36
+1252,Advanced Algorithms,Advanced Algorithms is a course designed to deepen understanding.,46,6,36
+1253,Fundamentals of Biology,Fundamentals of Biology is a course designed to deepen understanding.,9,6,36
+1254,Modern Artificial Intelligence,Modern Artificial Intelligence is a course designed to deepen understanding.,36,6,36
+1255,Theoretical Introduction to Programming,Theoretical Introduction to Programming is a course designed to deepen understanding.,39,6,36
+1256,Fundamentals of Network Security,Fundamentals of Network Security is a course designed to deepen understanding.,43,7,36
+1257,Computational Genetic Engineering,Computational Genetic Engineering is a course designed to deepen understanding.,100,7,36
+1258,Advanced Biology,Advanced Biology is a course designed to deepen understanding.,88,7,36
+1259,Theoretical Genetic Engineering,Theoretical Genetic Engineering is a course designed to deepen understanding.,93,7,36
+1260,Computational Economics,Computational Economics is a course designed to deepen understanding.,8,7,36
+1261,Fundamentals of Philosophy,Fundamentals of Philosophy is a course designed to deepen understanding.,6,1,37
+1262,Advanced Introduction to Programming,Advanced Introduction to Programming is a course designed to deepen understanding.,98,1,37
+1263,Modern Computer Science,Modern Computer Science is a course designed to deepen understanding.,37,1,37
+1264,Experimental Artificial Intelligence,Experimental Artificial Intelligence is a course designed to deepen understanding.,76,1,37
+1265,Theoretical Astrophysics,Theoretical Astrophysics is a course designed to deepen understanding.,98,1,37
+1266,Advanced Physics,Advanced Physics is a course designed to deepen understanding.,43,2,37
+1267,Fundamentals of Digital Marketing,Fundamentals of Digital Marketing is a course designed to deepen understanding.,90,2,37
+1268,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,7,2,37
+1269,Modern Biology,Modern Biology is a course designed to deepen understanding.,71,2,37
+1270,Experimental Marine Biology,Experimental Marine Biology is a course designed to deepen understanding.,75,2,37
+1271,Computational Economics,Computational Economics is a course designed to deepen understanding.,30,3,37
+1272,Experimental Computer Science,Experimental Computer Science is a course designed to deepen understanding.,91,3,37
+1273,Experimental Ethics,Experimental Ethics is a course designed to deepen understanding.,15,3,37
+1274,Experimental Chemistry,Experimental Chemistry is a course designed to deepen understanding.,8,3,37
+1275,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,98,3,37
+1276,Fundamentals of Digital Marketing,Fundamentals of Digital Marketing is a course designed to deepen understanding.,14,3,37
+1277,Computational Network Security,Computational Network Security is a course designed to deepen understanding.,46,4,37
+1278,Applied Computer Science,Applied Computer Science is a course designed to deepen understanding.,62,4,37
+1279,Fundamentals of Quantum Physics,Fundamentals of Quantum Physics is a course designed to deepen understanding.,30,4,37
+1280,Applied Introduction to Programming,Applied Introduction to Programming is a course designed to deepen understanding.,80,4,37
+1281,Theoretical Environmental Policy,Theoretical Environmental Policy is a course designed to deepen understanding.,46,4,37
+1282,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,3,5,37
+1283,Computational Thermodynamics,Computational Thermodynamics is a course designed to deepen understanding.,60,5,37
+1284,Computational Mathematics,Computational Mathematics is a course designed to deepen understanding.,89,5,37
+1285,Experimental Environmental Policy,Experimental Environmental Policy is a course designed to deepen understanding.,20,5,37
+1286,Fundamentals of Genetic Engineering,Fundamentals of Genetic Engineering is a course designed to deepen understanding.,56,5,37
+1287,Experimental Digital Marketing,Experimental Digital Marketing is a course designed to deepen understanding.,73,5,37
+1288,Applied Statistics,Applied Statistics is a course designed to deepen understanding.,95,6,37
+1289,Experimental Economics,Experimental Economics is a course designed to deepen understanding.,16,6,37
+1290,Computational Philosophy,Computational Philosophy is a course designed to deepen understanding.,99,6,37
+1291,Fundamentals of Quantum Physics,Fundamentals of Quantum Physics is a course designed to deepen understanding.,51,6,37
+1292,Theoretical Mathematics,Theoretical Mathematics is a course designed to deepen understanding.,61,6,37
+1293,Fundamentals of Quantum Physics,Fundamentals of Quantum Physics is a course designed to deepen understanding.,12,7,37
+1294,Experimental Introduction to Programming,Experimental Introduction to Programming is a course designed to deepen understanding.,83,7,37
+1295,Advanced Quantum Physics,Advanced Quantum Physics is a course designed to deepen understanding.,17,7,37
+1296,Modern Network Security,Modern Network Security is a course designed to deepen understanding.,91,7,37
+1297,Computational Philosophy,Computational Philosophy is a course designed to deepen understanding.,8,7,37
+1298,Fundamentals of Biomechanics,Fundamentals of Biomechanics is a course designed to deepen understanding.,64,7,37
+1299,Applied Data Structures,Applied Data Structures is a course designed to deepen understanding.,14,1,38
+1300,Modern Biology,Modern Biology is a course designed to deepen understanding.,79,1,38
+1301,Theoretical Philosophy,Theoretical Philosophy is a course designed to deepen understanding.,43,1,38
+1302,Advanced Physics,Advanced Physics is a course designed to deepen understanding.,35,1,38
+1303,Computational Marine Biology,Computational Marine Biology is a course designed to deepen understanding.,5,1,38
+1304,Theoretical Philosophy,Theoretical Philosophy is a course designed to deepen understanding.,3,2,38
+1305,Fundamentals of Biomechanics,Fundamentals of Biomechanics is a course designed to deepen understanding.,51,2,38
+1306,Fundamentals of Philosophy,Fundamentals of Philosophy is a course designed to deepen understanding.,43,2,38
+1307,Theoretical Computer Science,Theoretical Computer Science is a course designed to deepen understanding.,43,2,38
+1308,Advanced Philosophy,Advanced Philosophy is a course designed to deepen understanding.,46,2,38
+1309,Applied Ethics,Applied Ethics is a course designed to deepen understanding.,83,2,38
+1310,Modern Thermodynamics,Modern Thermodynamics is a course designed to deepen understanding.,43,3,38
+1311,Modern Biomechanics,Modern Biomechanics is a course designed to deepen understanding.,76,3,38
+1312,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,96,3,38
+1313,Theoretical Physics,Theoretical Physics is a course designed to deepen understanding.,12,3,38
+1314,Experimental Environmental Policy,Experimental Environmental Policy is a course designed to deepen understanding.,24,3,38
+1315,Fundamentals of Introduction to Programming,Fundamentals of Introduction to Programming is a course designed to deepen understanding.,49,4,38
+1316,Modern Introduction to Programming,Modern Introduction to Programming is a course designed to deepen understanding.,93,4,38
+1317,Advanced Biomechanics,Advanced Biomechanics is a course designed to deepen understanding.,99,4,38
+1318,Experimental Introduction to Programming,Experimental Introduction to Programming is a course designed to deepen understanding.,73,4,38
+1319,Fundamentals of Ethics,Fundamentals of Ethics is a course designed to deepen understanding.,38,4,38
+1320,Fundamentals of Technical Writing,Fundamentals of Technical Writing is a course designed to deepen understanding.,97,5,38
+1321,Theoretical Network Security,Theoretical Network Security is a course designed to deepen understanding.,91,5,38
+1322,Experimental Digital Marketing,Experimental Digital Marketing is a course designed to deepen understanding.,71,5,38
+1323,Fundamentals of Statistics,Fundamentals of Statistics is a course designed to deepen understanding.,93,5,38
+1324,Modern Network Security,Modern Network Security is a course designed to deepen understanding.,45,5,38
+1325,Applied Data Structures,Applied Data Structures is a course designed to deepen understanding.,82,6,38
+1326,Fundamentals of Environmental Policy,Fundamentals of Environmental Policy is a course designed to deepen understanding.,40,6,38
+1327,Experimental Astrophysics,Experimental Astrophysics is a course designed to deepen understanding.,61,6,38
+1328,Fundamentals of Thermodynamics,Fundamentals of Thermodynamics is a course designed to deepen understanding.,13,6,38
+1329,Theoretical Cognitive Psychology,Theoretical Cognitive Psychology is a course designed to deepen understanding.,20,6,38
+1330,Computational Genetic Engineering,Computational Genetic Engineering is a course designed to deepen understanding.,47,6,38
+1331,Theoretical Technical Writing,Theoretical Technical Writing is a course designed to deepen understanding.,82,7,38
+1332,Fundamentals of Biology,Fundamentals of Biology is a course designed to deepen understanding.,53,7,38
+1333,Theoretical Introduction to Programming,Theoretical Introduction to Programming is a course designed to deepen understanding.,45,7,38
+1334,Fundamentals of Human-Computer Interaction,Fundamentals of Human-Computer Interaction is a course designed to deepen understanding.,100,7,38
+1335,Computational Introduction to Programming,Computational Introduction to Programming is a course designed to deepen understanding.,25,7,38
+1336,Computational Economics,Computational Economics is a course designed to deepen understanding.,14,1,39
+1337,Theoretical Cognitive Psychology,Theoretical Cognitive Psychology is a course designed to deepen understanding.,16,1,39
+1338,Modern Cognitive Psychology,Modern Cognitive Psychology is a course designed to deepen understanding.,57,1,39
+1339,Applied Thermodynamics,Applied Thermodynamics is a course designed to deepen understanding.,95,1,39
+1340,Experimental Algorithms,Experimental Algorithms is a course designed to deepen understanding.,14,1,39
+1341,Computational Introduction to Programming,Computational Introduction to Programming is a course designed to deepen understanding.,45,2,39
+1342,Computational Genetic Engineering,Computational Genetic Engineering is a course designed to deepen understanding.,72,2,39
+1343,Theoretical Genetic Engineering,Theoretical Genetic Engineering is a course designed to deepen understanding.,80,2,39
+1344,Advanced Astrophysics,Advanced Astrophysics is a course designed to deepen understanding.,36,2,39
+1345,Fundamentals of Cognitive Psychology,Fundamentals of Cognitive Psychology is a course designed to deepen understanding.,84,3,39
+1346,Computational Cognitive Psychology,Computational Cognitive Psychology is a course designed to deepen understanding.,41,3,39
+1347,Experimental Cognitive Psychology,Experimental Cognitive Psychology is a course designed to deepen understanding.,49,3,39
+1348,Theoretical Statistics,Theoretical Statistics is a course designed to deepen understanding.,33,3,39
+1349,Fundamentals of Technical Writing,Fundamentals of Technical Writing is a course designed to deepen understanding.,86,3,39
+1350,Theoretical Philosophy,Theoretical Philosophy is a course designed to deepen understanding.,17,3,39
+1351,Theoretical Genetic Engineering,Theoretical Genetic Engineering is a course designed to deepen understanding.,42,4,39
+1352,Theoretical Chemistry,Theoretical Chemistry is a course designed to deepen understanding.,38,4,39
+1353,Modern Quantum Physics,Modern Quantum Physics is a course designed to deepen understanding.,84,4,39
+1354,Advanced Introduction to Programming,Advanced Introduction to Programming is a course designed to deepen understanding.,14,4,39
+1355,Modern Computer Science,Modern Computer Science is a course designed to deepen understanding.,54,4,39
+1356,Advanced Statistics,Advanced Statistics is a course designed to deepen understanding.,79,4,39
+1357,Experimental Marine Biology,Experimental Marine Biology is a course designed to deepen understanding.,69,5,39
+1358,Modern Mathematics,Modern Mathematics is a course designed to deepen understanding.,82,5,39
+1359,Computational Artificial Intelligence,Computational Artificial Intelligence is a course designed to deepen understanding.,44,5,39
+1360,Computational Network Security,Computational Network Security is a course designed to deepen understanding.,76,5,39
+1361,Fundamentals of Algorithms,Fundamentals of Algorithms is a course designed to deepen understanding.,16,5,39
+1362,Modern Thermodynamics,Modern Thermodynamics is a course designed to deepen understanding.,45,5,39
+1363,Theoretical Statistics,Theoretical Statistics is a course designed to deepen understanding.,78,6,39
+1364,Computational Quantum Physics,Computational Quantum Physics is a course designed to deepen understanding.,33,6,39
+1365,Computational Data Structures,Computational Data Structures is a course designed to deepen understanding.,57,6,39
+1366,Modern Biology,Modern Biology is a course designed to deepen understanding.,44,6,39
+1367,Applied Statistics,Applied Statistics is a course designed to deepen understanding.,31,6,39
+1368,Experimental Genetic Engineering,Experimental Genetic Engineering is a course designed to deepen understanding.,83,6,39
+1369,Applied Physics,Applied Physics is a course designed to deepen understanding.,52,7,39
+1370,Experimental Thermodynamics,Experimental Thermodynamics is a course designed to deepen understanding.,91,7,39
+1371,Fundamentals of Network Security,Fundamentals of Network Security is a course designed to deepen understanding.,9,7,39
+1372,Fundamentals of Marine Biology,Fundamentals of Marine Biology is a course designed to deepen understanding.,15,7,39
+1373,Experimental Technical Writing,Experimental Technical Writing is a course designed to deepen understanding.,21,1,40
+1374,Advanced Genetic Engineering,Advanced Genetic Engineering is a course designed to deepen understanding.,55,1,40
+1375,Theoretical Philosophy,Theoretical Philosophy is a course designed to deepen understanding.,35,1,40
+1376,Applied Thermodynamics,Applied Thermodynamics is a course designed to deepen understanding.,38,1,40
+1377,Computational Astrophysics,Computational Astrophysics is a course designed to deepen understanding.,92,2,40
+1378,Experimental Computer Science,Experimental Computer Science is a course designed to deepen understanding.,77,2,40
+1379,Applied Marine Biology,Applied Marine Biology is a course designed to deepen understanding.,48,2,40
+1380,Fundamentals of Artificial Intelligence,Fundamentals of Artificial Intelligence is a course designed to deepen understanding.,92,2,40
+1381,Applied Ethics,Applied Ethics is a course designed to deepen understanding.,17,2,40
+1382,Fundamentals of Statistics,Fundamentals of Statistics is a course designed to deepen understanding.,81,3,40
+1383,Advanced Artificial Intelligence,Advanced Artificial Intelligence is a course designed to deepen understanding.,31,3,40
+1384,Applied Chemistry,Applied Chemistry is a course designed to deepen understanding.,32,3,40
+1385,Theoretical Mathematics,Theoretical Mathematics is a course designed to deepen understanding.,16,3,40
+1386,Applied Digital Marketing,Applied Digital Marketing is a course designed to deepen understanding.,29,3,40
+1387,Applied Biology,Applied Biology is a course designed to deepen understanding.,46,3,40
+1388,Experimental Digital Marketing,Experimental Digital Marketing is a course designed to deepen understanding.,47,4,40
+1389,Experimental Algorithms,Experimental Algorithms is a course designed to deepen understanding.,69,4,40
+1390,Applied Technical Writing,Applied Technical Writing is a course designed to deepen understanding.,1,4,40
+1391,Theoretical Quantum Physics,Theoretical Quantum Physics is a course designed to deepen understanding.,56,4,40
+1392,Fundamentals of Ethics,Fundamentals of Ethics is a course designed to deepen understanding.,92,4,40
+1393,Fundamentals of Astrophysics,Fundamentals of Astrophysics is a course designed to deepen understanding.,66,4,40
+1394,Theoretical Quantum Physics,Theoretical Quantum Physics is a course designed to deepen understanding.,35,5,40
+1395,Fundamentals of Algorithms,Fundamentals of Algorithms is a course designed to deepen understanding.,95,5,40
+1396,Applied Cognitive Psychology,Applied Cognitive Psychology is a course designed to deepen understanding.,35,5,40
+1397,Advanced Algorithms,Advanced Algorithms is a course designed to deepen understanding.,34,5,40
+1398,Modern Artificial Intelligence,Modern Artificial Intelligence is a course designed to deepen understanding.,9,6,40
+1399,Computational Mathematics,Computational Mathematics is a course designed to deepen understanding.,57,6,40
+1400,Experimental Marine Biology,Experimental Marine Biology is a course designed to deepen understanding.,64,6,40
+1401,Advanced Thermodynamics,Advanced Thermodynamics is a course designed to deepen understanding.,46,6,40
+1402,Advanced Introduction to Programming,Advanced Introduction to Programming is a course designed to deepen understanding.,5,7,40
+1403,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,10,7,40
+1404,Advanced Biomechanics,Advanced Biomechanics is a course designed to deepen understanding.,28,7,40
+1405,Computational Biology,Computational Biology is a course designed to deepen understanding.,94,7,40
+1406,Advanced Ethics,Advanced Ethics is a course designed to deepen understanding.,100,1,41
+1407,Advanced Mathematics,Advanced Mathematics is a course designed to deepen understanding.,81,1,41
+1408,Theoretical Biomechanics,Theoretical Biomechanics is a course designed to deepen understanding.,33,1,41
+1409,Modern Thermodynamics,Modern Thermodynamics is a course designed to deepen understanding.,73,1,41
+1410,Applied Introduction to Programming,Applied Introduction to Programming is a course designed to deepen understanding.,95,1,41
+1411,Advanced Chemistry,Advanced Chemistry is a course designed to deepen understanding.,57,2,41
+1412,Modern Economics,Modern Economics is a course designed to deepen understanding.,29,2,41
+1413,Fundamentals of Philosophy,Fundamentals of Philosophy is a course designed to deepen understanding.,13,2,41
+1414,Experimental Philosophy,Experimental Philosophy is a course designed to deepen understanding.,11,2,41
+1415,Fundamentals of Ethics,Fundamentals of Ethics is a course designed to deepen understanding.,32,2,41
+1416,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,16,3,41
+1417,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,51,3,41
+1418,Advanced Marine Biology,Advanced Marine Biology is a course designed to deepen understanding.,87,3,41
+1419,Fundamentals of Data Structures,Fundamentals of Data Structures is a course designed to deepen understanding.,2,3,41
+1420,Applied Digital Marketing,Applied Digital Marketing is a course designed to deepen understanding.,88,3,41
+1421,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,46,3,41
+1422,Theoretical Chemistry,Theoretical Chemistry is a course designed to deepen understanding.,14,4,41
+1423,Computational Biology,Computational Biology is a course designed to deepen understanding.,5,4,41
+1424,Modern Genetic Engineering,Modern Genetic Engineering is a course designed to deepen understanding.,85,4,41
+1425,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,95,4,41
+1426,Theoretical Quantum Physics,Theoretical Quantum Physics is a course designed to deepen understanding.,36,4,41
+1427,Applied Mathematics,Applied Mathematics is a course designed to deepen understanding.,62,5,41
+1428,Fundamentals of Ethics,Fundamentals of Ethics is a course designed to deepen understanding.,62,5,41
+1429,Experimental Human-Computer Interaction,Experimental Human-Computer Interaction is a course designed to deepen understanding.,3,5,41
+1430,Advanced Artificial Intelligence,Advanced Artificial Intelligence is a course designed to deepen understanding.,45,5,41
+1431,Applied Genetic Engineering,Applied Genetic Engineering is a course designed to deepen understanding.,75,5,41
+1432,Computational Statistics,Computational Statistics is a course designed to deepen understanding.,82,6,41
+1433,Theoretical Thermodynamics,Theoretical Thermodynamics is a course designed to deepen understanding.,1,6,41
+1434,Experimental Astrophysics,Experimental Astrophysics is a course designed to deepen understanding.,60,6,41
+1435,Experimental Chemistry,Experimental Chemistry is a course designed to deepen understanding.,51,6,41
+1436,Modern Ethics,Modern Ethics is a course designed to deepen understanding.,38,7,41
+1437,Advanced Cognitive Psychology,Advanced Cognitive Psychology is a course designed to deepen understanding.,24,7,41
+1438,Advanced Philosophy,Advanced Philosophy is a course designed to deepen understanding.,19,7,41
+1439,Theoretical Quantum Physics,Theoretical Quantum Physics is a course designed to deepen understanding.,8,7,41
+1440,Modern Introduction to Programming,Modern Introduction to Programming is a course designed to deepen understanding.,13,1,42
+1441,Experimental Environmental Policy,Experimental Environmental Policy is a course designed to deepen understanding.,94,1,42
+1442,Experimental Digital Marketing,Experimental Digital Marketing is a course designed to deepen understanding.,32,1,42
+1443,Computational Quantum Physics,Computational Quantum Physics is a course designed to deepen understanding.,6,1,42
+1444,Applied Physics,Applied Physics is a course designed to deepen understanding.,84,1,42
+1445,Advanced Chemistry,Advanced Chemistry is a course designed to deepen understanding.,17,2,42
+1446,Computational Thermodynamics,Computational Thermodynamics is a course designed to deepen understanding.,88,2,42
+1447,Applied Artificial Intelligence,Applied Artificial Intelligence is a course designed to deepen understanding.,82,2,42
+1448,Modern Mathematics,Modern Mathematics is a course designed to deepen understanding.,21,2,42
+1449,Theoretical Computer Science,Theoretical Computer Science is a course designed to deepen understanding.,76,2,42
+1450,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,59,2,42
+1451,Applied Computer Science,Applied Computer Science is a course designed to deepen understanding.,88,3,42
+1452,Computational Physics,Computational Physics is a course designed to deepen understanding.,64,3,42
+1453,Applied Biomechanics,Applied Biomechanics is a course designed to deepen understanding.,4,3,42
+1454,Advanced Marine Biology,Advanced Marine Biology is a course designed to deepen understanding.,100,3,42
+1455,Fundamentals of Biology,Fundamentals of Biology is a course designed to deepen understanding.,31,3,42
+1456,Fundamentals of Computer Science,Fundamentals of Computer Science is a course designed to deepen understanding.,12,3,42
+1457,Applied Mathematics,Applied Mathematics is a course designed to deepen understanding.,28,4,42
+1458,Applied Quantum Physics,Applied Quantum Physics is a course designed to deepen understanding.,23,4,42
+1459,Experimental Biomechanics,Experimental Biomechanics is a course designed to deepen understanding.,55,4,42
+1460,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,74,4,42
+1461,Theoretical Introduction to Programming,Theoretical Introduction to Programming is a course designed to deepen understanding.,92,4,42
+1462,Fundamentals of Marine Biology,Fundamentals of Marine Biology is a course designed to deepen understanding.,41,4,42
+1463,Applied Technical Writing,Applied Technical Writing is a course designed to deepen understanding.,19,5,42
+1464,Experimental Quantum Physics,Experimental Quantum Physics is a course designed to deepen understanding.,57,5,42
+1465,Experimental Thermodynamics,Experimental Thermodynamics is a course designed to deepen understanding.,58,5,42
+1466,Applied Cognitive Psychology,Applied Cognitive Psychology is a course designed to deepen understanding.,29,5,42
+1467,Theoretical Statistics,Theoretical Statistics is a course designed to deepen understanding.,51,5,42
+1468,Advanced Thermodynamics,Advanced Thermodynamics is a course designed to deepen understanding.,35,6,42
+1469,Experimental Quantum Physics,Experimental Quantum Physics is a course designed to deepen understanding.,49,6,42
+1470,Experimental Biomechanics,Experimental Biomechanics is a course designed to deepen understanding.,98,6,42
+1471,Advanced Astrophysics,Advanced Astrophysics is a course designed to deepen understanding.,4,6,42
+1472,Applied Network Security,Applied Network Security is a course designed to deepen understanding.,51,6,42
+1473,Applied Artificial Intelligence,Applied Artificial Intelligence is a course designed to deepen understanding.,89,7,42
+1474,Fundamentals of Computer Science,Fundamentals of Computer Science is a course designed to deepen understanding.,35,7,42
+1475,Experimental Technical Writing,Experimental Technical Writing is a course designed to deepen understanding.,88,7,42
+1476,Fundamentals of Digital Marketing,Fundamentals of Digital Marketing is a course designed to deepen understanding.,42,7,42
+1477,Modern Computer Science,Modern Computer Science is a course designed to deepen understanding.,15,7,42
+1478,Applied Philosophy,Applied Philosophy is a course designed to deepen understanding.,90,1,43
+1479,Fundamentals of Data Structures,Fundamentals of Data Structures is a course designed to deepen understanding.,36,1,43
+1480,Computational Biology,Computational Biology is a course designed to deepen understanding.,42,1,43
+1481,Advanced Thermodynamics,Advanced Thermodynamics is a course designed to deepen understanding.,94,1,43
+1482,Theoretical Computer Science,Theoretical Computer Science is a course designed to deepen understanding.,65,1,43
+1483,Computational Human-Computer Interaction,Computational Human-Computer Interaction is a course designed to deepen understanding.,97,1,43
+1484,Fundamentals of Quantum Physics,Fundamentals of Quantum Physics is a course designed to deepen understanding.,14,2,43
+1485,Fundamentals of Genetic Engineering,Fundamentals of Genetic Engineering is a course designed to deepen understanding.,48,2,43
+1486,Applied Artificial Intelligence,Applied Artificial Intelligence is a course designed to deepen understanding.,93,2,43
+1487,Computational Philosophy,Computational Philosophy is a course designed to deepen understanding.,59,2,43
+1488,Applied Mathematics,Applied Mathematics is a course designed to deepen understanding.,68,2,43
+1489,Experimental Digital Marketing,Experimental Digital Marketing is a course designed to deepen understanding.,41,3,43
+1490,Advanced Quantum Physics,Advanced Quantum Physics is a course designed to deepen understanding.,28,3,43
+1491,Fundamentals of Human-Computer Interaction,Fundamentals of Human-Computer Interaction is a course designed to deepen understanding.,36,3,43
+1492,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,39,3,43
+1493,Fundamentals of Ethics,Fundamentals of Ethics is a course designed to deepen understanding.,89,4,43
+1494,Computational Marine Biology,Computational Marine Biology is a course designed to deepen understanding.,50,4,43
+1495,Advanced Human-Computer Interaction,Advanced Human-Computer Interaction is a course designed to deepen understanding.,13,4,43
+1496,Fundamentals of Artificial Intelligence,Fundamentals of Artificial Intelligence is a course designed to deepen understanding.,8,4,43
+1497,Theoretical Cognitive Psychology,Theoretical Cognitive Psychology is a course designed to deepen understanding.,11,5,43
+1498,Fundamentals of Data Structures,Fundamentals of Data Structures is a course designed to deepen understanding.,43,5,43
+1499,Advanced Chemistry,Advanced Chemistry is a course designed to deepen understanding.,51,5,43
+1500,Fundamentals of Statistics,Fundamentals of Statistics is a course designed to deepen understanding.,54,5,43
+1501,Fundamentals of Algorithms,Fundamentals of Algorithms is a course designed to deepen understanding.,78,6,43
+1502,Experimental Quantum Physics,Experimental Quantum Physics is a course designed to deepen understanding.,95,6,43
+1503,Experimental Artificial Intelligence,Experimental Artificial Intelligence is a course designed to deepen understanding.,14,6,43
+1504,Modern Marine Biology,Modern Marine Biology is a course designed to deepen understanding.,9,6,43
+1505,Theoretical Artificial Intelligence,Theoretical Artificial Intelligence is a course designed to deepen understanding.,49,6,43
+1506,Fundamentals of Quantum Physics,Fundamentals of Quantum Physics is a course designed to deepen understanding.,24,6,43
+1507,Advanced Biology,Advanced Biology is a course designed to deepen understanding.,11,7,43
+1508,Fundamentals of Biology,Fundamentals of Biology is a course designed to deepen understanding.,55,7,43
+1509,Computational Human-Computer Interaction,Computational Human-Computer Interaction is a course designed to deepen understanding.,21,7,43
+1510,Experimental Statistics,Experimental Statistics is a course designed to deepen understanding.,68,7,43
+1511,Computational Quantum Physics,Computational Quantum Physics is a course designed to deepen understanding.,58,7,43
+1512,Experimental Artificial Intelligence,Experimental Artificial Intelligence is a course designed to deepen understanding.,36,7,43
+1513,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,84,1,44
+1514,Theoretical Physics,Theoretical Physics is a course designed to deepen understanding.,30,1,44
+1515,Applied Statistics,Applied Statistics is a course designed to deepen understanding.,97,1,44
+1516,Experimental Statistics,Experimental Statistics is a course designed to deepen understanding.,98,1,44
+1517,Experimental Environmental Policy,Experimental Environmental Policy is a course designed to deepen understanding.,88,2,44
+1518,Modern Thermodynamics,Modern Thermodynamics is a course designed to deepen understanding.,33,2,44
+1519,Experimental Philosophy,Experimental Philosophy is a course designed to deepen understanding.,83,2,44
+1520,Experimental Statistics,Experimental Statistics is a course designed to deepen understanding.,94,2,44
+1521,Computational Human-Computer Interaction,Computational Human-Computer Interaction is a course designed to deepen understanding.,72,2,44
+1522,Theoretical Physics,Theoretical Physics is a course designed to deepen understanding.,98,2,44
+1523,Theoretical Artificial Intelligence,Theoretical Artificial Intelligence is a course designed to deepen understanding.,28,3,44
+1524,Experimental Ethics,Experimental Ethics is a course designed to deepen understanding.,96,3,44
+1525,Advanced Genetic Engineering,Advanced Genetic Engineering is a course designed to deepen understanding.,44,3,44
+1526,Applied Ethics,Applied Ethics is a course designed to deepen understanding.,94,3,44
+1527,Experimental Astrophysics,Experimental Astrophysics is a course designed to deepen understanding.,49,3,44
+1528,Modern Physics,Modern Physics is a course designed to deepen understanding.,66,3,44
+1529,Theoretical Human-Computer Interaction,Theoretical Human-Computer Interaction is a course designed to deepen understanding.,2,4,44
+1530,Modern Economics,Modern Economics is a course designed to deepen understanding.,43,4,44
+1531,Applied Digital Marketing,Applied Digital Marketing is a course designed to deepen understanding.,67,4,44
+1532,Advanced Biology,Advanced Biology is a course designed to deepen understanding.,54,4,44
+1533,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,41,5,44
+1534,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,49,5,44
+1535,Advanced Chemistry,Advanced Chemistry is a course designed to deepen understanding.,69,5,44
+1536,Modern Biomechanics,Modern Biomechanics is a course designed to deepen understanding.,38,5,44
+1537,Computational Biomechanics,Computational Biomechanics is a course designed to deepen understanding.,45,5,44
+1538,Advanced Philosophy,Advanced Philosophy is a course designed to deepen understanding.,59,5,44
+1539,Modern Data Structures,Modern Data Structures is a course designed to deepen understanding.,31,6,44
+1540,Advanced Introduction to Programming,Advanced Introduction to Programming is a course designed to deepen understanding.,64,6,44
+1541,Applied Algorithms,Applied Algorithms is a course designed to deepen understanding.,35,6,44
+1542,Fundamentals of Physics,Fundamentals of Physics is a course designed to deepen understanding.,3,6,44
+1543,Fundamentals of Mathematics,Fundamentals of Mathematics is a course designed to deepen understanding.,57,6,44
+1544,Experimental Mathematics,Experimental Mathematics is a course designed to deepen understanding.,57,7,44
+1545,Applied Ethics,Applied Ethics is a course designed to deepen understanding.,37,7,44
+1546,Modern Marine Biology,Modern Marine Biology is a course designed to deepen understanding.,83,7,44
+1547,Applied Algorithms,Applied Algorithms is a course designed to deepen understanding.,2,7,44
+1548,Computational Cognitive Psychology,Computational Cognitive Psychology is a course designed to deepen understanding.,83,1,45
+1549,Experimental Ethics,Experimental Ethics is a course designed to deepen understanding.,11,1,45
+1550,Fundamentals of Chemistry,Fundamentals of Chemistry is a course designed to deepen understanding.,18,1,45
+1551,Computational Thermodynamics,Computational Thermodynamics is a course designed to deepen understanding.,49,1,45
+1552,Experimental Technical Writing,Experimental Technical Writing is a course designed to deepen understanding.,48,2,45
+1553,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,68,2,45
+1554,Computational Biomechanics,Computational Biomechanics is a course designed to deepen understanding.,88,2,45
+1555,Experimental Economics,Experimental Economics is a course designed to deepen understanding.,81,2,45
+1556,Experimental Ethics,Experimental Ethics is a course designed to deepen understanding.,82,2,45
+1557,Applied Artificial Intelligence,Applied Artificial Intelligence is a course designed to deepen understanding.,34,2,45
+1558,Experimental Philosophy,Experimental Philosophy is a course designed to deepen understanding.,87,3,45
+1559,Advanced Data Structures,Advanced Data Structures is a course designed to deepen understanding.,55,3,45
+1560,Computational Artificial Intelligence,Computational Artificial Intelligence is a course designed to deepen understanding.,78,3,45
+1561,Modern Ethics,Modern Ethics is a course designed to deepen understanding.,80,3,45
+1562,Applied Philosophy,Applied Philosophy is a course designed to deepen understanding.,70,3,45
+1563,Advanced Algorithms,Advanced Algorithms is a course designed to deepen understanding.,76,4,45
+1564,Advanced Digital Marketing,Advanced Digital Marketing is a course designed to deepen understanding.,99,4,45
+1565,Computational Genetic Engineering,Computational Genetic Engineering is a course designed to deepen understanding.,41,4,45
+1566,Applied Human-Computer Interaction,Applied Human-Computer Interaction is a course designed to deepen understanding.,44,4,45
+1567,Computational Marine Biology,Computational Marine Biology is a course designed to deepen understanding.,24,4,45
+1568,Theoretical Thermodynamics,Theoretical Thermodynamics is a course designed to deepen understanding.,28,4,45
+1569,Advanced Biology,Advanced Biology is a course designed to deepen understanding.,3,5,45
+1570,Applied Artificial Intelligence,Applied Artificial Intelligence is a course designed to deepen understanding.,49,5,45
+1571,Computational Thermodynamics,Computational Thermodynamics is a course designed to deepen understanding.,16,5,45
+1572,Theoretical Marine Biology,Theoretical Marine Biology is a course designed to deepen understanding.,100,5,45
+1573,Theoretical Computer Science,Theoretical Computer Science is a course designed to deepen understanding.,94,6,45
+1574,Advanced Ethics,Advanced Ethics is a course designed to deepen understanding.,55,6,45
+1575,Advanced Data Structures,Advanced Data Structures is a course designed to deepen understanding.,13,6,45
+1576,Applied Biology,Applied Biology is a course designed to deepen understanding.,60,6,45
+1577,Theoretical Thermodynamics,Theoretical Thermodynamics is a course designed to deepen understanding.,65,6,45
+1578,Computational Cognitive Psychology,Computational Cognitive Psychology is a course designed to deepen understanding.,19,7,45
+1579,Theoretical Philosophy,Theoretical Philosophy is a course designed to deepen understanding.,90,7,45
+1580,Theoretical Digital Marketing,Theoretical Digital Marketing is a course designed to deepen understanding.,7,7,45
+1581,Theoretical Technical Writing,Theoretical Technical Writing is a course designed to deepen understanding.,54,7,45
+1582,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,26,7,45
+1583,Modern Biomechanics,Modern Biomechanics is a course designed to deepen understanding.,43,1,46
+1584,Theoretical Astrophysics,Theoretical Astrophysics is a course designed to deepen understanding.,68,1,46
+1585,Computational Introduction to Programming,Computational Introduction to Programming is a course designed to deepen understanding.,17,1,46
+1586,Computational Biology,Computational Biology is a course designed to deepen understanding.,6,1,46
+1587,Theoretical Network Security,Theoretical Network Security is a course designed to deepen understanding.,63,1,46
+1588,Advanced Statistics,Advanced Statistics is a course designed to deepen understanding.,46,2,46
+1589,Advanced Cognitive Psychology,Advanced Cognitive Psychology is a course designed to deepen understanding.,28,2,46
+1590,Theoretical Physics,Theoretical Physics is a course designed to deepen understanding.,29,2,46
+1591,Applied Data Structures,Applied Data Structures is a course designed to deepen understanding.,56,2,46
+1592,Theoretical Human-Computer Interaction,Theoretical Human-Computer Interaction is a course designed to deepen understanding.,63,2,46
+1593,Applied Introduction to Programming,Applied Introduction to Programming is a course designed to deepen understanding.,42,2,46
+1594,Experimental Marine Biology,Experimental Marine Biology is a course designed to deepen understanding.,52,3,46
+1595,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,91,3,46
+1596,Computational Genetic Engineering,Computational Genetic Engineering is a course designed to deepen understanding.,97,3,46
+1597,Computational Biology,Computational Biology is a course designed to deepen understanding.,41,3,46
+1598,Experimental Environmental Policy,Experimental Environmental Policy is a course designed to deepen understanding.,84,3,46
+1599,Theoretical Quantum Physics,Theoretical Quantum Physics is a course designed to deepen understanding.,31,4,46
+1600,Computational Biology,Computational Biology is a course designed to deepen understanding.,70,4,46
+1601,Modern Chemistry,Modern Chemistry is a course designed to deepen understanding.,77,4,46
+1602,Advanced Biology,Advanced Biology is a course designed to deepen understanding.,47,4,46
+1603,Theoretical Digital Marketing,Theoretical Digital Marketing is a course designed to deepen understanding.,19,5,46
+1604,Experimental Cognitive Psychology,Experimental Cognitive Psychology is a course designed to deepen understanding.,49,5,46
+1605,Computational Biology,Computational Biology is a course designed to deepen understanding.,23,5,46
+1606,Theoretical Physics,Theoretical Physics is a course designed to deepen understanding.,37,5,46
+1607,Modern Cognitive Psychology,Modern Cognitive Psychology is a course designed to deepen understanding.,73,5,46
+1608,Modern Ethics,Modern Ethics is a course designed to deepen understanding.,20,5,46
+1609,Theoretical Algorithms,Theoretical Algorithms is a course designed to deepen understanding.,88,6,46
+1610,Applied Environmental Policy,Applied Environmental Policy is a course designed to deepen understanding.,37,6,46
+1611,Modern Philosophy,Modern Philosophy is a course designed to deepen understanding.,79,6,46
+1612,Applied Technical Writing,Applied Technical Writing is a course designed to deepen understanding.,24,6,46
+1613,Fundamentals of Introduction to Programming,Fundamentals of Introduction to Programming is a course designed to deepen understanding.,54,7,46
+1614,Fundamentals of Marine Biology,Fundamentals of Marine Biology is a course designed to deepen understanding.,11,7,46
+1615,Fundamentals of Mathematics,Fundamentals of Mathematics is a course designed to deepen understanding.,33,7,46
+1616,Advanced Algorithms,Advanced Algorithms is a course designed to deepen understanding.,9,7,46
+1617,Computational Genetic Engineering,Computational Genetic Engineering is a course designed to deepen understanding.,26,7,46
+1618,Fundamentals of Cognitive Psychology,Fundamentals of Cognitive Psychology is a course designed to deepen understanding.,8,1,47
+1619,Fundamentals of Statistics,Fundamentals of Statistics is a course designed to deepen understanding.,80,1,47
+1620,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,81,1,47
+1621,Advanced Digital Marketing,Advanced Digital Marketing is a course designed to deepen understanding.,97,1,47
+1622,Experimental Economics,Experimental Economics is a course designed to deepen understanding.,76,1,47
+1623,Experimental Chemistry,Experimental Chemistry is a course designed to deepen understanding.,78,2,47
+1624,Experimental Economics,Experimental Economics is a course designed to deepen understanding.,44,2,47
+1625,Applied Biology,Applied Biology is a course designed to deepen understanding.,52,2,47
+1626,Theoretical Algorithms,Theoretical Algorithms is a course designed to deepen understanding.,35,2,47
+1627,Computational Mathematics,Computational Mathematics is a course designed to deepen understanding.,40,2,47
+1628,Experimental Marine Biology,Experimental Marine Biology is a course designed to deepen understanding.,33,2,47
+1629,Modern Statistics,Modern Statistics is a course designed to deepen understanding.,45,3,47
+1630,Advanced Computer Science,Advanced Computer Science is a course designed to deepen understanding.,74,3,47
+1631,Applied Mathematics,Applied Mathematics is a course designed to deepen understanding.,59,3,47
+1632,Advanced Physics,Advanced Physics is a course designed to deepen understanding.,42,3,47
+1633,Theoretical Biology,Theoretical Biology is a course designed to deepen understanding.,37,3,47
+1634,Advanced Physics,Advanced Physics is a course designed to deepen understanding.,63,4,47
+1635,Modern Statistics,Modern Statistics is a course designed to deepen understanding.,92,4,47
+1636,Theoretical Ethics,Theoretical Ethics is a course designed to deepen understanding.,18,4,47
+1637,Advanced Chemistry,Advanced Chemistry is a course designed to deepen understanding.,50,4,47
+1638,Experimental Chemistry,Experimental Chemistry is a course designed to deepen understanding.,60,4,47
+1639,Experimental Physics,Experimental Physics is a course designed to deepen understanding.,55,5,47
+1640,Computational Network Security,Computational Network Security is a course designed to deepen understanding.,79,5,47
+1641,Computational Biology,Computational Biology is a course designed to deepen understanding.,6,5,47
+1642,Theoretical Data Structures,Theoretical Data Structures is a course designed to deepen understanding.,96,5,47
+1643,Applied Economics,Applied Economics is a course designed to deepen understanding.,60,5,47
+1644,Experimental Thermodynamics,Experimental Thermodynamics is a course designed to deepen understanding.,18,5,47
+1645,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,88,6,47
+1646,Theoretical Algorithms,Theoretical Algorithms is a course designed to deepen understanding.,33,6,47
+1647,Computational Astrophysics,Computational Astrophysics is a course designed to deepen understanding.,73,6,47
+1648,Modern Chemistry,Modern Chemistry is a course designed to deepen understanding.,63,6,47
+1649,Advanced Network Security,Advanced Network Security is a course designed to deepen understanding.,15,7,47
+1650,Applied Mathematics,Applied Mathematics is a course designed to deepen understanding.,95,7,47
+1651,Experimental Human-Computer Interaction,Experimental Human-Computer Interaction is a course designed to deepen understanding.,81,7,47
+1652,Fundamentals of Astrophysics,Fundamentals of Astrophysics is a course designed to deepen understanding.,42,7,47
+1653,Fundamentals of Network Security,Fundamentals of Network Security is a course designed to deepen understanding.,57,7,47
+1654,Modern Artificial Intelligence,Modern Artificial Intelligence is a course designed to deepen understanding.,63,1,48
+1655,Advanced Introduction to Programming,Advanced Introduction to Programming is a course designed to deepen understanding.,46,1,48
+1656,Computational Human-Computer Interaction,Computational Human-Computer Interaction is a course designed to deepen understanding.,2,1,48
+1657,Fundamentals of Network Security,Fundamentals of Network Security is a course designed to deepen understanding.,54,1,48
+1658,Fundamentals of Artificial Intelligence,Fundamentals of Artificial Intelligence is a course designed to deepen understanding.,69,1,48
+1659,Advanced Cognitive Psychology,Advanced Cognitive Psychology is a course designed to deepen understanding.,38,2,48
+1660,Theoretical Biomechanics,Theoretical Biomechanics is a course designed to deepen understanding.,71,2,48
+1661,Experimental Ethics,Experimental Ethics is a course designed to deepen understanding.,44,2,48
+1662,Fundamentals of Computer Science,Fundamentals of Computer Science is a course designed to deepen understanding.,2,2,48
+1663,Fundamentals of Digital Marketing,Fundamentals of Digital Marketing is a course designed to deepen understanding.,15,2,48
+1664,Fundamentals of Artificial Intelligence,Fundamentals of Artificial Intelligence is a course designed to deepen understanding.,7,3,48
+1665,Fundamentals of Philosophy,Fundamentals of Philosophy is a course designed to deepen understanding.,1,3,48
+1666,Applied Chemistry,Applied Chemistry is a course designed to deepen understanding.,4,3,48
+1667,Modern Human-Computer Interaction,Modern Human-Computer Interaction is a course designed to deepen understanding.,92,3,48
+1668,Computational Artificial Intelligence,Computational Artificial Intelligence is a course designed to deepen understanding.,76,3,48
+1669,Applied Introduction to Programming,Applied Introduction to Programming is a course designed to deepen understanding.,29,3,48
+1670,Computational Marine Biology,Computational Marine Biology is a course designed to deepen understanding.,61,4,48
+1671,Fundamentals of Algorithms,Fundamentals of Algorithms is a course designed to deepen understanding.,10,4,48
+1672,Fundamentals of Chemistry,Fundamentals of Chemistry is a course designed to deepen understanding.,29,4,48
+1673,Computational Data Structures,Computational Data Structures is a course designed to deepen understanding.,74,4,48
+1674,Computational Physics,Computational Physics is a course designed to deepen understanding.,94,5,48
+1675,Fundamentals of Chemistry,Fundamentals of Chemistry is a course designed to deepen understanding.,3,5,48
+1676,Applied Quantum Physics,Applied Quantum Physics is a course designed to deepen understanding.,54,5,48
+1677,Modern Marine Biology,Modern Marine Biology is a course designed to deepen understanding.,28,5,48
+1678,Modern Ethics,Modern Ethics is a course designed to deepen understanding.,51,6,48
+1679,Fundamentals of Technical Writing,Fundamentals of Technical Writing is a course designed to deepen understanding.,38,6,48
+1680,Experimental Computer Science,Experimental Computer Science is a course designed to deepen understanding.,5,6,48
+1681,Applied Marine Biology,Applied Marine Biology is a course designed to deepen understanding.,7,6,48
+1682,Modern Network Security,Modern Network Security is a course designed to deepen understanding.,49,7,48
+1683,Fundamentals of Astrophysics,Fundamentals of Astrophysics is a course designed to deepen understanding.,91,7,48
+1684,Computational Digital Marketing,Computational Digital Marketing is a course designed to deepen understanding.,1,7,48
+1685,Fundamentals of Statistics,Fundamentals of Statistics is a course designed to deepen understanding.,68,7,48
+1686,Advanced Quantum Physics,Advanced Quantum Physics is a course designed to deepen understanding.,31,7,48
+1687,Advanced Astrophysics,Advanced Astrophysics is a course designed to deepen understanding.,47,1,49
+1688,Experimental Artificial Intelligence,Experimental Artificial Intelligence is a course designed to deepen understanding.,98,1,49
+1689,Advanced Artificial Intelligence,Advanced Artificial Intelligence is a course designed to deepen understanding.,53,1,49
+1690,Modern Statistics,Modern Statistics is a course designed to deepen understanding.,38,1,49
+1691,Experimental Thermodynamics,Experimental Thermodynamics is a course designed to deepen understanding.,32,1,49
+1692,Theoretical Mathematics,Theoretical Mathematics is a course designed to deepen understanding.,9,1,49
+1693,Applied Algorithms,Applied Algorithms is a course designed to deepen understanding.,63,2,49
+1694,Computational Mathematics,Computational Mathematics is a course designed to deepen understanding.,90,2,49
+1695,Applied Ethics,Applied Ethics is a course designed to deepen understanding.,11,2,49
+1696,Experimental Mathematics,Experimental Mathematics is a course designed to deepen understanding.,78,2,49
+1697,Modern Environmental Policy,Modern Environmental Policy is a course designed to deepen understanding.,25,2,49
+1698,Fundamentals of Genetic Engineering,Fundamentals of Genetic Engineering is a course designed to deepen understanding.,77,3,49
+1699,Theoretical Genetic Engineering,Theoretical Genetic Engineering is a course designed to deepen understanding.,18,3,49
+1700,Applied Introduction to Programming,Applied Introduction to Programming is a course designed to deepen understanding.,1,3,49
+1701,Theoretical Mathematics,Theoretical Mathematics is a course designed to deepen understanding.,35,3,49
+1702,Fundamentals of Computer Science,Fundamentals of Computer Science is a course designed to deepen understanding.,95,3,49
+1703,Theoretical Physics,Theoretical Physics is a course designed to deepen understanding.,40,3,49
+1704,Fundamentals of Marine Biology,Fundamentals of Marine Biology is a course designed to deepen understanding.,75,4,49
+1705,Modern Human-Computer Interaction,Modern Human-Computer Interaction is a course designed to deepen understanding.,54,4,49
+1706,Advanced Digital Marketing,Advanced Digital Marketing is a course designed to deepen understanding.,57,4,49
+1707,Theoretical Economics,Theoretical Economics is a course designed to deepen understanding.,78,4,49
+1708,Applied Cognitive Psychology,Applied Cognitive Psychology is a course designed to deepen understanding.,19,4,49
+1709,Theoretical Chemistry,Theoretical Chemistry is a course designed to deepen understanding.,32,4,49
+1710,Computational Cognitive Psychology,Computational Cognitive Psychology is a course designed to deepen understanding.,77,5,49
+1711,Experimental Thermodynamics,Experimental Thermodynamics is a course designed to deepen understanding.,71,5,49
+1712,Modern Network Security,Modern Network Security is a course designed to deepen understanding.,44,5,49
+1713,Applied Cognitive Psychology,Applied Cognitive Psychology is a course designed to deepen understanding.,26,5,49
+1714,Experimental Cognitive Psychology,Experimental Cognitive Psychology is a course designed to deepen understanding.,38,5,49
+1715,Computational Economics,Computational Economics is a course designed to deepen understanding.,64,5,49
+1716,Modern Ethics,Modern Ethics is a course designed to deepen understanding.,61,6,49
+1717,Fundamentals of Mathematics,Fundamentals of Mathematics is a course designed to deepen understanding.,83,6,49
+1718,Theoretical Mathematics,Theoretical Mathematics is a course designed to deepen understanding.,65,6,49
+1719,Modern Chemistry,Modern Chemistry is a course designed to deepen understanding.,74,6,49
+1720,Theoretical Computer Science,Theoretical Computer Science is a course designed to deepen understanding.,62,6,49
+1721,Computational Quantum Physics,Computational Quantum Physics is a course designed to deepen understanding.,51,7,49
+1722,Experimental Technical Writing,Experimental Technical Writing is a course designed to deepen understanding.,79,7,49
+1723,Experimental Human-Computer Interaction,Experimental Human-Computer Interaction is a course designed to deepen understanding.,36,7,49
+1724,Fundamentals of Economics,Fundamentals of Economics is a course designed to deepen understanding.,73,7,49
+1725,Advanced Physics,Advanced Physics is a course designed to deepen understanding.,45,1,50
+1726,Modern Economics,Modern Economics is a course designed to deepen understanding.,65,1,50
+1727,Theoretical Chemistry,Theoretical Chemistry is a course designed to deepen understanding.,49,1,50
+1728,Applied Biology,Applied Biology is a course designed to deepen understanding.,84,1,50
+1729,Advanced Marine Biology,Advanced Marine Biology is a course designed to deepen understanding.,26,2,50
+1730,Computational Thermodynamics,Computational Thermodynamics is a course designed to deepen understanding.,49,2,50
+1731,Applied Statistics,Applied Statistics is a course designed to deepen understanding.,57,2,50
+1732,Computational Human-Computer Interaction,Computational Human-Computer Interaction is a course designed to deepen understanding.,75,2,50
+1733,Modern Astrophysics,Modern Astrophysics is a course designed to deepen understanding.,93,2,50
+1734,Experimental Marine Biology,Experimental Marine Biology is a course designed to deepen understanding.,99,2,50
+1735,Applied Thermodynamics,Applied Thermodynamics is a course designed to deepen understanding.,33,3,50
+1736,Computational Ethics,Computational Ethics is a course designed to deepen understanding.,21,3,50
+1737,Fundamentals of Economics,Fundamentals of Economics is a course designed to deepen understanding.,29,3,50
+1738,Computational Economics,Computational Economics is a course designed to deepen understanding.,4,3,50
+1739,Fundamentals of Human-Computer Interaction,Fundamentals of Human-Computer Interaction is a course designed to deepen understanding.,93,3,50
+1740,Fundamentals of Technical Writing,Fundamentals of Technical Writing is a course designed to deepen understanding.,66,3,50
+1741,Fundamentals of Ethics,Fundamentals of Ethics is a course designed to deepen understanding.,22,4,50
+1742,Theoretical Thermodynamics,Theoretical Thermodynamics is a course designed to deepen understanding.,43,4,50
+1743,Experimental Astrophysics,Experimental Astrophysics is a course designed to deepen understanding.,95,4,50
+1744,Applied Environmental Policy,Applied Environmental Policy is a course designed to deepen understanding.,70,4,50
+1745,Advanced Digital Marketing,Advanced Digital Marketing is a course designed to deepen understanding.,28,5,50
+1746,Modern Environmental Policy,Modern Environmental Policy is a course designed to deepen understanding.,47,5,50
+1747,Modern Ethics,Modern Ethics is a course designed to deepen understanding.,33,5,50
+1748,Fundamentals of Artificial Intelligence,Fundamentals of Artificial Intelligence is a course designed to deepen understanding.,41,5,50
+1749,Theoretical Physics,Theoretical Physics is a course designed to deepen understanding.,61,5,50
+1750,Advanced Marine Biology,Advanced Marine Biology is a course designed to deepen understanding.,53,6,50
+1751,Theoretical Astrophysics,Theoretical Astrophysics is a course designed to deepen understanding.,87,6,50
+1752,Computational Biology,Computational Biology is a course designed to deepen understanding.,57,6,50
+1753,Advanced Biology,Advanced Biology is a course designed to deepen understanding.,60,6,50
+1754,Experimental Network Security,Experimental Network Security is a course designed to deepen understanding.,26,6,50
+1755,Theoretical Astrophysics,Theoretical Astrophysics is a course designed to deepen understanding.,16,7,50
+1756,Theoretical Technical Writing,Theoretical Technical Writing is a course designed to deepen understanding.,92,7,50
+1757,Applied Data Structures,Applied Data Structures is a course designed to deepen understanding.,11,7,50
+1758,Theoretical Statistics,Theoretical Statistics is a course designed to deepen understanding.,87,7,50
+1759,Modern Statistics,Modern Statistics is a course designed to deepen understanding.,67,7,50
+1760,Computational Cognitive Psychology,Computational Cognitive Psychology is a course designed to deepen understanding.,17,7,50
