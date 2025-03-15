@@ -69,3 +69,7 @@ l10n/
 */bin
 */archive
 
+
+# Rust
+**/debug/
+**/target/
