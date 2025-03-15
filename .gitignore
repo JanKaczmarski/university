@@ -73,3 +73,8 @@ l10n/
 # Rust
 **/debug/
 **/target/
+
+# Clang - Operating Systems
+**/bin
+**/operating_systems/lib
+**/operating_systems/build
