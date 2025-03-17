@@ -7,13 +7,16 @@ BUILD_DIR=build
 LIB_DIR=lib
 
 .PHONY: all
-all: mainDynamic mainStatic
+all: mainStatic mainShared mainDynamic
 
 
-mainDynamic: libDynamicMain | $(BIN_DIR)
-	gcc -L$(LIB_DIR)  main.c -lmain -o $(BIN_DIR)/mainDynamic
+mainDynamic: mainDynamic.c libSharedMain | $(BIN_DIR)
+	$(CC) $< -o $(BIN_DIR)/$@
 
-libDynamicMain: main.o collatz.o | $(LIB_DIR)
+mainShared: libSharedMain | $(BIN_DIR)
+	gcc -L$(LIB_DIR)  main.c -lmain -o $(BIN_DIR)/$@
+
+libSharedMain: main.o collatz.o | $(LIB_DIR)
 	gcc -shared -o $(LIB_DIR)/libmain.so $(BUILD_DIR)/main.o $(BUILD_DIR)/collatz.o
 
 
