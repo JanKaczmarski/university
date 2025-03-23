@@ -7,8 +7,8 @@
 #define MAXBUFLEN 1000000
 #define MAXFILENAMELEN 1024
 
-char* g_inputDir = NULL;
-char* g_outputDir = NULL;
+static char* g_inputDir = NULL;
+static char* g_outputDir = NULL;
 
 void reverseString(char* line, int len) {
     int start = 0;
