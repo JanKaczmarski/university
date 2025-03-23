@@ -8,6 +8,10 @@ BUILD_DIR=build
 .PHONY: all
 all: main
 
+# Run main program with default input and output directories
+run_with_defaults: main
+	./$(BIN_DIR)/main -i art -o results
+
 # | - specify that depndency must exist before target is build, but
 # isn't target isn't rebuilded (in this case countdown) when | dependency changes
 main: main.o | $(BIN_DIR)

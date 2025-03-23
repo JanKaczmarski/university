@@ -2,11 +2,13 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ftw.h>
+#include <getopt.h>
 
 #define MAXBUFLEN 1000000
 #define MAXFILENAMELEN 1024
-#define INPUTDIR "art"
-#define OUTPUTDIR "results"
+
+char* g_inputDir = NULL;
+char* g_outputDir = NULL;
 
 void reverseString(char* line, int len) {
     int start = 0;
@@ -16,8 +18,7 @@ void reverseString(char* line, int len) {
     while (start < end) {
         temp = line[start];
         line[start] = line[end];
-        line[end] = temp;
-        start++;
+        line[end] = temp; start++;
         end--;
     }
 }
@@ -90,7 +91,7 @@ int processFile(const char *path, const struct stat *sb, int typeflag, struct FT
             }
 
             char outFileName[MAXFILENAMELEN];
-            strcpy(outFileName, OUTPUTDIR);
+            strcpy(outFileName, g_outputDir);
             strcat(outFileName, "/");
             strcat(outFileName, filename);
             *(strrchr(outFileName, '.')) = '\0';
@@ -101,9 +102,33 @@ int processFile(const char *path, const struct stat *sb, int typeflag, struct FT
     return 0;
 }
 
-int main() {
-    mkdir(OUTPUTDIR, 0777);
+int main(int argc, char **argv) {
+    int opt;
 
-    nftw(INPUTDIR, processFile, 10, FTW_PHYS);
+    // "i:o:" - specify which flags are keywords accepted
+    while ((opt = getopt(argc, argv, "i:o:")) != -1) {
+        switch (opt) {
+            case 'i':
+                // opetarg stores next value after current flag (-i <inputDir>) -> then optarg is char* to <inputDir>
+                g_inputDir = optarg;
+                break;
+            case 'o':
+                g_outputDir = optarg;
+                break;
+            default:
+                fprintf(stderr, "Usage: %s -i <inputDir> -o <outputDir>\n", argv[0]);
+                return 1;
+        }
+    }
+
+    if (!g_inputDir || !g_outputDir) {
+        fprintf(stderr, "Missing required arguments.\n");
+        fprintf(stderr, "Usage: %s -i <inputDir> -o <outputDir>\n", argv[0]);
+        return 1;
+    }
+
+    mkdir(g_outputDir, 0777);
+
+    nftw(g_inputDir, processFile, 10, FTW_PHYS);
     return 0;
 }
