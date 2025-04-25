@@ -10,8 +10,8 @@ LIB_DIR=lib
 all: mainStatic mainShared mainDynamic
 
 
-mainDynamic: mainDynamic.c libSharedMain | $(BIN_DIR)
-	$(CC) $< -o $(BIN_DIR)/$@
+mainDynamic: main.c libSharedMain | $(BIN_DIR)
+	$(CC) -DDYNAMIC_MODE $< -o $(BIN_DIR)/$@ -L$(LIB_DIR) -lmain -Wl,-rpath,$(LIB_DIR)
 
 mainShared: libSharedMain | $(BIN_DIR)
 	gcc -L$(LIB_DIR)  main.c -lmain -o $(BIN_DIR)/$@

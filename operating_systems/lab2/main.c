@@ -1,11 +1,17 @@
-#include <stdlib.h>
 #include <stdio.h>
-#include "collatz.h"
+#include <stdlib.h>
 
-#define MAX_ITER 100
+#define MAX_INPUT 100
 
-int collatz_conjecture(int input);
-void test_collatz_convergence(int input, int max_iter, int *steps);
+#ifdef DYNAMIC_MODE
+#include <dlfcn.h>
+#endif
+
+
+#ifndef DYNAMIC_MODE
+// Declare the function normally — linked statically or via shared library
+extern void test_collatz_convergence(int input, int max_iter, int *steps);
+#endif
 
 int main(int argc, char **argv) {
     if (argc < 2) {
@@ -16,8 +22,26 @@ int main(int argc, char **argv) {
     int input = atoi(argv[1]);
     int i = 0;
 
-    test_collatz_convergence(input, MAX_ITER, &i);
+#ifdef DYNAMIC_MODE
+    void *handle = dlopen("lib/libmain.so", RTLD_LAZY);
+    if (!handle) {
+        printf("Failed to open lib/libmain.so file for dynamic lib load\n");
+        return 1;
+    }
+
+    void (*lib_fun)(int, int, int *) = (void (*)(int, int, int *))dlsym(handle, "test_collatz_convergence");
+
+    if (dlerror() != NULL || lib_fun == NULL) {
+        printf("Failed to import library function test_collatz_convergence\n");
+        dlclose(handle);
+        return 1;
+    }
+
+    lib_fun(input, MAX_INPUT, &i);
+    dlclose(handle);
+#else
+    test_collatz_convergence(input, MAX_INPUT, &i);
+#endif
 
     return 0;
 }
-
