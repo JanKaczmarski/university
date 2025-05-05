@@ -19,7 +19,7 @@ echo "[run.sh] Starting worker"
 ./worker &
 
 echo "[run.sh] Starting master"
-echo "-20 20" | ./master
+echo "0 1" | ./master
 
 
 sleep 0.1

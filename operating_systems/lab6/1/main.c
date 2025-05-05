@@ -5,15 +5,15 @@
 #include <sys/wait.h>
 #include <sys/time.h>
 
-float func(float x) {
+double func(double x) {
     return 4.0 / (x * x + 1);
 }
 
-float getRiemanValue(float (*func)(float), float a, float b) {
+double getRiemanValue(double (*func)(double), double a, double b) {
     return fabs(b - a) * func((a + b) / 2.0);
 }
 
-float get_time_ms() {
+double get_time_ms() {
     struct timeval t;
     gettimeofday(&t, NULL);
     return (t.tv_sec * 1000.0) + (t.tv_usec / 1000.0);
@@ -25,32 +25,32 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
-    float delta_x = atof(argv[1]);
+    double delta_x = atof(argv[1]);
     int max_processes = atoi(argv[2]);
 
     for (int k = 1; k <= max_processes; k++) {
         int pipes[k][2];
-        float total = 0.0;
+        double total = 0.0;
 
-        float start_time = get_time_ms();
+        double start_time = get_time_ms();
 
         for (int i = 0; i < k; i++) {
             pipe(pipes[i]);
 
             if (fork() == 0) {
-                close(pipes[i][0]); // close read end
+                close(pipes[i][0]);
 
-                float a = (1.0 / k) * i;
-                float b = a + (1.0 / k);
-                float sum = 0.0;
+                double a = (1.0 / k) * i;
+                double b = a + (1.0 / k);
+                double sum = 0.0;
 
-                for (float x = a; x < b; x += delta_x) {
-                    float next = x + delta_x;
+                for (double x = a; x < b; x += delta_x) {
+                    double next = x + delta_x;
                     if (next > b) next = b;
                     sum += getRiemanValue(func, x, next);
                 }
 
-                write(pipes[i][1], &sum, sizeof(float));
+                write(pipes[i][1], &sum, sizeof(double));
                 close(pipes[i][1]);
                 exit(0);
             }
@@ -58,9 +58,9 @@ int main(int argc, char* argv[]) {
 
         // Parent: collect results
         for (int i = 0; i < k; i++) {
-            close(pipes[i][1]); // close write end
-            float part;
-            read(pipes[i][0], &part, sizeof(float));
+            close(pipes[i][1]);
+            double part;
+            read(pipes[i][0], &part, sizeof(double));
             close(pipes[i][0]);
             total += part;
         }
@@ -69,7 +69,7 @@ int main(int argc, char* argv[]) {
             wait(NULL);
         }
 
-        float end_time = get_time_ms();
+        double end_time = get_time_ms();
         printf("k = %d, wynik = %.10f, czas = %.2f ms\n", k, total, end_time - start_time);
     }
 
