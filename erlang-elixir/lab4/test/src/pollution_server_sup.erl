@@ -1,9 +1,9 @@
 %%%-------------------------------------------------------------------
-%% @doc test top level supervisor.
+%% @doc pollution_server top level supervisor.
 %% @end
 %%%-------------------------------------------------------------------
 
--module(test_sup).
+-module(pollution_server_sup).
 
 -behaviour(supervisor).
 
@@ -25,18 +25,17 @@ start_link() ->
 %%                  shutdown => shutdown(), % optional
 %%                  type => worker(),       % optional
 %%                  modules => modules()}   % optional
-init([]) ->
-    SupFlags = #{
-        strategy => one_for_all,
-        intensity => 2,
-        period => 2
-    },
-    ChildSpecs = [
-        #{
-            id => child_id,
-            start => {poll, start_link, []}
-        }
-    ],
-    {ok, {SupFlags, ChildSpecs}}.
+init(_Val) ->
+    SupFlags = #{strategy => one_for_one,
+                 intensity => 5,
+                 period => 1},
+    ChildSpec = #{id => pollution_gen_server,
+                  start => {pollution_gen_server, start_link, []},
+%%                  restart => temporary,
+                  restart => permanent,
+                  shutdown => 2000,
+                  type => worker,
+                  modules => [pollution_gen_server]},
+    {ok, {SupFlags, [ChildSpec]}}.
 
 %% internal functions

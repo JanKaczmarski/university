@@ -12,16 +12,19 @@ enum Color {
 
 #[derive(Debug)]
 enum Chessman {
-    Pawn,
-    Knight,
-    Bishop,
-    Rook,
-    Queen,
-    King,
+    Pawn { position: Position, color: Color },
+    Knight { position: Position, color: Color },
+    Bishop { position: Position, color: Color },
+    Rook { position: Position, color: Color },
+    Queen { position: Position, color: Color },
+    King { position: Position, color: Color },
 }
 
-impl Chessman {}
-
 fn main() {
-    println!("Hello, world!");
+    let pawn = Chessman::Pawn {
+        position: Position { x: 0, y: 1 },
+        color: Color::White,
+    };
+
+    println!("{:?}", pawn);
 }

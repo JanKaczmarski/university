@@ -27,7 +27,6 @@ void handle_notification(int sig) {
 }
 
 int main() {
-    // 1. Tworzymy unikalną nazwę dla klienta
     pid_t pid = getpid();
     snprintf(client_queue_name, sizeof(client_queue_name), "/client_%d", pid);
 
@@ -44,26 +43,23 @@ int main() {
         exit(1);
     }
 
-    // 2. Otwieramy kolejkę serwera
     mqd_t server_qd = mq_open(SERVER_QUEUE, O_WRONLY);
     if (server_qd == -1) {
         perror("mq_open server");
         exit(1);
     }
 
-    // 3. Wysyłamy INIT do serwera
     char init_msg[MAX_MSG_SIZE];
     snprintf(init_msg, sizeof(init_msg), "INIT|%s", client_queue_name);
     mq_send(server_qd, init_msg, strlen(init_msg) + 1, 1);
 
-    // 4. Tymczasowo otwieramy naszą kolejkę jako READ/WRITE by odebrać ID
     mqd_t client_rw_qd = mq_open(client_queue_name, O_RDWR);
     char buffer[MAX_MSG_SIZE];
     mq_receive(client_rw_qd, buffer, MAX_MSG_SIZE, NULL);
     int client_id = atoi(buffer);
     printf("Assigned client ID: %d\n", client_id);
 
-    // 5. Rozdzielenie na procesy
+    // Rozdzielenie na procesy
     pid_t child = fork();
     if (child == 0) {
         // Dziecko: odbieranie wiadomości
@@ -78,7 +74,7 @@ int main() {
         sev.sigev_signo = SIGUSR1;
         mq_notify(client_qd, &sev);
 
-        while (1) pause();  // czekamy na SIGUSR1
+        while (1) pause();
 
     } else {
         char input[256];
@@ -95,10 +91,5 @@ int main() {
             }
         }
     }
-
-    // Posprzątaj (w praktyce raczej nigdy się nie wykona)
-    mq_close(server_qd);
-    mq_close(client_qd);
-    mq_unlink(client_queue_name);
     return 0;
 }
