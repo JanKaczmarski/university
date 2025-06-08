@@ -1,0 +1,22 @@
+1. Konwersja z IPv4 z formy tekstowej na `struct in_addr` i z `struct in_addr` na tekst
+A. Dla IPv4
+- Z tekstu na in_addr
+int inet_aton(const char *cp, struct in_addr *inp)
+
+- Z in_addr na tekst
+char *inet_ntoa(struct in_addr in)
+
+B. Dla dowolnej rodziny adresow
+- Z tekstu na strukture
+int inet_pton(int af, const char *src, void *dst)
+
+- Ze struktury na tekst
+const char *inet_ntop(int af, const void *src, char *dst, socklen_t size)
+
+2. zmienia hostname/adres ip na odpowiednia strukture danych
+getaddrinfo(...)
+
+3. Wez nazwe lokalnego komputera
+gethostname
+
+
