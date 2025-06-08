@@ -1,0 +1,11 @@
+
+// copile with dependecies
+mix deps.get
+
+mix deps.compile
+
+mix compile
+
+:observer.start
+
+
