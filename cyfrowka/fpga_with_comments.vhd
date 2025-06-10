@@ -49,7 +49,7 @@ architecture Behavioral of menu_selector is
     -- TODO: zmien to_unsigned(3, 20) na to_unsigned(DUZA_WARTOSC, 20), np. 500000 dla zegara 50MHz i debounce 10ms.
     -- W symulacji EDA Playground zegar jest "szybki" w stosunku do krokow czasowych symulacji,
     -- wiec mala wartosc (3) jest wystarczajaca do testow. W realnym ukladzie FPGA musi byc znacznie wieksza.
-    constant DEBOUNCE_TIME : unsigned(19 downto 0) := to_unsigned(3, 20); -- skrocony do testow
+    constant DEBOUNCE_TIME : unsigned(19 downto 0) := to_unsigned(250000, 20); -- ok. 10 ms dla 25 MHz
 
     -- Funkcja konwertujaca 4-bitowa liczbe bez znaku (0-9) na 7-bitowy wektor
     -- sterujacy wyswietlaczem 7-segmentowym.
