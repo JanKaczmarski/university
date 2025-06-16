@@ -264,7 +264,8 @@ int main(int argc, char *argv[])
                 }
             }
             pthread_mutex_unlock(&clients_mutex);
-            continue; // Don't process the name as a command
+            // Don't process the name as a command
+            continue;
         }
 
         // Handle message from registered client

@@ -57,7 +57,7 @@ void *recv_handler(void *arg)
         else if (len > 0)
         {
             buffer[len] = '\0';
-            printf("%s", buffer); fflush(stdout);
+            printf("%s\n", buffer); fflush(stdout);
         }
     }
     return NULL;
