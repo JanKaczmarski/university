@@ -1,0 +1,5 @@
+To będzie na kartkówce
+1. List comprehension
+2. Rekurencja na listach - podpunkty 6 i 7 w cwiczeniach
+-> Skupia sie na jednym temacie głównie, więc pewnie będzie gro 
+punktów z rekurencji i list comprehension. Pewnie będzie jedno zadnaie na z partially applied functions

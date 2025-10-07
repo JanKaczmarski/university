@@ -27,7 +27,8 @@ cucumber-report.json
 **/.vscode-test/**
 **/.vscode test/**
 **/.vscode-smoke/**
-**/*venv*/
+**/.venv*/
+**/venv*/
 port.txt
 precommit.hook
 python_files/lib/**
@@ -69,7 +70,6 @@ l10n/
 */bin
 */archive
 
-
 # Rust
 **/debug/
 **/target/
@@ -78,3 +78,9 @@ l10n/
 **/bin
 **/operating_systems/lib
 **/operating_systems/build
+__pycache__
+train/
+.idea/
+dist/
+*.egg-info
+**/.ipynb_checkpoints/
