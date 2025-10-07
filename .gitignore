@@ -57,6 +57,10 @@ dist/**
 package.nls.*.json
 l10n/
 
+# PNG files, and other images
+**/*.png**
+**/*.gif**
+
 # Local file structure
 */notes.txt
 */wyklad
@@ -66,6 +70,14 @@ l10n/
 */bin
 */archive
 
+# Rust
+**/debug/
+**/target/
+
+# Clang - Operating Systems
+**/bin
+**/operating_systems/lib
+**/operating_systems/build
 __pycache__
 train/
 .idea/

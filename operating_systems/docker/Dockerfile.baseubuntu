@@ -1,0 +1,41 @@
+FROM ubuntu:22.04
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+RUN apt-get update && \
+    apt-get install -y tzdata net-tools  vim man file build-essential \
+    curl \
+    wget \
+    git \
+    unzip \
+    software-properties-common \
+    locales \
+    ca-certificates \
+    libtool \
+    libtool-bin \
+    autoconf \
+    automake \
+    cmake \
+    g++ \
+    pkg-config \
+    unzip \
+    ninja-build \
+    gettext \
+    build-essential
+
+RUN wget https://github.com/neovim/neovim/releases/download/v0.11.1/nvim-linux-arm64.tar.gz && \
+    tar xzvf nvim-linux-arm64.tar.gz && \
+    mv  nvim-linux-arm64 /opt/nvim && \
+    ln -s /opt/nvim/bin/nvim /usr/local/bin/nvim && \
+    rm nvim-linux-arm64.tar.gz
+
+RUN apt-get install -y clangd-12
+RUN update-alternatives --install /usr/bin/clangd clangd /usr/bin/clangd-12 100
+
+RUN nvim --version
+
+RUN yes | unminimize
+
+WORKDIR /root 
+
+COPY nvim /root/.config/nvim
