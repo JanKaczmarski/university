@@ -17,6 +17,7 @@ server: server.c
 
 clean:
 	rm -f client server
+	rm -rf *dSYM
 
 # Odpala serwer w aktualnym oknie (widzisz wszystkie logi)
 runServer: server
