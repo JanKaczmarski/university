@@ -1,0 +1,47 @@
+meta {
+  name: GET /api/trending/github returns only github repos
+  type: http
+  seq: 4
+}
+
+get {
+  url: {{base_url}}/api/trending/github?limit=3&days=7
+  body: none
+  auth: none
+}
+
+headers {
+  X-API-Key: {{api_key}}
+}
+
+tests {
+  test("status is 200", function() {
+    expect(res.status).to.equal(200);
+  });
+
+  test("github repos have platform set to github", function() {
+    var repos = res.body.github.repos;
+    repos.forEach(function(repo) {
+      expect(repo.platform).to.equal("github");
+    });
+  });
+
+  test("gitlab repos list is empty", function() {
+    expect(res.body.gitlab.repos).to.be.an("array");
+    expect(res.body.gitlab.repos.length).to.equal(0);
+  });
+
+  test("each repo has required fields", function() {
+    var repos = res.body.github.repos;
+    repos.forEach(function(repo) {
+      expect(repo).to.have.property("name");
+      expect(repo).to.have.property("url");
+      expect(repo).to.have.property("stars");
+    });
+  });
+
+  test("query params are reflected in response", function() {
+    expect(res.body.query.limit).to.equal(3);
+    expect(res.body.query.days).to.equal(7);
+  });
+}

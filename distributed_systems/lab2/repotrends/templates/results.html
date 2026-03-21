@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <title>RepoTrends – results</title>
+  <style>
+    body { font-family: sans-serif; max-width: 960px; margin: 2rem auto; padding: 0 1rem; }
+    table { border-collapse: collapse; width: 100%; margin-top: .5rem; }
+    th, td { border: 1px solid #ccc; padding: .3rem .5rem; text-align: left; font-size: .9rem; }
+    th { background: #f0f0f0; }
+  </style>
+</head>
+<body>
+
+<h1>RepoTrends – results</h1>
+<p>
+  Language: <b>{{ query.language_filter }}</b> |
+  Last <b>{{ query.days }}</b> days |
+  Up to <b>{{ query.limit }}</b> repos per platform
+</p>
+
+<h2>Statistics</h2>
+<table>
+  <tr><th></th><th>Repos</th><th>Stars avg</th><th>Stars max</th><th>Stars min</th><th>Forks avg</th></tr>
+  <tr>
+    <td>GitHub</td>
+    <td>{{ github.stats.count }}</td>
+    <td>{{ github.stats.stars_avg }}</td>
+    <td>{{ github.stats.stars_max }}</td>
+    <td>{{ github.stats.stars_min }}</td>
+    <td>{{ github.stats.forks_avg }}</td>
+  </tr>
+  <tr>
+    <td>GitLab</td>
+    <td>{{ gitlab.stats.count }}</td>
+    <td>{{ gitlab.stats.stars_avg }}</td>
+    <td>{{ gitlab.stats.stars_max }}</td>
+    <td>{{ gitlab.stats.stars_min }}</td>
+    <td>{{ gitlab.stats.forks_avg }}</td>
+  </tr>
+  <tr>
+    <td><b>Combined</b></td>
+    <td>{{ combined.stats.count }}</td>
+    <td>{{ combined.stats.stars_avg }}</td>
+    <td>{{ combined.stats.stars_max }}</td>
+    <td>{{ combined.stats.stars_min }}</td>
+    <td>{{ combined.stats.forks_avg }}</td>
+  </tr>
+</table>
+
+<h2>Top repositories</h2>
+<table>
+  <tr>
+    <th>Repo</th><th>Platform</th><th>Language</th><th>Category</th>
+    <th>Stars</th><th>Forks</th><th>Description</th><th>Topics</th>
+  </tr>
+  {% for r in combined.top_repos %}
+  <tr>
+    <td><a href="{{ r.url }}" target="_blank">{{ r.full_name }}</a></td>
+    <td>{{ r.platform }}</td>
+    <td>{{ r.language }}</td>
+    <td>{{ r.category }}</td>
+    <td>{{ r.stars }}</td>
+    <td>{{ r.forks }}</td>
+    <td>{{ r.description }}</td>
+    <td>{{ r.topics | join(', ') }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+<h2>Language distribution</h2>
+<table>
+  <tr><th>Language</th><th>Count</th></tr>
+  {% for l in combined.language_distribution %}
+  <tr><td>{{ l.language }}</td><td>{{ l.count }}</td></tr>
+  {% endfor %}
+</table>
+
+<h2>Category breakdown</h2>
+<table>
+  <tr><th>Category</th><th>Count</th></tr>
+  {% for c in combined.category_distribution %}
+  <tr><td>{{ c.category }}</td><td>{{ c.count }}</td></tr>
+  {% endfor %}
+</table>
+
+<h2>Cross-platform</h2>
+<p>
+  Repos with same name on both platforms: <b>{{ cross_platform.overlap_count }}</b><br>
+  Only on GitHub: <b>{{ cross_platform.only_on_github | length }}</b> |
+  Only on GitLab: <b>{{ cross_platform.only_on_gitlab | length }}</b>
+</p>
+
+<p><a href="/">&#8592; Back to search</a></p>
+
+</body>
+</html>

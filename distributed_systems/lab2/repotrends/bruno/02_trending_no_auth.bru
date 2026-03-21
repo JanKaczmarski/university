@@ -1,0 +1,21 @@
+meta {
+  name: GET /api/trending without auth returns 401
+  type: http
+  seq: 2
+}
+
+get {
+  url: {{base_url}}/api/trending
+  body: none
+  auth: none
+}
+
+tests {
+  test("status is 401 when no API key provided", function() {
+    expect(res.status).to.equal(401);
+  });
+
+  test("response body contains detail field", function() {
+    expect(res.body).to.have.property("detail");
+  });
+}

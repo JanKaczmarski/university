@@ -1,0 +1,44 @@
+meta {
+  name: GET /api/trending returns correct response structure
+  type: http
+  seq: 3
+}
+
+get {
+  url: {{base_url}}/api/trending?limit=5&days=30
+  body: none
+  auth: none
+}
+
+headers {
+  X-API-Key: {{api_key}}
+}
+
+tests {
+  test("status is 200", function() {
+    expect(res.status).to.equal(200);
+  });
+
+  test("response has query object", function() {
+    expect(res.body).to.have.property("query");
+    expect(res.body.query).to.have.property("days");
+    expect(res.body.query).to.have.property("limit");
+  });
+
+  test("response has github and gitlab sections", function() {
+    expect(res.body).to.have.property("github");
+    expect(res.body).to.have.property("gitlab");
+  });
+
+  test("github section has repos array and stats", function() {
+    expect(res.body.github).to.have.property("repos");
+    expect(res.body.github).to.have.property("stats");
+    expect(res.body.github.repos).to.be.an("array");
+  });
+
+  test("response has combined section with top_repos", function() {
+    expect(res.body).to.have.property("combined");
+    expect(res.body.combined).to.have.property("top_repos");
+    expect(res.body.combined).to.have.property("stats");
+  });
+}

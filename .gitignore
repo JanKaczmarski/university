@@ -60,6 +60,7 @@ l10n/
 # PNG files, and other images
 **/*.png**
 **/*.gif**
+**/*.zip**
 
 # Local file structure
 */notes.txt
