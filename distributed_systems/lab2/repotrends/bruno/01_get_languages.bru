@@ -1,0 +1,30 @@
+meta {
+  name: GET /api/languages returns language list
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{base_url}}/api/languages
+  body: none
+  auth: none
+}
+
+tests {
+  test("status is 200", function() {
+    expect(res.status).to.equal(200);
+  });
+
+  test("response has languages array", function() {
+    expect(res.body).to.have.property("languages");
+    expect(res.body.languages).to.be.an("array");
+  });
+
+  test("languages array is not empty", function() {
+    expect(res.body.languages.length).to.be.greaterThan(0);
+  });
+
+  test("languages contains Python", function() {
+    expect(res.body.languages).to.include("Python");
+  });
+}

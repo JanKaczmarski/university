@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <title>RepoTrends</title>
+  <style>
+    body { font-family: sans-serif; max-width: 600px; margin: 2rem auto; padding: 0 1rem; }
+    label { display: block; margin-top: .6rem; }
+    input, select { width: 100%; padding: .3rem; margin-top: .2rem; box-sizing: border-box; }
+    button { margin-top: 1rem; padding: .4rem 1.2rem; }
+  </style>
+</head>
+<body>
+
+<h1>RepoTrends</h1>
+<p>Trending repositories from GitHub and GitLab.</p>
+
+<form action="/search" method="get">
+
+  <label>API Key
+    <input type="password" name="api_key" required />
+  </label>
+
+  <label>Language (optional)
+    <input type="text" name="language" maxlength="30" placeholder="e.g. Python, Rust, Go" />
+  </label>
+
+  <label>Look-back window
+    <select name="days">
+      <option value="7">Last 7 days</option>
+      <option value="30" selected>Last 30 days</option>
+      <option value="90">Last 90 days</option>
+      <option value="365">Last 365 days</option>
+    </select>
+  </label>
+
+  <label>Results per platform
+    <select name="limit">
+      <option value="5">5</option>
+      <option value="10" selected>10</option>
+      <option value="20">20</option>
+      <option value="50">50</option>
+    </select>
+  </label>
+
+  <button type="submit">Search</button>
+</form>
+
+</body>
+</html>

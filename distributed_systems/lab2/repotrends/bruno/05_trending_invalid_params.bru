@@ -1,0 +1,25 @@
+meta {
+  name: GET /api/trending with invalid params returns 422
+  type: http
+  seq: 5
+}
+
+get {
+  url: {{base_url}}/api/trending?days=999&limit=999
+  body: none
+  auth: none
+}
+
+headers {
+  X-API-Key: {{api_key}}
+}
+
+tests {
+  test("status is 422 for out-of-range parameters", function() {
+    expect(res.status).to.equal(422);
+  });
+
+  test("response body contains validation detail", function() {
+    expect(res.body).to.have.property("detail");
+  });
+}
