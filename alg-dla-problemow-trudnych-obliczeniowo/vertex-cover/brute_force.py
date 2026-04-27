@@ -1,6 +1,7 @@
 import threading
 import time
 from itertools import combinations
+from typing import List, Optional
 
 from dimacs import *
 
@@ -19,7 +20,7 @@ GRAPHS = [
 ]
 
 
-def brute_vertex_cover(graph_name: str):
+def brute_vertex_cover(graph_name: str) -> Optional[List[int]]:
     graph = loadGraph(graph_name)
     v = len(graph)
     for k in range(v):
@@ -33,7 +34,8 @@ def brute_vertex_cover(graph_name: str):
                         valid = False
                         break
             if valid:
-                return comb
+                return list(comb)
+    return None
 
 
 def solve_with_timeout(graph_name: str):
@@ -67,10 +69,10 @@ if __name__ == "__main__":
 
         if result is None:
             status = f"TIMEOUT ({elapsed:.1f}s)"
-        elif not isVC(E, set(result)):
+        elif not isVC(E, result):
             status = f"INVALID ({elapsed:.2f}s)"
         else:
-            saveSolution(sol_path, set(result))
+            saveSolution(sol_path, result)
             status = f"|VC|={len(result)}  ({elapsed:.2f}s)  -> saved"
 
         print(f"{name:<12} {V:>5} {len(E):>7}  {status}")
