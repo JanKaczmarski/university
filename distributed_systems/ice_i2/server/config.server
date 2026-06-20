@@ -1,0 +1,2 @@
+CounterAdapter.Endpoints=tcp -h 0.0.0.0 -p 10000
+Ice.StdErr=

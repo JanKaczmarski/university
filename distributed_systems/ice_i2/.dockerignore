@@ -1,0 +1,9 @@
+build/
+generated/
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.idea/
+.git/
+.DS_Store
