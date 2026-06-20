@@ -1,5 +1,0 @@
-build/
-memcheck
-*.o
-*.dSYM/
-.DS_Store
