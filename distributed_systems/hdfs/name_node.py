@@ -5,6 +5,9 @@ from typing import Dict, List, Optional
 
 import ray
 
+# TODO: Add functionality when chaning a single chunk we don't udpate the whole
+# artefact but only the chunks affected
+
 BLOCK_SIZE = 64
 REPLICATION_FACTOR = 3
 HEARTBEAT_INTERVAL = 5  # seconds

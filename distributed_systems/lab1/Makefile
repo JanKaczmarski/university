@@ -3,7 +3,7 @@ CFLAGS = -Wall -Wextra -g
 LDFLAGS = -pthread
 
 # Zmienne ze wsparciem dla zmiennych środowiskowych (env)
-PORT ?= 8080
+PORT ?= 8000
 IP ?= 127.0.0.1
 NICK ?= Gosc
 
