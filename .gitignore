@@ -85,3 +85,5 @@ train/
 dist/
 *.egg-info
 **/.ipynb_checkpoints/
+
+**/apache-zookeeper-3.8.4-bin*/*
